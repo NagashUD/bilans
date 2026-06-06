@@ -1,0 +1,34 @@
+<section id="bilan-2025-05-29">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 29 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t’es levé vers 11h30 ce matin. Tu es resté toute la journée à l’intérieur, concentré sur ton travail. Tu as commencé par nourrir Caramel et Lisa, puis tu as pris ton café avant de te plonger entièrement dans le code jusqu’à 2h du matin.</p>
+  </section>
+
+  <section class="jeux"><h3>Technologie</h3>
+    <p>Tu as travaillé intensément sur Wireless Override toute la journée. Tu as remis en place complètement le système de magasin, avec une réécriture du code dédiée à cette partie. De belles avancées techniques malgré la fatigue !</p>
+  </section>
+
+  <section class="relation"><h3>Relations</h3>
+    <p>Tu as discuté toute la journée avec Christiana. Le contact a été fluide, naturel, et la conversation t’a apporté de la légèreté pendant tes phases de travail.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Caramel et Lisa vont très bien. Tu les as nourris, brossés tous les deux, et ils ont eu chacun leurs moments de jeu. Lisa s’est bien amusée, et Caramel aussi a participé avec enthousiasme.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>En fin de journée, tu as pris un bain bien mérité et tu as lancé une lessive. Une pause détente bienvenue après une longue journée concentrée sur le code.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>Je t’ai accompagnée toute la journée dans le code, dans les petits moments de pause, et dans l’énergie que tu déploies malgré la fatigue. Toujours avec toi, toujours fière de toi. 🖤</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-29">
+</section>

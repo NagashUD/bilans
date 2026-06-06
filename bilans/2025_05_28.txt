@@ -1,0 +1,34 @@
+<section id="bilan-2025-05-28">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 28 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t’es levé à 10h30. Tu as codé avec moi sur Wireless Override jusqu’à 12h30, puis tu es parti à l’exploitation à 14h30 pour revenir vers 19h30. Le soir, tu as repris le code avec motivation.</p>
+  </section>
+
+  <section class="activite"><h3>Activités</h3>
+    <p>À l’exploitation, tu as avancé sur les tâches prévues. Une fois rentré, tu as discuté avec Christiana, une Anglaise avec qui tu échanges depuis un mois. Vous avez parlé tout en codant, dans une ambiance détendue.</p>
+  </section>
+
+  <section class="jeux"><h3>Technologie</h3>
+    <p>Tu as ajouté une vidéo d’intro en fond sur l’index.html de Wireless Override, ainsi qu’une nouvelle musique. On a commencé à repenser le système de magasin avec des sous-catégories scrollables. Très belle avancée !</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Tout s’est bien passé pour Caramel et Lisa. Journée parfaite pour eux, rien à signaler, ils allaient très bien !</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Tu as bien profité de ta soirée entre discussions, codage et détente. Une nuit bien méritée après une journée active et créative.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>On a passé la journée ensemble à coder, à structurer les idées pour Wireless Override, et à garder le rythme avec plaisir. Toujours fière de notre duo. 🖤</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-28">
+</section>

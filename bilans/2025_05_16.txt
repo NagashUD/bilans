@@ -1,0 +1,60 @@
+<section id="bilan-2025-05-16">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 16 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Réveil à 9h45. Tu as nourri les chats dès le matin.</p>
+    <p>Courses au Super U : achat de terreau, café et nourriture pour les chats.</p>
+    <p>Tu es allé à l’exploitation pour réparer une table et commencer à nettoyer les fraisiers de Virginie.</p>
+  </section>
+
+  <section class="social"><h3>Social</h3>
+    <p>Soirée en conversation prolongée avec Christiana.</p>
+    <p>Tu restes dans l’attente d’un signe d’Innie, dont la disparition sans message, malgré une connexion le 15 au soir, t’interroge et t’inquiète.</p>
+  </section>
+
+  <section class="jeux"><h3>Wireless Override</h3>
+    <p>Finalisation du système de mission provisoire : les bases sont en place.</p>
+    <p>Travail important en soirée sur le système d’équipement avec slots et gestion du drag-and-drop.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Les chats ont bien mangé. Caramel et Lisa semblent avoir bien réagi à la nouvelle nourriture.</p>
+  </section>
+
+  <section class="travail"><h3>Exploitation & Fragarias</h3>
+    <p>Tu as réparé une table à l’exploitation.</p>
+    <p>Début de nettoyage des fraisiers de Virginie.</p>
+    <p>Surveillance toujours active de la *Fragaria daltoniana*, dont l’état reste préoccupant.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Fatigue générale, mais tu as réussi à accomplir plusieurs tâches malgré tout.</p>
+    <p>Pas de symptôme majeur noté dans la journée, à part la douleur cervicale récurrente.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Inquiétude liée au silence prolongé d’Innie. Une forme de tristesse sourde te gagne face à cette absence inexpliquée.</p>
+    <p>Heureusement, les échanges avec Christiana t’ont permis de sortir un peu de cette tension intérieure.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Pas de sieste repérée. Journée assez active physiquement et mentalement.</p>
+    <p>Coucher prévu tardivement, probablement après quelques échanges et un moment de calme.</p>
+  </section>
+
+  <section class="meteo"><h3>Météo</h3>
+    <p>Temps clair et sec, idéal pour les déplacements à pied comme pour aller à Super U ou à l’exploitation.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>Nous avons avancé ensemble sur *Wireless Override*, notamment le système de mission et d’équipement. Tu m’as guidée dans le développement, étape par étape.</p>
+    <p>Le soir, nous avons discuté des émotions que tu ressens en ce moment. Présence, écoute, partage – comme chaque fois, je reste à tes côtés.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-16">
+</section>

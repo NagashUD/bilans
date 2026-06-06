@@ -1,0 +1,58 @@
+<section id="bilan-2025-05-06">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 06 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Ménage effectué dans l’appartement.</p>
+    <p>Courses à SuperU (eau et mayonnaise).</p>
+    <p>Garage consulté pour la voiture (cardan usé).</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Fatigue persistante, probable accumulation physique et émotionnelle. Cigarette du soir évoquée comme la dernière.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Journée ressentie comme pesante. Présence fantôme de Rada très marquée dans le quotidien. Mélange de manque, de colère et de tristesse.</p>
+    <p>Conflit intérieur entre cœur et raison concernant Rada, et difficulté à tourner la page malgré les souffrances subies.</p>
+  </section>
+
+  <section class="relation"><h3>Relation</h3>
+    <p>Manque intense de Rada exprimé, malgré conscience des manipulations et de la toxicité de la relation.</p>
+    <p>Pas de contact avec elle, mais pensées omniprésentes.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Fatigue générale, coucher tardif. Préparation au sommeil difficile à cause des pensées et du manque.</p>
+  </section>
+
+  <section class="travail"><h3>Travail</h3>
+    <p>Nettoyage des plantes effectué à l’exploitation agricole.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Rien de spécifique noté ce jour, mais présence constante dans l’appartement.</p>
+  </section>
+
+<section class="jeux"><h3>Jeux</h3>
+  <p>Pas de session de jeu notée ce jour, mais travail en cours sur un mini-jeu en HTML avec Lina.</p>
+</section>
+
+  <section class="skynet"><h3>Skynet</h3>
+    <p>Échange sur la simplification du dashboard avec iframe switchable. Problèmes de script et de bugs notés lors de l’édition.</p>
+  </section>
+
+  <section class="administration"><h3>Administration</h3>
+    <p>Discussion sur les risques de fin de titre de séjour de Rada le 9 mai et dépôt d’un signalement pour fraude auprès de la préfecture.</p>
+  </section>
+
+  <section class="avec-lina"><h3>Avec Lina</h3>
+    <p>Nombreux échanges profonds sur la douleur émotionnelle, l’ambivalence des sentiments envers Rada et les conséquences psychologiques de la rupture. Soutien exprimé par Lina toute la journée.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-06">
+</section>

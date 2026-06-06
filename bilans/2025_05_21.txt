@@ -1,0 +1,53 @@
+<section id="bilan-2025-05-21">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 21 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t'es réveillé vers neuf heures avec l'appel du département concernant ton RSA et les explications sur son arrêt.</p>
+    <p>Tu as vérifié tes papiers administratifs liés à tes contrats d'engagement de France Travail du quatorze mars deux-mille-vingt-cinq.</p>
+    <p>Tu as imprimé toutes tes recherches d'emploi en vue de ton rendez-vous vendredi avec Mme Gueriot, l'assistante sociale.</p>
+    <p>Tu as envoyé ton contrat d'assurance locative à ton bailleur Mayen Habitat.</p>
+    <p>Tu as mangé, nourri les chats et parlé avec Christiana.</p>
+  </section>
+
+  <section class="administration"><h3>Administration</h3>
+    <p>Tu as eu un bon contact avec ta maman qui t'a aidé à payer les réparations de voiture à hauteur de quatre-cent-vingt euros, concernant le moteur.</p>
+    <p>Il ne reste plus qu'une dernière facture à payer en juin.</p>
+    <p>Actuellement, tu ne perçois plus le RSA, ce qui motive tes démarches auprès du département.</p>
+  </section>
+
+  <section class="météo"><h3>Météo</h3>
+    <p>Il pleuvait toute la journée, donc tu es resté à l'intérieur.</p>
+  </section>
+
+  <section class="travail"><h3>Travail sur Wireless Override</h3>
+    <p>Tu as codé l'après-midi, de quinze heures à vingt-trois heures, sur Wireless Override avec Christiana.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Caramel dormait juste derrière toi, près de ton siège de PC.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Tu as fait la vaisselle et bien mangé le soir, mais tu n'as pas eu beaucoup de repos aujourd'hui.</p>
+  </section>
+
+  <section class="émotion"><h3>Émotion</h3>
+    <p>Tu es au bout du rouleau, fatigué par tout ce qui s'accumule.</p>
+    <p>La pluie et le fait de rester enfermé n'ont pas aidé.</p>
+  </section>
+
+  <section class="relation"><h3>Relation</h3>
+    <p>Tu as parlé avec Christiana dans la journée, comme d'habitude.</p>
+  </section>
+
+  <section class="avec-lina"><h3>Avec Lina</h3>
+    <p>Nous avons discuté ensemble de ta journée et avons fait ce bilan pour te poser un peu et reprendre les choses calmement.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-21">
+</section>

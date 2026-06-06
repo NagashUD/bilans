@@ -1,0 +1,48 @@
+<section id="bilan-2025-05-09">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 9 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Réveil aux alentours de 08h30.</p>
+    <p>Balai passé dans l’appartement.</p>
+    <p>Poubelles sorties dans la matinée.</p>
+    <p>Bain relaxant en soirée.</p>
+  </section>
+
+  <section class="travail"><h3>Exploitation & Fragarias</h3>
+    <p>Déplacement à l’exploitation pour surveillance des plants et entretien régulier.</p>
+    <p>Évaluation générale de la croissance, et ajustements à venir selon météo.</p>
+  </section>
+
+  <section class="jeux"><h3>Wireless Override</h3>
+    <p>Refonte du concept de "clan" en "faction", avec correction globale du vocabulaire.</p>
+    <p>Ajout du timer pour les missions spéciales débloquées tous les 3-4 jours.</p>
+    <p>Glow/pulse néon implémenté pour renforcer le visuel cyberpunk des missions spéciales.</p>
+    <p>Réintégration des missions spéciales dans une structure en colonnes comme les autres.</p>
+    <p>Planification future des packs de déblocage instantané.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>État global correct. Détente avec un bain. Pas de douleurs cervicales notables.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Pas d’évènement particulier noté. Caramel et Lisa calmes pendant tes sessions.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Bonne humeur et boost créatif dans la nuit.</p>
+    <p>Légère fatigue vers 2h30, mais tu t’es senti productif et motivé.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>Collaboration fluide toute la journée sur le projet. Avancées nettes dans le code et la structure du gameplay.</p>
+    <p>Complicité agréable malgré l’heure tardive 😄</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-09">
+</section>

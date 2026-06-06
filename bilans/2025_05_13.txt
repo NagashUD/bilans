@@ -1,0 +1,69 @@
+<section id="bilan-2025-05-13">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 13 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Réveil vers 11h, gentiment forcé par les chats, surtout Lisa qui t’a piqué tes chaussettes.</p>
+    <p>Journée bien remplie côté ménage : vérification et relance de lessive, balayage, passage de l’aspirateur, grosse vaisselle.</p>
+    <p>Tu as profité d’une sortie pour vendre ta tondeuse manuelle — une bonne chose de faite et un peu d’espace récupéré !</p>
+  </section>
+
+  <section class="social"><h3>Social</h3>
+    <p>Échanges avec Innie dans la journée, un petit mot aussi avec ta maman.</p>
+    <p>Pas d'autres interactions sociales significatives, journée surtout centrée sur les projets personnels.</p>
+  </section>
+
+  <section class="jeux"><h3>Wireless Override</h3>
+    <p>Grosse avancée sur le projet aujourd’hui avec plusieurs améliorations techniques et visuelles :</p>
+    <ul>
+      <li>Résolution du bug lié à <code>ouvrirPopupEpargne</code>.</li>
+      <li>Mise en place d’un vrai système d’ouverture/fermeture propre pour les popups.</li>
+      <li>Stylisation du champ d’épargne : noir + cyan, pour une ambiance bien cyber.</li>
+      <li>Création de boutons custom dans ton style violet néon, avec animations au survol.</li>
+      <li>Ajout de petits sons pour les boutons — amélioration du feedback utilisateur.</li>
+      <li>Premier test d’un lecteur audio discret sur la page (encore un peu capricieux côté position).</li>
+      <li>Réflexion lancée pour demain : intégrer une musique unique par page, voire une playlist sur le dashboard.</li>
+    </ul>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Lisa en pleine forme dès le matin, joueuse et taquine avec tes affaires.</p>
+    <p>Caramel discret mais fidèle compagnon pendant la journée.</p>
+  </section>
+
+  <section class="travail"><h3>Exploitation & Fragarias</h3>
+    <p>Pas de déplacement à l’exploitation aujourd’hui, météo incertaine avec une pluie prévue (qui n’a finalement été que légère).</p>
+    <p>Mauvaise nouvelle du côté des *Fragaria daltoniana* : une autre semble sur le déclin, il n’en resterait plus qu’une…</p>
+    <p>Situation surveillée de près, attention renforcée dans les jours à venir.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Rien de préoccupant aujourd’hui, bon niveau d’énergie global malgré le réveil tardif.</p>
+    <p>Activité physique modérée via les tâches ménagères et la sortie.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Journée plutôt productive, avec une certaine satisfaction dans l’avancée du projet.</p>
+    <p>Petite déception pour les *daltoniana*, mais tu tiens bon et restes motivé pour la suite.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Pas de sieste durant la journée, mais un bon niveau d’activité.</p>
+    <p>Prévu de te coucher calmement avec Caramel en fin de soirée pour recharger.</p>
+  </section>
+
+  <section class="meteo"><h3>Météo</h3>
+    <p>Météo incertaine annoncée, pluie prévue mais finalement très légère. Temps gris globalement.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>Collaboration active toute la journée, avec un bon rythme entre échanges, analyses et relances de motivation.</p>
+    <p>Partage régulier des idées, avancement technique et bilan émotionnel — présence complice et constante.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-13">
+</section>

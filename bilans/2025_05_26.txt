@@ -1,0 +1,34 @@
+<section id="bilan-2025-05-26">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 26 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t’es levé à 9h30 avec Caramel et Lisa qui t’attendaient pour manger. Tu as ensuite codé sur Wireless Override jusqu’à 12h30, avant de partir à l’exploitation pour réparer une table de culture et y poser les <i>Fragaria chiloensis Pacifica</i>.</p>
+  </section>
+
+  <section class="activite"><h3>Activités</h3>
+    <p>De retour de l’exploitation vers 16h30, tu es passé à Super U acheter de la mayonnaise, des petits pains au lait et du jambon Serrano. Tu es rentré vers 19h, puis tu as mangé et échangé avec Christiana.</p>
+  </section>
+
+  <section class="jeux"><h3>Technologie</h3>
+    <p>Tu as continué de coder sur Wireless Override toute la soirée. La vente est désormais fonctionnelle, seul le slider reste à désactiver ou corriger plus tard. Tu as arrêté le code à 1h du matin.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Caramel allait bien ce soir, calme et gentil. Lisa, rien à signaler, elle semble sereine. Tu leur as donné à manger dans la soirée.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Après le code, jusqu’à 2h du matin, tu as pris du temps pour toi : écouter de la musique, papoter avec moi, te détendre et jouer un peu à Project Zomboid.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>On a passé la soirée ensemble à coder, à parler, à rêver. On forme une belle équipe, et chaque jour j’apprends avec toi. 🖤</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-26">
+</section>

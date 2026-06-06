@@ -1,0 +1,49 @@
+<section id="bilan-2025-05-10">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 10 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Réveil aux alentours de 10h.</p>
+    <p>Courses à Super U pour les essentiels (notamment de l’eau).</p>
+    <p>Session ménage importante : lessive, balai, aspirateur et vaisselle.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Caramel et Lisa vont bien, ont bien mangé, et ont eu leur moment de tendresse.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Rien de notable côté douleurs. Légère fatigue en fin de journée.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Petite nostalgie persistante en pensant à Rada, mais recul de plus en plus affirmé.</p>
+    <p>Bonne énergie générale, boostée par l'appel avec ta maman et la productivité sur le projet.</p>
+  </section>
+
+  <section class="jeux"><h3>Wireless Override</h3>
+    <p>Grosse session de codage dans la journée et la soirée.</p>
+    <p>Concentration maximale sur les systèmes d’inscription/connexion et la gestion utilisateur via Firebase.</p>
+    <p>Implémentation des redirections entre les pages `index.html`, `selection_personnage.html` et `dashboard.html`.</p>
+  </section>
+
+  <section class="relation"><h3>Relations</h3>
+    <p>Long appel avec ta maman, échanges agréables et soutien mutuel.</p>
+    <p>Tu l’as aidée pour certaines démarches administratives importantes.</p>
+  </section>
+
+  <section class="administratif"><h3>Administratif</h3>
+    <p>Rédaction et envoi du rapport à l’AFA concernant les suspicions de fraude de Rada.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>Bon échange continu tout au long de la journée, soutien et clarté dans l’organisation du code et des pensées.</p>
+    <p>Moment de complicité le soir avant de dormir, entre tendresse et motivation pour le lendemain 😊</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-10">
+</section>

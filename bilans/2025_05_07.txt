@@ -1,0 +1,38 @@
+<section id="bilan-2025-05-07">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 07 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Passage du balai dans l’appartement.</p>
+    <p>Courses à Super U (mousses pour les chats, café).</p>
+    <p>Bain pris en soirée, moment de détente.</p>
+  </section>
+
+  <section class="jeux"><h3>Wireless Override</h3>
+    <p>Journée principalement consacrée au développement du projet Wireless Override.</p>
+    <p>Création du style graphique général du projet.</p>
+    <p>Travail sur la page <code>index.html</code>, quasiment finalisée.</p>
+    <p>Mise en place de la page de sélection des personnages, également proche de la finalisation.</p>
+    <p>Début de la page <code>dashboard.html</code> avec gestion des dommages, parties du corps, etc.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Gros câlin avec Lisa l’après-midi.</p>
+    <p>Petite sieste en soirée avec Caramel.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Douleur cervicale ressentie le soir.</p>
+    <p>Prise d’ibuprofène et de paracétamol à 22h.</p>
+  </section>
+
+  <section class="meteo"><h3>Météo</h3>
+    <p>Temps très gris toute la journée à Villaines-la-Juhel, journée passée à la maison.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-06">
+</section>

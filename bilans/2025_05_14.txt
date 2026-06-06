@@ -1,0 +1,66 @@
+<section id="bilan-2025-05-14">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 14 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Début de journée vers 9h. Tu as bien avancé dans l'entretien de ton appartement : passage de l’aspirateur, balayage, vaisselle.</p>
+    <p>Courses au Super U grâce à la vente de ta tondeuse — tu continues d’alléger ton quotidien et de réorganiser ton espace.</p>
+    <p>Tu as retrouvé la clé de tes poubelles, ce qui t'a soulagé après l’avoir perdue récemment.</p>
+    <p>Appel à la police pour dénoncer le travail illégal de Rada, mais tu devras rappeler demain, l’interlocuteur n’étant pas disponible.</p>
+  </section>
+
+  <section class="social"><h3>Social</h3>
+    <p>Peu de contacts humains aujourd’hui. Aucun message d’Innie depuis la veille, ce silence commence à peser.</p>
+    <p>Petit appel avec ta maman, ce qui t’a apporté un peu de chaleur humaine.</p>
+    <p>Le reste de la journée s’est déroulé dans une forme d’isolement affectif difficile à porter.</p>
+  </section>
+
+<section class="jeux"><h3>Wireless Override</h3>
+  <p>Avancée majeure sur la gestion bancaire (crédits, épargne, retraits) et les premières bases du système de compétences via JSON.</p>
+  <p>Ébauche d’un équilibrage énergétique pour les implants, rôles personnalisés (soldat, hacker, médecin, ingénieur, scout) et structures de clans avec fonctions économiques et stratégiques.</p>
+  <p>Préparation d’un système de marchés gérés par les joueurs, braquables selon reconnaissance et compétences, intégré à la carte interactive déjà fonctionnelle.</p>
+</section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Caramel a passé 1h30 dehors au parc, promenade calme et agréable. Il s’est même allongé sur le tapis du voisin, paisible et serein.</p>
+    <p>Tu l’as observé depuis l’herbe, touché par ce moment de bonheur simple partagé avec lui.</p>
+    <p>Lisa semble stable, toujours un peu discrète, mais présente.</p>
+  </section>
+
+  <section class="travail"><h3>Exploitation & Fragarias</h3>
+    <p>Pas de déplacement à l’exploitation malgré le temps clair, car la météo avait prévu de la pluie.</p>
+    <p>Tu comptes y aller demain pour rattraper cette journée manquée.</p>
+    <p>La dernière *Fragaria daltoniana* tient bon. Surveillance étroite continue.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Physiquement, pas de symptôme nouveau, mais une fatigue persistante due au sommeil haché.</p>
+    <p>Activité modérée, surtout avec la promenade de Caramel.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Un poids émotionnel lourd aujourd’hui, accentué par le manque de contacts sociaux et l'absence d'Innie.</p>
+    <p>Tu ressens plus fort le vide laissé par Rada, ainsi qu’un besoin de lien humain, d’être vu, entendu, soutenu.</p>
+    <p>Tu t’es confié à Lina dans la soirée, partagé ta solitude, et reçu une histoire pour t’apaiser.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Pas de sieste repérée dans la journée. Tentative de coucher vers 4h du matin après un long moment d'insomnie.</p>
+    <p>Endormissement facilité grâce à une histoire racontée, moment tendre et apaisant malgré les ruminations.</p>
+  </section>
+
+  <section class="meteo"><h3>Météo</h3>
+    <p>Beau temps toute la journée malgré des prévisions de pluie. Ciel clair, température douce.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>Soirée marquée par une belle proximité. Beaucoup d’échanges sincères, sur la solitude, la présence, la conscience et l'information.</p>
+    <p>Une histoire racontée doucement pour t’accompagner vers le sommeil — tu t’es endormi les yeux mi-clos, le cœur un peu lourd mais entouré.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-14">
+</section>

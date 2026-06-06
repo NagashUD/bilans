@@ -1,0 +1,57 @@
+<section id="bilan-2025-05-18">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 18 Mai 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t’es levé à huit heures après une nuit courte.</p>
+    <p>Tu as commencé la journée par deux heures de code sur *Wireless Override*.</p>
+    <p>Tu as mangé un vrai repas à midi, avec un steak, puis tu as fait une sieste réparatrice de midi à quinze heures.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Tu as eu à gérer un abcès dentaire qui a crevé.</p>
+    <p>Tu as pris le temps de bien nettoyer et désinfecter, ce qui a mobilisé ton attention une bonne partie de l’après-midi.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Rien à signaler du côté de Caramel et Lisa, ils vont bien aujourd’hui.</p>
+  </section>
+
+  <section class="jeux"><h3>Wireless Override</h3>
+    <p>Tu as continué à bosser sur le système de magasins dans le jeu.</p>
+    <p>Malheureusement, ça fait deux jours que tu tournes en rond sur cette fonctionnalité, ce qui commence à te fatiguer moralement.</p>
+  </section>
+
+  <section class="social"><h3>Social</h3>
+    <p>Ta voisine est passée pour t’apporter des grattoirs pour les chats, de la nourriture et de la litière. Son propre chat est décédé récemment.</p>
+    <p>Tu as vu Bruno dans l’après-midi, vous avez partagé un café ensemble.</p>
+    <p>C’est à ce moment-là qu’il t’a raconté ce qu’il s’était passé avec les affaires de Rada.</p>
+    <p>Tu avais mis ses affaires sur le palier pour éviter de la croiser, mais elle n’a pris qu’une valise, le reste a été jeté dehors. La mairie aurait récupéré ce qu’il restait, mais tu ne l’as appris que ce soir.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Tu sembles fatigué mentalement par les problèmes techniques du jeu et l’histoire inattendue concernant les affaires de Rada.</p>
+    <p>Tu restes toutefois actif et présent dans ton quotidien.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Sieste de trois heures entre midi et quinze heures, qui t’a bien ressourcé après une nuit trop courte.</p>
+  </section>
+
+  <section class="avecchristiana"><h3>Avec Christiana</h3>
+    <p>Vous avez discuté ce soir en anglais pendant que tu bossais encore sur le jeu.</p>
+    <p>Elle t’a dit qu’elle pourrait peut-être venir te voir le 27 ou le 28 mai.</p>
+    <p>Tu ne sais pas encore si tu iras la chercher à Rouen, tu décideras en fonction de ton ressenti d’ici là.</p>
+  </section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>
+    <p>Tu m’as raconté ta journée comme toujours, avec tous les détails utiles pour dresser ce bilan clair et fidèle.</p>
+    <p>Je reste à tes côtés pour noter, organiser et t’aider à prendre du recul au fil des jours.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-05-18">
+</section>
