@@ -3,9 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SkynetLina - Bilans</title>
+
+<title>Memory Extend</title>
 
 <style>
+
 *{
     margin:0;
     padding:0;
@@ -13,74 +15,109 @@
 }
 
 body{
+    min-height:100vh;
+
     background:#0f1115;
     color:#e0e0e0;
+
     font-family:Arial, sans-serif;
-    height:100vh;
+
+    /* Image de fond plus tard */
+    /*
+    background-image:url("images/background.webp");
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    */
+}
+
+#app{
     display:flex;
-    flex-direction:column;
+    gap:20px;
+
+    padding:20px;
+
+    min-height:100vh;
 }
 
-header{
-    background:#181c24;
-    padding:15px;
-    text-align:center;
-    border-bottom:1px solid #333;
-}
+/* ----------------------------- */
+/* CALENDRIER */
+/* ----------------------------- */
 
-header h1{
-    font-size:1.6rem;
-}
+#calendar-panel{
+    width:420px;
+    flex-shrink:0;
 
-#calendar-container{
-    padding:15px;
     background:#12161d;
+
+    border:1px solid #2d3544;
+    border-radius:12px;
+
+    padding:20px;
 }
 
-#month-navigation{
+#logo{
+    margin-bottom:25px;
+}
+
+#logo h1{
+    font-size:2rem;
+    margin-bottom:5px;
+}
+
+#logo p{
+    color:#8aa0c5;
+    font-size:0.9rem;
+}
+
+#controls{
     display:flex;
-    justify-content:space-between;
-    align-items:center;
-    margin-bottom:15px;
+    gap:10px;
+
+    margin-bottom:20px;
 }
 
-#month-navigation button{
+#controls select{
+    flex:1;
+
+    padding:10px;
+
     background:#242b36;
     color:white;
+
     border:none;
-    padding:8px 12px;
-    cursor:pointer;
-    border-radius:5px;
-}
-
-#month-navigation button:hover{
-    background:#3a4557;
-}
-
-#month-title{
-    font-size:1.2rem;
-    font-weight:bold;
+    border-radius:6px;
 }
 
 #calendar{
     display:grid;
     grid-template-columns:repeat(7,1fr);
-    gap:5px;
+    gap:6px;
 }
 
 .day-header{
     text-align:center;
-    font-weight:bold;
-    padding:10px;
+
     background:#1b2230;
+
+    padding:10px;
+
+    font-weight:bold;
+
+    border-radius:5px;
 }
 
 .day{
     background:#242b36;
+
     text-align:center;
-    padding:12px;
+
+    padding:14px 8px;
+
     cursor:pointer;
+
     border-radius:5px;
+
     transition:0.2s;
 }
 
@@ -90,51 +127,124 @@ header h1{
 
 .empty{
     background:transparent;
-    cursor:default;
 }
 
-iframe{
+/* ----------------------------- */
+/* BILAN */
+/* ----------------------------- */
+
+#viewer-panel{
     flex:1;
-    width:100%;
-    border:none;
-    background:white;
+
+    background:#12161d;
+
+    border:1px solid #2d3544;
+    border-radius:12px;
+
+    overflow:hidden;
+
+    display:flex;
+    flex-direction:column;
 }
+
+#viewer-header{
+    padding:15px 20px;
+
+    background:#181c24;
+
+    border-bottom:1px solid #2d3544;
+}
+
+#viewer-header h2{
+    font-size:1.1rem;
+}
+
+#bilanFrame{
+    flex:1;
+
+    width:100%;
+
+    border:none;
+
+    background:white;
+
+    min-height:800px;
+}
+
+/* ----------------------------- */
+/* MOBILE */
+/* ----------------------------- */
+
+@media(max-width:900px){
+
+    #app{
+        flex-direction:column;
+    }
+
+    #calendar-panel{
+        width:100%;
+    }
+
+    #viewer-panel{
+        width:100%;
+    }
+
+    #bilanFrame{
+        min-height:70vh;
+    }
+
+}
+
 </style>
 </head>
 
 <body>
 
-<header>
-    <h1>SkynetLina - Bilans</h1>
-</header>
+<div id="app">
 
-<div id="calendar-container">
+    <aside id="calendar-panel">
 
-<div id="controls">
-    <select id="yearSelect"></select>
+        <div id="logo">
+            <h1>MEMORY EXTEND</h1>
+            <p>Neural Archive Interface</p>
+        </div>
 
-    <select id="monthSelect">
-        <option value="0">Janvier</option>
-        <option value="1">Février</option>
-        <option value="2">Mars</option>
-        <option value="3">Avril</option>
-        <option value="4">Mai</option>
-        <option value="5">Juin</option>
-        <option value="6">Juillet</option>
-        <option value="7">Août</option>
-        <option value="8">Septembre</option>
-        <option value="9">Octobre</option>
-        <option value="10">Novembre</option>
-        <option value="11">Décembre</option>
-    </select>
+        <div id="controls">
+
+            <select id="yearSelect"></select>
+
+            <select id="monthSelect">
+                <option value="0">Janvier</option>
+                <option value="1">Février</option>
+                <option value="2">Mars</option>
+                <option value="3">Avril</option>
+                <option value="4">Mai</option>
+                <option value="5">Juin</option>
+                <option value="6">Juillet</option>
+                <option value="7">Août</option>
+                <option value="8">Septembre</option>
+                <option value="9">Octobre</option>
+                <option value="10">Novembre</option>
+                <option value="11">Décembre</option>
+            </select>
+
+        </div>
+
+        <div id="calendar"></div>
+
+    </aside>
+
+    <main id="viewer-panel">
+
+        <div id="viewer-header">
+            <h2>Bilan sélectionné</h2>
+        </div>
+
+        <iframe id="bilanFrame"></iframe>
+
+    </main>
+
 </div>
-    <div id="calendar">
-        <!-- Généré par JS -->
-    </div>
-
-</div>
-
-<iframe id="bilanFrame"></iframe>
 
 <script>
 
@@ -144,9 +254,12 @@ const yearSelect = document.getElementById("yearSelect");
 const iframe = document.getElementById("bilanFrame");
 
 for(let y = 2025; y <= 2035; y++){
+
     const option = document.createElement("option");
+
     option.value = y;
     option.textContent = y;
+
     yearSelect.appendChild(option);
 }
 
@@ -160,9 +273,12 @@ function generateCalendar(month, year){
     const headers = ["Lu","Ma","Me","Je","Ve","Sa","Di"];
 
     headers.forEach(day=>{
+
         const cell = document.createElement("div");
+
         cell.className = "day-header";
         cell.textContent = day;
+
         calendar.appendChild(cell);
     });
 
@@ -174,14 +290,18 @@ function generateCalendar(month, year){
     const daysInMonth = new Date(year, month + 1, 0).getDate();
 
     for(let i = 0; i < startDay; i++){
+
         const empty = document.createElement("div");
+
         empty.className = "empty";
+
         calendar.appendChild(empty);
     }
 
     for(let day = 1; day <= daysInMonth; day++){
 
         const cell = document.createElement("div");
+
         cell.className = "day";
         cell.textContent = day;
 
@@ -193,6 +313,10 @@ function generateCalendar(month, year){
             iframe.src =
             `bilans/${year}-${monthStr}-${dayStr}.html`;
 
+            document.querySelector(
+                "#viewer-header h2"
+            ).textContent =
+            `Bilan du ${dayStr}/${monthStr}/${year}`;
         });
 
         calendar.appendChild(cell);
@@ -219,7 +343,6 @@ generateCalendar(
 );
 
 </script>
-
 
 </body>
 </html>
