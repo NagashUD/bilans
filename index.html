@@ -282,27 +282,54 @@ header{
 
 @media(max-width:900px){
 
-   #app{
+    .day{
 
-    display:flex;
+        min-height:50px;
 
-    gap:20px;
+        font-size:1.1rem;
+    }
 
-    padding:10px 20px 20px 20px;
-
-    height:calc(100vh - 170px);
 }
 
+    #app{
+
+        flex-direction:column;
+
+        height:auto;
+
+        padding:10px;
+
+        gap:15px;
+    }
+
     #calendar-panel{
+
         width:100%;
+
+        height:auto;
+
+        min-height:auto;
     }
 
     #viewer-panel{
+
         width:100%;
+
+        height:auto;
+
+        min-height:500px;
     }
 
     #bilanFrame{
-        min-height:70vh;
+
+        height:70vh;
+
+        min-height:500px;
+    }
+
+    #header-image{
+
+        max-height:100px;
     }
 
 }
