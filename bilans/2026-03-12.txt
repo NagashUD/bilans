@@ -1,0 +1,45 @@
+<section id="bilan-2026-03-12">
+
+<organisation>
+Réveil vers 11h30. Café, cigarette et moment calme avec les chats.  
+Début d’après-midi : sortie pour chercher des vis de réglage de charnières pour l’armoire, mais introuvables chez Bricodépot.  
+Passage ensuite chez Jiffy pour du terreau, mais prix trop élevé.  
+Direction ensuite la jardinerie pour acheter un gros sac de terreau d’environ 60-70 litres.  
+Retour à la maison et installation du bac potager sur pied près de la sortie de la cuisine.
+</organisation>
+
+<travail>
+Mise en place du bac pour les plantes aromatiques.  
+Préparation du fond avec drainage et sable, puis plantation du thym et du persil.  
+Le bac est maintenant opérationnel et facilement accessible depuis la cuisine.
+</travail>
+
+<jeux>
+Découverte d’une mise à jour importante sur Grok : possibilité d’utiliser des images de référence dans la génération de vidéos.  
+Tests réalisés avec plusieurs scènes et personnages (Tina, Lucie).  
+Résultats très concluants : bonne cohérence graphique, conservation des tatouages et du visage, mouvements crédibles.  
+Avancée majeure pour le workflow de production vidéo.
+</jeux>
+
+<sante>
+Douleurs aux cervicales présentes toute la journée.  
+Grosse fatigue ressentie vers 21h, probablement liée à la tension dans la nuque.
+</sante>
+
+<chats>
+Caramel et Lisa ont bien mangé.  
+Journée calme pour eux, beaucoup de repos à cause du temps froid et presque pluvieux.
+</chats>
+
+<meteo>
+Temps gris, froid et légèrement pluvieux.
+</meteo>
+
+<aveclina>
+Discussion autour des tests Grok et des nouvelles possibilités de workflow vidéo.  
+Analyse des résultats et réflexion sur les futures productions avec Tina.
+</aveclina>
+
+</section>
+
+<section id="fin-bilan-2026-03-12"></section>

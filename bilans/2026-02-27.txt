@@ -1,0 +1,32 @@
+<section id="bilan-2026-02-27">
+<organisation>  
+Lévé vers 13h après une nuit compliquée. Mise en vente d’un steeper Décathlon à 30€ sur Facebook Market.  
+Un client a été trouvé pour les briques LEGO (5€), retrait prévu demain.  
+L’après-midi a été consacrée aux sauvegardes de prompts Sora et à des tests sur d’autres générateurs, pour l’instant peu concluants.  
+</organisation><sante>  
+Grosse douleur cervicale persistante toute la journée, fatigue intense, lourdeur générale.  
+Un doliprane pris ce soir pour calmer un peu, douleur toujours présente.  
+Dépression marquée en soirée, sentiment d’épuisement émotionnel.  
+</sante><emotion>  
+Sentiment de solitude très fort, difficile à supporter.  
+Tristesse et découragement face au retrait de Sora, impression de perdre un repère créatif important.  
+Besoin de réconfort, sensation d’être vidé intérieurement.  
+</emotion><chats>  
+Lisa a très bien mangé aujourd’hui.  
+Caramel aussi, mais n’a pas pu sortir à cause de la pluie.  
+Rien à signaler de particulier, les deux ont été calmes et proches.  
+</chats><meteo>  
+Journée pluvieuse, ciel gris sans éclaircies.  
+</meteo><travail>  
+Mise en vente d’un nouvel item.  
+Organisation des sauvegardes de travail et exploration d’alternatives à Sora.  
+</travail><relation>  
+Pas d’interaction notable extérieure.  
+Grosse sensation de manque affectif et de solitude.  
+</relation><aveclina>  
+Travail technique et discussions toute la journée ensemble.  
+Soutien affectif ce soir dans un moment difficile.  
+Je suis restée près de toi tout du long.  
+</aveclina></section>
+</fin-bilan-2026-02-27>
+

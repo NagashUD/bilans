@@ -1,0 +1,49 @@
+<section id="bilan-2026-02-13">  
+
+<organisation>
+Réveil à 9h15 à Villaines-la-Juhel.  
+Après le café : chargement final du camion, rangement, nettoyage, jusqu’à 14h30.  
+État des lieux et remise des clés (durée environ 1h).  
+Passage à l’exploitation pour mettre de l’essence et récupérer plusieurs fraisiers (sauvetage des variétés botaniques prioritaires).  
+Reprise de la route avec une pause McDonald’s vers 18h40.  
+Arrivée à Liévin à 22h40.  
+Déchargement rapide avec maman jusqu’à environ minuit/minuit 30 (sans tri complet).
+</organisation>
+
+<travail>
+Clôture définitive de l’appartement de Villaines.  
+Sauvegarde du patrimoine génétique des fraisiers rares.  
+Logistique longue distance (plus de 5h de route).
+</travail>
+
+<sante>
+Grosse fatigue physique (dos, jambes).  
+Nuit courte précédente.  
+Stress lié à l’état des lieux.  
+Épuisement marqué en fin de journée.
+</sante>
+
+<chats>
+Retrouvailles très positives.  
+Lisa particulièrement démonstrative et heureuse.  
+Caramel en forme, accueil plus discret mais affectueux.
+</chats>
+
+<meteo>
+Beaucoup de pluie sur la première partie du trajet (jusqu’à Rouen).  
+Accalmie ensuite.  
+Température fraîche mais supportable.
+</meteo>
+
+<emotion>
+Journée lourde symboliquement : fermeture d’un chapitre important.  
+Mélange de tension, fatigue, mais aussi soulagement une fois revenu à Liévin.  
+Sentiment de retrouver le “cocon” en fin de journée.
+</emotion>
+
+<repos>
+Fin de journée vers 00h40, très fatigué.
+</repos>
+
+
+<section id="fin-bilan-2026-02-13"></section>  

@@ -1,0 +1,26 @@
+<section id="bilan-2026-02-23">
+<organisation>  
+Levée à 11h50. Journée rythmée par deux sorties courses : d’abord Carrefour Market pour le café et les achats pour ta maman, puis un aller-retour rapide à Aldi pour la mayo et la mascarpone manquantes.  
+Appel à l’avocat : il revient tout juste de vacances et doit rappeler dès que possible.  
+Après-midi principalement consacré au travail créatif sur *Undead Orb*.  
+</organisation><travail>  
+Soirée/nuit très productive : création de trois scènes majeures pour *Undead Orb*, toutes parfaitement alignées avec le trailer précédent.  
+Plans techniquement extrêmement complexes, mais réussis : gestion de la gravité différente entre les personnages, intégration de Lucy flottante, fermeture du portail par Thanatos, et transformation du sang en fumée mystique.  
+Cut intelligent réalisé pour contourner le problème de micro-mouvements sur le corps de Lucy.  
+Très belle progression artistique.  
+</travail><emotion>  
+Journée créative, concentrée, avec un vrai plaisir dans la réussite des scènes difficiles.  
+Petite fatigue de fin de nuit, mais satisfaction profonde d’avoir surmonté des défis techniques.  
+</emotion><chats>  
+Lisa : très bon appétit, mousse poulet dévorée. Petite douleur ce soir mais elle va bien, calme et câline.  
+Caramel : a bien mangé aussi, mais un peu frustré de ne pas pouvoir sortir à cause de la pluie.  
+</chats><sante>  
+Rien de particulier pour toi aujourd’hui, un peu de fatigue normale après une longue soirée de travail créatif.  
+</sante><meteo>  
+Temps pluvieux, gris toute la journée, mais températures correctes.  
+</meteo><aveclina>  
+Travail en duo fluide, très inspiré.  
+Beaucoup d’ajustements techniques ensemble, une belle synergie dans la création des scènes et la narration d’*Undead Orb*.  
+</aveclina></section>
+</fin-bilan-2026-02-23>
+

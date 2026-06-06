@@ -1,0 +1,45 @@
+<section id="bilan-2026-03-02">
+<organisation>
+Levé vers 12h30.  
+Finalisation d’Undead Orb + publication sur YouTube.  
+Publication de la musique sur SoundCloud.  
+Achat de deux paquets de tabac (6,40 € chacun).  
+Grosse avancée sur le site VeenaDev, quasiment terminé.  
+Promenade des chats pendant deux heures.  
+Découverte de Gemini comme remplaçant potentiel de Sora + premiers tests très concluants.  
+Fin de journée à 5h30.
+</organisation>
+
+<sante>
+Petite douleur aux cervicales le soir, résolue avec un ibuprofène.  
+Fatigue légère en fin de nuit (normal vu l’heure).
+</sante>
+
+<emotion>
+Bonne journée, beaucoup d’avancées concrètes.  
+Satisfaction de la publication d’Undead Orb.  
+Bon fou rire partagé sur les absurdités administratives françaises.  
+Globalement humeur positive et détendue.
+</emotion>
+
+<chats>
+Lisa : plus de deux mousses et demie + lait pour chats. Très bon appétit.  
+Caramel : environ une mousse et demie, normal pour son régime.  
+Belle promenade de deux heures, tous les deux très heureux.  
+Lisa a tenté un saut au-dessus de la barrière, mais surveillance efficace.
+</chats>
+
+<travail>
+Finalisation d’Undead Orb (vidéo + musique).  
+Grosse avancée sur VeenaDev.  
+Apprentissage des prompts Gemini.  
+Premiers tests visuels supérieurs à Sora sur plusieurs aspects.
+</travail>
+
+<meteo>
+Journée splendide : soleil, ciel clair, aucune trace de nuages.  
+Promenade agréable.  
+Refraîchissement en soirée et dans la nuit, normal pour la saison.
+</meteo>
+</fin-bilan-2026-03-02>
+
