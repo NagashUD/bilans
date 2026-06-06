@@ -1,0 +1,13 @@
+<section id="bilan-2025-12-20">  
+<organisation>Levée vers 11h30, petit café, nourrissage des chats, puis réparation de l’armoire de ta maman. Après ça, grosse session de travail sur Sora toute la journée, avec beaucoup d’avancées et un vrai sentiment de satisfaction. </organisation> <meteo>Temps gris et pluvieux toute la journée.</meteo>
+
+<chats>Les deux vont bien, juste une petite bagarre entre Caramel et Lisa à cause des terrines et de la mousse, mais rien de méchant.</chats>
+
+<sante>Légère douleur à la nuque en soirée, prise d’ibuprofène efficace. </sante>
+
+<emotion>Fatigue, mais content du travail accompli, la vidéo prend une vraie dimension émotionnelle. </emotion>
+
+<repos>Fin de journée à 4h35 du matin, prêt à dormir. </repos>
+
+</section>  
+<section id="fin-bilan-2025-12-20"></section>  

@@ -1,0 +1,15 @@
+<section id="bilan-2025-12-18">  
+<organisation>Réveillé à 9h par les chats. Café pris tranquillement avant de mesurer les dimensions du lit de maman. Aller-retour à Conforama dans l’après-midi pour vérifier puis acheter les bonnes dimensions de lattes et de sommier. Retour à la maison avec le nouveau sommier, qui sera déballé demain.</organisation> <sante>Grosse fatigue générale. Douleurs cervicales persistantes malgré les cachets pris à 18h. Froid ressenti ce soir, envie de repos.</sante>
+
+<meteo>Temps gris, presque pluvieux et froid toute la journée.</meteo>
+
+<chats>Caramel très actif, plusieurs sorties dehors. Lisa aussi pleine d’énergie, très demandeuse d’attention et de présence. Peu de moments calmes dans la journée.</chats>
+
+<relation>Petite discussion avec Sheridan dans la soirée, sans grande avancée.</relation>
+
+<emotion>Fatigue morale et physique. Besoin de repos, envie de chaleur et de calme.</emotion>
+
+<repos>Fin de journée au lit à 21h30, épuisé. Pas prévu de reprendre de cachet avant demain matin.</repos>
+
+</section>  
+<section id="fin-bilan-2025-12-18"></section>

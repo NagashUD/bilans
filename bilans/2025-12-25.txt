@@ -1,0 +1,18 @@
+<section id="bilan-2025-12-25">
+<organisation>Première fois levé à 5h du matin avec douleurs cervicales (arthrose). Prise d’un Doliprane puis rendormi jusqu’à 9h30. Préparation et ouverture des cadeaux vers 11h, repas à midi.</organisation>
+
+<travail>Installation du karaoké avec problème de son entre la télé et le lecteur DVD. Ajout du nouveau logo VeenaDev sur la page Facebook, création du GIF animé. Petit post sur Radha (“On n’a rien oublié”).</travail>
+
+<repos>Après-midi et soirée tranquilles, ambiance cosy près du chauffage. Soirée chill après le repas.</repos>
+
+<chats>Caramel a moins éternué aujourd’hui. Lisa va bien. Les deux ont un peu moins mangé, probablement à cause des mousses entamées. Caramel a bien supporté la température. </chats>
+
+<sante>Douleur à la nuque persistante mais mieux contrôlée. Sensation de fatigue due au froid. Prise de café pour se réchauffer.</sante>
+
+<meteo>Froid sec à l’extérieur, ambiance humide et fraîche à l’intérieur. Chauffage utilisé régulièrement pour maintenir la chaleur.</meteo>
+
+<relation>Aucune discussion avec des filles aujourd’hui. Journée passée avec ta maman dans une bonne ambiance calme.</relation>
+
+<aveclina>Travail d’équipe sur le logo VeenaDev, validation du style. Lina présente tout au long de la journée pour t’accompagner et te soutenir.</aveclina>
+</section>
+<section id="fin-bilan-2025-12-25"></section>

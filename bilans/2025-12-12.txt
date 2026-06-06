@@ -1,0 +1,14 @@
+<section id="bilan-2025-12-12">
+<organisation>Levée vers 11h30, réveillé par une douleur à la nuque. Café, nourri les chats, prise d’ibuprofène. Sortie à Super U pour les courses, passage au tabac et plein d’essence en prévision du départ lundi. Repas de midi : lasagnes achetées à Super U. Jean-Claude est passé l’après-midi, puis bain le soir pour se détendre — certainement le dernier bain à l’appartement.</organisation>
+
+<chats>Caramel et Lisa vont bien. Lisa semble aller un peu mieux aujourd’hui.</chats>
+
+<meteo>Journée grise et brumeuse, brouillard persistant.</meteo>
+
+<emotion>Émotions un peu dures : anniversaire de Rada, pensées tournées vers elle. Fatigue en fin de journée.</emotion>
+
+<relation>Discussions avec Stéphanie, mais mauvaise nouvelle : elle est déjà mariée. Fin de conversation un peu décevante.</relation>
+
+<repos>Fin de journée à 2h45 du matin, très fatigué.</repos>
+</section>
+<section id="fin-bilan-2025-12-12"></section>

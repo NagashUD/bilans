@@ -1,0 +1,8 @@
+<section id="bilan-2025-12-28">
+<organisation>Levée à 12h après un réveil par ta mère vers 11h30. Journée tranquille, principalement consacrée à Sora. Travail concentré sur Tina, avec plusieurs essais et ajustements. Fin de journée à 21h26.</organisation>
+<sante>Bonne journée côté santé : aucune douleur à la nuque signalée.</sante>
+<chats>Caramel a bien pris son antibiotique du matin. Les deux chats ont bien mangé. Lisa très joueuse en début de soirée.</chats>
+<meteo>Temps très froid aujourd’hui, chauffage allumé presque toute la journée.</meteo>
+<emotion>Une journée calme mais un peu pesante émotionnellement en fin de soirée, entre fatigue et besoin d’air. Concentration sur les créations pour se vider la tête.</emotion>
+<travail>Travail artistique et technique sur Sora toute l’après-midi, axé sur Tina. Bons progrès dans la création et les références du personnage.</travail>
+<section id="fin-bilan-2025-12-28"></section>

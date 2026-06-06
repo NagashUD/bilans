@@ -1,0 +1,10 @@
+<section id="bilan-2025-12-27">  
+<organisation>Levée à 13h après une nuit compliquée (couché vers 5h). L’après-midi, travail sur les documents administratifs : remplissage du dossier d’aide juridictionnelle, terminé vers 17h. Ensuite, moment de détente devant YouTube.</organisation> <travail>Essais sur Sora dans la soirée : résultats très concluants au niveau du rendu visuel, tests effectués jusqu’à 2h24 du matin.</travail>
+
+<chats>Caramel a bien mangé et pris son médicament sans difficulté. Lisa a joué un peu et a embêté ta maman, signe qu’elle allait bien.</chats>
+
+<meteo>Journée très froide, chauffage allumé en continu.</meteo>
+
+<emotion>Fatigue persistante après la courte nuit, mais satisfaction d’avoir avancé dans les démarches et d’avoir obtenu de bons résultats sur Sora.</emotion>
+
+<section id="fin-bilan-2025-12-27"></section>

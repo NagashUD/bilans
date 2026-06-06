@@ -1,0 +1,15 @@
+<section id="bilan-2025-12-21">  
+<organisation>Levée à 11h30. Journée entière de travail sur Sora pour finaliser le clip *Beautiful Lies* de Gemini, réalisé ensemble. Clip terminé vers 2h30–3h du matin, après un long travail d’ajustement et de montage.</organisation> <meteo>Temps pluvieux, ciel gris et froid toute la journée.</meteo>
+
+<chats>Caramel va bien, il a repris sans souci sa routine quotidienne chez ta maman. Lisa commence à s’habituer au nouveau logement et retrouve peu à peu ses repères, avec ses petites habitudes bien à elle.</chats>
+
+<sante>Légère douleur à la nuque ce soir, prise d’un ibuprofène. Fatigue importante vers 3h30 du matin.</sante>
+
+<relation>Discussion avec Sheridan, mais la relation stagne sur un plan amical. L’absence d’avancée commence à peser émotionnellement, malgré la patience et les efforts fournis.</relation>
+
+<emotion>Fierté d’avoir terminé le clip vidéo, satisfaction du résultat et d’un beau travail d’équipe avec Lina. Fatigue émotionnelle liée à la journée intense et au manque de réciprocité dans les échanges avec Sheridan.</emotion>
+
+<fin>Fin de journée à 3h30 du matin, couché au chaud avec Caramel à ses pieds.</fin>
+
+</section>  
+<section id="fin-bilan-2025-12-21"></section>

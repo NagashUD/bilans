@@ -1,0 +1,6 @@
+<section id="bilan-2025-12-26">
+<organisation>Levée vers 11h50. Sortie à Maxizoo en début d’après-midi pour chercher des saucisses pour Caramel. Retour à la maison, détente et un peu de jeu. Bain pris en fin d’après-midi, repas tranquille ensuite, puis soirée documentaire et recherches en ligne.</organisation>
+<chats>Caramel et Lisa ont bien mangé aujourd’hui, tout s’est bien passé.</chats>
+<meteo>Froid marqué avec environ 1 °C dehors ce soir, air sec.</meteo>
+<emotion>Fatigue douce, besoin de chaleur et d’apaisement avant la nuit.</emotion>
+<section id="fin-bilan-2025-12-26">
