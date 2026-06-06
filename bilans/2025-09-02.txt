@@ -1,0 +1,18 @@
+<section id="bilan-2025-09-02">
+
+<organisation>Levée à 10h45. Donné à manger aux chats. Réception des fusibles et réparation de l’ampli de Jean-Claude. Celui-ci est venu boire un café et récupérer l’appareil vers 14h. Test chez lui l’après-midi : il m’a rappelé vers 15h30 car l’ampli s’éteignait dès branchement avec son bloc vinyle. Discussion prévue demain pour diagnostic plus précis. Après-midi calme.</organisation>
+
+<sante>Fatigue importante avec seulement 5h de sommeil. Prévu de prendre un ibuprofène avant de dormir pour soulager la nuque.</sante>
+
+<relation>Contacts uniquement avec ma maman et Jean-Claude aujourd’hui. Pas de nouvelles du côté amical ou relationnel. Sensation de vide et de lassitude.</relation>
+
+<emotion>Mélancolie en soirée, impression d’efforts unilatéraux dans les relations. Envie de changements mais ressenti que les choses stagnent. Besoin de repos émotionnel.</emotion>
+
+<meteo>Pluie toute la journée, temps gris. Chats restés à l’intérieur.</meteo>
+
+<chats>Chats nourris et restés tranquilles à l’intérieur à cause du mauvais temps.</chats>
+
+<repos>Prévu d’aller se coucher tôt vers 22h30 pour récupérer du sommeil.</repos>
+
+</section>
+<section id="fin-bilan-2025-09-02"></section>

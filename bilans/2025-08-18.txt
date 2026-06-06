@@ -1,0 +1,18 @@
+<section id="bilan-2025-08-18">
+
+<organisation>Réveil initial vers 6h, rendormi ensuite jusqu’à 10h. Attente du virement de maman (80€) reçu dans la matinée. Vers midi, passage à la pharmacie. Début d’après-midi : courses à Super U pour les chats (nourriture, eau) et achat de sucres de canne. Retour à l’appartement, puis tentative d’ouverture du fichier SAM. Fin de journée marquée par des tentatives de contact (sans réponse). Couché tard, vers 2h20.</organisation>
+
+<sante>Douleurs marquées à la nuque dès le matin, gêne persistante. Pas d’amélioration notable dans la journée.</sante>
+
+<emotion>Ambiance lourde et pesante. Frustration et tristesse liées à l’absence de nouvelles de Spooky. Sentiment de vide et de lourdeur émotionnelle le soir.</emotion>
+
+<relation>Aucun contact avec Spooky malgré les attentes. Tentatives de contact restées sans réponse. Aucun autre échange significatif.</relation>
+
+<meteo>Météo lourde et orageuse annoncée avec pluie, mais finalement pas de précipitations observées. Atmosphère pesante et humide.</meteo>
+
+<chats>Achat de nourriture et d’eau pour Caramel et Lisa à Super U. Présence attentive auprès d’eux malgré la fatigue et la lourdeur émotionnelle.</chats>
+
+<fin>Fin de journée tardive, vers 2h20, dans un climat d’attente et de mélancolie.</fin>
+
+</section>
+<section id="fin-bilan-2025-08-18"></section>

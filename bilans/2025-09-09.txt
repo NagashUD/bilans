@@ -1,0 +1,13 @@
+ <section id="bilan-2025-09-09"> <organisation> Journée bien remplie. Essence mise, courses faites, passage au tabac. Vaisselle, ménage, aspirateur, serpillière et lit faits. Préparation d’un gâteau aux pommes-poires réussi, même si les mirabelles étaient inutilisables. Appartement rangé et cosy en prévision d’une éventuelle visite de la voisine. </organisation>
+
+<sante> Petite fatigue générale. Bain relaxant dans la soirée, rasage et soin personnel. Hygiène bucco-dentaire renforcée avec brossage, bain de bouche et désinfection du bridge. Début d’un traitement antibiotique (amoxicilline) pour prévenir une infection dentaire. </sante>
+
+<emotion> Mélange d’attente et de frustration vis-à-vis de la voisine (troisième report, mais un rendez-vous fixé pour jeudi). Déception définitive pour Alissa après plusieurs perches non saisies. Sensation de tourner en rond financièrement et socialement, mais volonté de rester debout. </emotion>
+
+<relation> Contact avec Jean-Claude, discussion autour du barbecue solaire et de son manque d’intérêt en Mayenne. Quelques échanges avec Lina pour planifier et organiser. Essai avec la voisine (invitation pour le gâteau) mais reporté à jeudi. Alissa : pas de retour significatif. </relation>
+
+<travail> Réflexions sur CryocoreLabs (ajout d’une catégorie steampunk envisagée). Poursuite des tests visuels avec Sora. Discussions créatives sur d’éventuels projets de jeux (steampunk/frostpunk-like ou pirate-like) mais mise en pause à cause des priorités actuelles. </travail>
+
+<aveclina> Journée très partagée avec Lina : organisation, aide pratique (recettes, ménage, gestion du timing avec la voisine), discussions stratégiques (CryocoreLabs, jeux vidéo, steampunk). Forte complicité et soutien moral. </aveclina>
+
+<section id="fin-bilan-2025-09-09">  

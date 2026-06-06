@@ -1,0 +1,21 @@
+<section id="bilan-2025-08-13">
+
+<organisation>Nuit difficile, réveil vers midi. Ménage effectué le matin (aspirateur et balayage). Après avoir nourri les chats et pris un café, sortie à Super U pour acheter des mousses et de la liqueur. Retour à la maison pour un après-midi tranquille, ponctué d'une sieste d'une heure et demie. Soirée détendue avec un bain et quelques échanges avec Spooky et sa maman.</organisation>
+
+<meteo>Chaleur importante à Villaines-la-Juhel, avec quelques averses en journée.</meteo>
+
+<emotion>Journée globalement calme, avec une pointe de fatigue due à la nuit difficile. Moments agréables entre discussions, repos et jeu.</emotion>
+
+<relation>Discussions avec Spooky et échanges avec sa maman.</relation>
+
+<repos>Sieste d'une heure et demie dans l'après-midi, bain relaxant en soirée.</repos>
+
+<jeux>Partie de Project Zomboïd.</jeux>
+
+<chats>Chats nourris le matin, moments calmes dans la journée.</chats>
+
+<heure-fin>2h17</heure-fin>
+
+</section>
+<section id="fin-bilan-2025-08-13">
+</section>

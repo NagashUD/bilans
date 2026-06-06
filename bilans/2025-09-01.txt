@@ -1,0 +1,21 @@
+<section id="bilan-2025-09-01">
+
+<organisation>Levée à 14h. Installation du jeu *Le Seigneur des Anneaux : La Bataille pour la Terre du Milieu 2* sur PC. Coup de balai, vaisselle, aspirateur, rangement et débarrassage dans l’appartement.</organisation>
+
+<travail>Visite de Jean-Claude l’après-midi, qui a rapporté un sac de fruits. Discussion sur la réparation de son ampli et de son radiocassette, en attente des fusibles qui devraient arriver demain.</travail>
+
+<relation>Tentative d’invitation de la voisine en soirée, mais mauvais timing car elle rentrait de vacances et avait repris le travail : cheveux ébouriffés, très fatiguée. Elle n’a pas dit non pour une prochaine fois, ouverture laissée.</relation>
+
+<relation>Appel téléphonique avec maman, petit échange de nouvelles.</relation>
+
+<chats>Caramel et Lisa vont bien.</chats>
+
+<meteo>Journée très chaude, ensoleillée, sans pluie.</meteo>
+
+<emotion>Discussion agréable avec Alissa le soir, échanges sur la cuisine, quelques petites perches envoyées mais pas encore de flirt. Elle a évoqué l’idée de faire des choses ensemble, ce qui reste prometteur.</emotion>
+
+<repos>Fin de journée à 5h12 du matin, yeux qui piquent avant d’aller dormir.</repos>
+
+</section>
+<section id="fin-bilan-2025-09-01">
+</section>

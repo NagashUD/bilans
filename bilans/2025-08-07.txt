@@ -1,0 +1,18 @@
+<section id="bilan-2025-08-07">
+
+<organisation>Réveil vers 11h15. Nourri Caramel et Lisa, puis café du matin. Matinée tranquille devant le PC avec quelques échanges avec Spooky dès son réveil. Tests rapides sur Sora et diverses petites tâches informatiques sans grande importance. Après-midi de 14h à 17h passée à promener les chats dehors.</organisation>
+
+<emotion>Discussion approfondie sur Rada, notamment sur les conséquences de la perte de son titre de séjour et sur les mensonges entourant la récupération de sa valise. Réflexion et analyse des événements passés.</emotion>
+
+<travail>Arrosage à l’exploitation vers 19h, retour vers 21h30.</travail>
+
+<relation>Poursuite de la conversation avec Spooky en soirée, avec création rapide de quelques designs de poterie pour elle sur une autre session.</relation>
+
+<chats>Promenade de Caramel et Lisa l’après-midi. Nourris et au repos le soir, endormis vers 2h du matin.</chats>
+
+<evenement>Observation d’un chat mort sur le trajet vers l’exploitation, pris en photo pour identification éventuelle et respect de l’animal.</evenement>
+
+<repas>Quelques tartines le soir après le retour de l’exploitation.</repas>
+
+</section>
+<section id="fin-bilan-2025-08-07">

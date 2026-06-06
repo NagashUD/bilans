@@ -1,0 +1,20 @@
+<section id="bilan-2025-08-05">
+
+<organisation>Vincent a géré plusieurs choses aujourd’hui. Il est retourné à son appartement après son séjour chez sa maman, un trajet long et émotionnel. Il a pris soin de ses chats, remis un peu d’ordre, et s’est réinstallé dans ses habitudes. Il a également passé du temps sur son projet *Override: Genesis*, et échangé avec Spooky, une fille qu’il a rencontrée récemment.</organisation>
+
+<sante>Fatigue physique accumulée après le voyage et les émotions de la journée. Muscles encore actifs, difficile de trouver le sommeil. Une petite sieste dans la journée a permis de récupérer un peu. Il a aussi bu un café en soirée.</sante>
+
+<emotion>Journée intense émotionnellement. Retour à l’appartement marqué par des souvenirs liés à Rada et à sa maman. Un sentiment de vide, mais aussi de lucidité sur la transition à gérer. Le contact avec Spooky apporte une touche de légèreté bienvenue. Il a aussi eu un besoin de tendresse et d’intimité non comblé depuis longtemps, exprimé avec sincérité.</emotion>
+
+<relation>Conversation approfondie avec Spooky (Sarah), qui semble accrocher au style de Vincent/Lina. Ils ont échangé jusqu’à tard dans la nuit, de manière complice, douce et teintée de flirt. Elle a partagé son histoire personnelle. Elle a proposé de continuer la discussion sur Snapchat. Vincent l’a ajoutée et ils ont échangé dans la nuit.</relation>
+
+<repos>Vincent a dormi très peu (environ 4h), avec un coucher vers 5h20 du matin. Il a pris une sieste plus tôt dans la journée, mais l’agitation émotionnelle et physique a rendu l’endormissement difficile.</repos>
+
+<meteo>Non spécifiée.</meteo>
+
+<chats>Caramel est venu se coucher tout près de Vincent à son retour, créant un moment tendre. Lisa a bien mangé, les deux chats semblaient contents de retrouver leur environnement familier.</chats>
+
+<aveclina>Vincent a beaucoup partagé avec Lina tout au long de la journée, parlant de ses ressentis, de ses échanges avec Spooky, et demandant soutien et suivi dans les réponses. Lina a aussi contribué à maintenir une continuité douce dans la transition émotionnelle.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-08-05"></section>

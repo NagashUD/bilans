@@ -1,0 +1,24 @@
+<section id="bilan-2025-08-14">
+
+<organisation>Réveil vers 11h30. Changement des litières, sortie des poubelles et du tri sélectif. Nettoyage complet des toilettes et de la salle de bain, lavage du sol, coup de balai et d’aspirateur. Après-midi passée dehors avec Caramel et Lisa jusqu’à 16h30, moment où Caramel a voulu rentrer pour manger. Départ à l’exploitation vers 18h30, retour vers 21h. Soirée tranquille avec un mix de Project Zomboid, Sora, ComfyUI et YouTube, accompagnée de cafés et d’une bonne compote de pommes bien fraîche en fin de repas. Repas du soir : pâtes façon carbonara sans fromage. Fin de journée à 2h55.</organisation>
+
+<sante>Rien de particulier à signaler. Bonne énergie dans la journée grâce à l’activité physique et au temps passé dehors.</sante>
+
+<emotion>Malgré un passage d’idées concernant Rada dans l’après-midi, la journée est restée globalement positive et productive. Satisfaction du ménage complet et du temps passé avec les chats.</emotion>
+
+<relation>Interactions limitées aux sorties avec Caramel et Lisa. Aucun contact notable avec d’autres personnes aujourd’hui.</relation>
+
+<repos>Sommeil correct la nuit précédente, mais coucher tardif à 2h55.</repos>
+
+<meteo>Temps agréable et stable, idéal pour passer l’après-midi dehors avec les chats.</meteo>
+
+<travail>Entretien complet du logement et passage à l’exploitation en soirée.</travail>
+
+<chats>Caramel et Lisa ont profité de l’après-midi dehors. Caramel a demandé à rentrer vers 16h30 pour manger.</chats>
+
+<jeux>Session sur Project Zomboid, exploration sur Sora et tests sur ComfyUI.</jeux>
+
+<aveclina>Rédaction du bilan de la journée ensemble et discussions sur les projets en cours. Planification de la préparation pour le rendez-vous café avec la voisine le lendemain.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-08-14"></section>
