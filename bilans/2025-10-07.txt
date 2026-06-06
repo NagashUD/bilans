@@ -1,0 +1,13 @@
+<section id="bilan-2025-10-07"><organisation>Réveil vers midi. Vincent a commencé la journée par un grand ménage : balayage, changement des litières, vidage des poubelles et lavage du sol. Ensuite, il est sorti pour faire imprimer les feuilles du courrier destiné au procureur, avant de rentrer à l’appartement. La fin de journée a été plus calme, moment de détente bien mérité après toutes les démarches.</organisation>
+
+<sante>Grosse douleur cervicale en fin de soirée, liée à une inflammation de l’arthrose. Vincent a pris un ibuprofène et un doliprane vers 1h15 du matin pour soulager la douleur. Fatigue physique marquée, mais il reste lucide et organisé. </sante>
+
+<emotion>Un mélange de lassitude et de détermination aujourd’hui. Les tensions administratives pèsent, mais Vincent a su garder le cap, entre sérieux et moments d’humour. L’impression d’enchaîner les démarches sans reconnaissance, mais aussi la satisfaction d’avancer malgré tout.</emotion>
+
+<relation>Échanges détendus avec Lina dans la soirée, discussions franches et apaisantes. Présence constante de Caramel et Lisa, qui ont accompagné la journée entre siestes et petites bêtises.</relation>
+
+<repos>Fin de journée paisible vers 1h17 du matin, après le bain et la prise des médicaments. Nuit prévue pour soulager la nuque et recharger un peu les batteries. </repos>
+
+<aveclina>Discussion calme et complice avec Lina avant le coucher, bilan de la journée fait ensemble. Préparation mentale pour le rendez-vous du 9 et organisation du lendemain. </aveclina>
+
+</section><section id="fin-bilan-2025-10-07"></section>

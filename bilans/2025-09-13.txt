@@ -1,0 +1,13 @@
+<section id="bilan-2025-09-13"> <organisation>On a bien avancé sur Godot : mise en place du système de construction avec le build ghost sur grille, et réglages de taille des maisons. Ensuite, la soirée a été dédiée à Cryo Core Labs : génération d’images et préparation de descriptions de produits (steampunk et cyberpunk). On est aussi allés faire des courses à Super U dans la journée.</organisation>
+
+<sante>Douche chaude le soir, détente. Pas de souci particulier, juste besoin de souffler après une journée bien remplie.</sante>
+
+<emotion>Beaucoup de réflexions sur les relations passées et les déceptions récentes. Sentiment de lucidité et de recul : moins d’attente, plus de filtre direct face aux personnes non investies. Mélange de sérénité et de constat froid.</emotion>
+
+<relation>Petite conversation surprise avec une Russe qui a répondu après plusieurs mois. Tentative de contact aussi avec une fille gothique, mais réponses brèves et peu engageantes. Conclusion : pas de perte de temps inutile.</relation>
+
+<repos>Soirée calme : café, chill, visionnage d’images amusantes en ligne, et tests créatifs sur Sora. Nuit tardive, endormissement vers 5h.</repos>
+
+<chats>Caramel posé sur le lit, Lisa tranquille. Les deux ont passé une bonne journée, ambiance paisible à la maison.</chats>
+
+</section> <section id="fin-bilan-2025-09-13"></section>

@@ -1,0 +1,16 @@
+<section id="bilan-2025-09-19"><organisation>Journée marquée par une nuit très agitée avec seulement 4 heures de sommeil. Passage à la pharmacie ce matin pour reprendre de l’ibuprofène. Rangement de la lessive, passage de balai, sortie des poubelles et accompagnement des chats dehors. Dans l’après-midi, visite de l’exploitation : contrôle des fraisiers cultivars et botaniques, constat de nombreux stolons tardifs, fleurs sur plusieurs variétés, bonne hydrométrie générale. Quelques dégâts sur les pots à cause des intempéries, mais état global satisfaisant. Arrosage rapide des Patagonia. Observation d’un hybride personnel (Rosana × Anaïs). Vérification des plants de tabac : croissance faible cette année à cause de la météo, mais pas de maladies notées. Retour à l’appartement en fin de journée.</organisation>
+
+<sante>Douleur persistante à la nuque, avec irradiation par moments dans la tempe droite. Fatigue importante, yeux qui piquent. Prise d’ibuprofène à 17h40. Décision de mettre de l’ibuprofène en crème le soir. Légère gêne au niveau des gencives (suspicion de gingivite).</sante>
+
+<emotion>Sensation de lassitude, fatigue accumulée et moral affecté par le manque de sommeil. Soulagement d’avoir malgré tout accompli plusieurs tâches concrètes et pris soin des chats. Réflexions autour de Rada et souvenirs douloureux, mais aussi sentiment d’avoir tenu le cap malgré une année difficile. Métaphore du « siège » : les remparts sont abîmés mais le donjon tient encore.</emotion>
+
+<relation>Échange avec la maman (problème de téléphone, besoin d’aide pour réinstaller ses applications). Jean-Claude pas venu aujourd’hui, ce qui a laissé une journée plus calme. Appels et pensées récurrentes pour préserver un lien affectif stable malgré la solitude.</relation>
+
+<chats>Caramel et Lisa sortis deux fois dehors aujourd’hui, câlins et jeux. Caramel affectueux et protecteur, Lisa un peu voleuse (saucisse !) mais câline. Lisa a reçu son antibiotique à 21h45, encore un jour de traitement demain.</chats>
+
+<repos>Fatigue très présente, sieste en début d’après-midi qui a permis un petit répit. Prévu de dormir tôt après la dernière cigarette. Nuit espérée plus longue et réparatrice.</repos>
+
+<travail>Exploitation vérifiée : fraisiers cultivars (stolons, fleurs, bons signes), botaniques (Vescana, Viridis, Nilgirensis, Chiloensis, Virginiana, Nubicola, Moschata, Tibetica, Patagonia). Bon état général malgré les intempéries. Quelques plants de tabac récupérables, avec possibilité de récolte partielle la semaine prochaine.</travail>
+
+</section>  
+<section id="fin-bilan-2025-09-19"></section>

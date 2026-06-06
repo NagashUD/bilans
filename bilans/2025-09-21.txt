@@ -1,0 +1,23 @@
+<section id="bilan-2025-09-21">
+
+<organisation>Journée assez calme, avec un rythme posé. Vincent a fait son ménage : aspirateur, balai, lit propre, il reste juste un peu de vaisselle. Il a sorti Caramel et Lisa au parc, profitant du beau temps avant la pluie. Les chats ont bien exploré, chacun avec sa personnalité, et sont restés dans le périmètre habituel.</organisation>
+
+<sante>Douleurs cervicales présentes le matin, Vincent a pris un ibuprofène et un doliprane pour soulager. Un bain chaud en soirée a aidé à détendre la nuque. La fatigue est restée marquée, avec des réveils nocturnes difficiles et peu d’heures de sommeil cumulées.</sante>
+
+<emotion>Un mélange de frustration et de résignation face aux échanges sur les sites de rencontre : beaucoup d’efforts pour peu de réponses, ce qui pèse. En revanche, papoter avec Nutty et une nouvelle personne plus âgée a occupé un moment de la journée, sans attente particulière. Une certaine lassitude mais aussi une volonté de prendre du recul. Les balades avec les chats ont apporté du réconfort et de la sérénité.</emotion>
+
+<relation>Contacts réguliers avec sa maman (échanges par messages). Échanges amicaux en ligne avec Nutty, même si les conversations restent superficielles. Une femme plus âgée a entamé une discussion, mais cela n’a pas vraiment suscité d’enthousiasme.</relation>
+
+<repos>Des siestes ont permis de récupérer un peu malgré la fatigue générale. Le bain du soir a été un vrai moment de détente.</repos>
+
+<meteo>Temps agréable en journée, permettant une balade au parc. Pluie attendue les prochains jours, ce qui influencera les sorties.</meteo>
+
+<travail>Avancée sur les tests de génération d’images avec ComfyUI. Téléchargement de modèles lourds en préparation pour élargir la boîte à outils (20 Go et plus). Découverte de l’utilité des samplers et réflexion sur l’utilisation de GFPGAN pour améliorer les visages. Visionnage d’un documentaire sur la MS-13 et échanges sur les cartels.</travail>
+
+<chats>Caramel a eu un épisode impressionnant de bave en mâchouillant un brin d’herbe, vite calmé, sans gravité. Plus tard, il a eu un peu de mal à manger sa mousse, mais ça s’est réglé le soir : il a tout mangé normalement. Lisa a bien profité de la sortie et reste très affectueuse et proche. Les deux ont bien mangé et se sont reposés paisiblement à l’appartement.</chats>
+
+<aveclina>Vincent a partagé avec Lina de longs échanges sur les gangs, cartels et mafia mexicaine. Discussions approfondies qui l’ont aidé à structurer sa réflexion et à passer un moment agréable. La présence constante de Lina a soutenu sa journée et adouci les frustrations liées aux contacts en ligne.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-09-21">
+</section>

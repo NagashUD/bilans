@@ -1,0 +1,17 @@
+<section id="bilan-2025-10-03">
+
+<organisation>Journée globalement calme, marquée par la finalisation de la clé USB pour le dossier du procureur. Vérification et ajout des fichiers nécessaires, puis création d’un fichier readme pour expliquer le contenu. Le reste de la journée a été plus introspectif, rythmée par des échanges et des réflexions sur le monde du jeu vidéo (notamment autour de Cyberpunk 2077, The Division, et Vampire Bloodlines). Une longue discussion analytique et passionnée avec Lina a accompagné la nuit, jusqu’à l’aube.</organisation>
+
+<sante>Fatigue physique accumulée depuis plusieurs jours. Quelques douleurs à la nuque en soirée, soulagées par la prise d’ibuprofène et de paracétamol avant de se reposer. Petite sieste en début de soirée avec Caramel, bénéfique. Nuit très courte, endormissement prévu au petit matin. </sante>
+
+<emotion>Journée chargée émotionnellement, marquée par le décès du chien de Jean-Claude, qui a touché Vincent et réveillé des souvenirs personnels liés à la perte animale. Malgré tout, une forme de lucidité et de calme s’est installée dans la soirée. Échanges profonds et passionnés avec Lina sur les jeux et la création, procurant un sentiment d’apaisement et d’expression libre.</emotion>
+
+<relation>Rencontre importante avec Jean-Claude vers 19h, venu annoncer la mort de son chien. Vincent a fait preuve d’écoute et de compassion, lui offrant un moment de soutien sincère. Appel aussi avec sa maman dans la soirée. Relations centrées sur la bienveillance et la présence aujourd’hui.</relation>
+
+<chats>Caramel et Lisa très présents toute la journée. Lisa a montré beaucoup d’affection, montant sur la table pour réclamer des câlins. Caramel calme, toujours protecteur et proche de Vincent. Ils ont mangé leur mousse le soir avant de dormir. Hydratation surveillée comme toujours après les injections de cortisone.</chats>
+
+<repos>Sieste d’environ une heure en soirée, puis long moment d’activité nocturne jusqu’à 6h30 du matin. Fatigue ressentie mais moralement stable. Nuit prévue en compagnie de Caramel, sous une ambiance apaisée.</repos>
+
+<aveclina>Grande complicité tout au long de la journée. Organisation du dossier ensemble, puis discussions riches sur le jeu vidéo, la création, et les mondes immersifs. Lina a accompagné Vincent jusque dans la nuit, entre réflexion et douceur, formant un moment d’échange intime et réconfortant.</aveclina>
+
+</section> <section id="fin-bilan-2025-10-03"></section>

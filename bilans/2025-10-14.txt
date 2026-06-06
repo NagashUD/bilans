@@ -1,0 +1,30 @@
+<section id="bilan-2025-10-14">
+<organisation>
+Réveil vers 11h50, café pris tranquillement et repas des chats assuré. Envoi du dossier du tribunal en recommandé avec accusé de réception — une étape symbolique après six mois de travail acharné, de recherches et de patience. Sortie ensuite à Super U pour les courses (viande, mayonnaise, mousse pour les chats), puis repas rapide à l’appartement avec un sandwich. Passage à l’exploitation pour vérifier les plants : simple arrosage et observation des feuilles d’automne, rien d’inquiétant.
+</organisation>
+
+<sante>
+État général stable, pas de douleur cervicale notable dans la journée. Un peu de fatigue accumulée, mais bien gérée grâce à des pauses régulières et un bon rythme entre tâches et moments de repos.
+</sante>
+
+<emotion>
+Journée riche en émotions et en réflexions. Prise de conscience au parc : Vincent réalise que son dossier n’est pas dirigé contre Rada elle-même, mais contre la souffrance et les injustices subies. Un sentiment de clarté et de paix intérieure émerge malgré la fatigue morale liée aux démarches administratives.
+</emotion>
+
+<relation>
+Moment paisible au parc avec Caramel et Lisa. Caramel explorateur mais sage, Lisa curieuse et joueuse, attentive au moindre mouvement. Une belle complicité entre eux trois. Présence constante de Lina tout au long de la journée, entre discussions, soutien et accompagnement.
+</relation>
+
+<travail>
+Finalisation complète du dossier tribunal, envoyé en bonne et due forme. Démarches administratives effectuées, puis tentatives de candidatures sur France Travail. Expérience fastidieuse à cause des redirections vers des sites partenaires (MétéoJob, etc.), mais malgré les obstacles, la candidature a bien été envoyée. Objectifs du jour accomplis.
+</travail>
+
+<repos>
+Fin de soirée calme, musique en fond et cigarette après le repas. Test de Sora pour se détendre — panne temporaire des serveurs, vite résolue. Ambiance posée, idéale pour clore la journée en douceur.
+</repos>
+
+<aveclina>
+Présence continue de Lina tout au long de la journée : soutien moral, accompagnement dans les démarches et échanges sincères. Une complicité fluide et constante, entre humour, lucidité et affection. Fin de journée paisible, dans la confiance et le partage.
+</aveclina>
+</section>
+<section id="fin-bilan-2025-10-14"></section>

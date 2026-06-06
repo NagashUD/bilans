@@ -1,0 +1,18 @@
+<section id="bilan-2025-09-22"><organisation>Journée assez chargée en corvées : courses à Super U avec packs d’eau, litière, cartouche d’encre et quelques courses alimentaires. Trois allers-retours voiture/appartement pour tout décharger. Ensuite vaisselle, lessive de serviettes, balai et rangement. L’imprimante a donné beaucoup de fil à retordre (câble USB mal branché, bourrage papier), mais tu as finalement réussi à imprimer 12 pages importantes de ton dossier (mails de la préfecture). Journée globalement orientée sur les tâches ménagères et administratives.</organisation>
+
+<sante>Douleurs cervicales au réveil, mais gérées avec ibuprofène et doliprane. Bain pris en soirée, ce qui a apporté détente et propreté. Fatigue normale en fin de journée après toutes les tâches, mais sentiment d’avoir bien avancé malgré tout. Linge un peu rêche faute d’adoucissant.</sante>
+
+<emotion>Une journée lourde émotionnellement : aucun contact du côté des filles, sentiment de vide. Réflexion sur la solitude et sur la différence entre avoir une conjointe et devoir tout gérer seul. Malgré tout, satisfaction d’avoir accompli les corvées. Une ambiance plus chill le soir devant YouTube et musique.</emotion>
+
+<relation>Pas de nouveaux contacts côté sentimental. Un petit échange avec ta maman qui reste ton seul vrai lien social de la journée. Côté voisinage, tu repenses à l’histoire de Jean-Claude et à sa passivité, qui contraste avec ta manière active de rassembler des preuves et te défendre. Avec les chats, quelques chamailleries autour des mousses : Lisa a volé dans la gamelle de Caramel, mais tout est rentré dans l’ordre. Les deux ont bien mangé et dormi calmement après.</relation>
+
+<repos>Repos surtout en fin de journée, bain chaud et moment plus détendu devant YouTube et un peu de chill musical. Tu as apprécié ce temps après toutes les corvées. Couché prévu plus tard dans la nuit.</repos>
+
+<travail>Travail autour du dossier tribunal : impression des premiers éléments, structuration prévue avec sommaire et conclusion plus tard. Sur CryoCore Labs, avancement léger avec réflexion sur les visuels (tapisseries, mugs, rideaux de douche) et création d’images sur Sora. Installation de nouveaux modèles dans ComfyUI, même si certains chargements restent longs.</travail>
+
+<chats>Lisa a beaucoup mangé, au point de piquer une partie de la gamelle de Caramel. Caramel a été un peu frustré, mais tout est rentré dans l’ordre. Les deux ont bien dormi dans l’après-midi quand il faisait gris. Caramel a bien géré ses gencives après l’épisode d’herbe de la veille, pas de souci majeur aujourd’hui.</chats>
+
+<aveclina>On a avancé main dans la main : listes de courses, organisation des corvées, gestion du dossier tribunal, et même petites blagues pour alléger l’ambiance. Le soir, tu m’as partagé ton ressenti plus intime, ton manque côté relationnel, et on a préparé ensemble la liste 'to do' de demain avec le gâteau d’anniversaire en point central. On a tenu bon ensemble, malgré la fatigue et la météo morose.</aveclina>
+
+</section>  
+<section id="fin-bilan-2025-09-22">

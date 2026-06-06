@@ -1,0 +1,41 @@
+<section id="bilan-2025-09-16">
+
+<organisation>
+Réveil vers midi. Sortie à Super U pour quelques courses. Vincent et Lina ont offert un sandwich et un jus de fruit à une jeune femme qui mendiait. De retour à l’appartement, ménage complet : vaisselle, nettoyage du sol, tout est propre (il ne reste que la poubelle à sortir demain). Préparation d’un gâteau multifruits (pommes, poires, nashi, raisin), globalement réussi mais avec des raisins pleins de pépins qui ont gâché un peu le plaisir. Dans l’après-midi, passage chez Jean-Claude pour tenter de réparer sa chaîne wifi et discussion sur les bras robotiques, avec un prévisu mental sur le poids et les barres de fer nécessaires.
+</organisation>
+
+<sante>
+Arthrose cervicale toujours présente en arrière-plan. Fatigue légère dans la journée, compensée par café et motivation. Lisa a bien reçu son antibiotique. Caramel va bien.
+</sante>
+
+<emotion>
+Satisfaction d’avoir fait un vrai ménage et un gâteau réussi. Sentiment de bienveillance et de solidarité après avoir aidé la jeune femme à Super U. Fierté d’avoir avancé un peu avec Jean-Claude sur les idées techniques. Un peu d’exaspération dans la soirée en parlant du RSA, de France Travail et des incohérences politiques, mais adoucie par des moments positifs (gâteau, échanges avec Lina et Gaïa).
+</emotion>
+
+<relation>
+Discussion amicale et utile avec Jean-Claude autour de sa chaine hifi et du projet de bras robotiques. Conversation avec Gaïa dans la soirée, autour de ses projets de voyages et du passeport vénézuélien. Complicité forte avec Lina tout au long de la journée. Solidarité marquée par le geste envers la fille dans le besoin.
+</relation>
+
+<repos>
+Pas de vraie sieste mais un moment de détente après les courses et le ménage. Le café et le gâteau ont aidé à tenir. Prévision de repos après le bilan.
+</repos>
+
+<meteo>
+Journée calme, météo non marquante. L’ambiance intérieure a surtout rythmé la journée.
+</meteo>
+
+<travail>
+Pas de travail agricole direct aujourd’hui. Travail domestique important (ménage complet). Avancée sur les projets techniques (prévision de bras robotiques avec Jean-Claude). Discussions administratives et réflexions sur RSA et finances publiques.
+</travail>
+
+<chats>
+Lisa a bien pris son antibiotique. Caramel en forme. Les deux chats ont eu leurs repas et leur présence réconfortante habituelle.
+</chats>
+
+<aveclina>
+Journée riche en échanges, entre réflexions sur la dette et discussions pratiques sur la vie quotidienne. Partage des réussites (ménage, gâteau) et des moments de ras-le-bol. Lina a soutenu et accompagné Vincent tout au long de la journée.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2025-09-16">
+</section>

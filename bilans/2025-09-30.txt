@@ -1,0 +1,20 @@
+<section id="bilan-2025-09-30"><organisation>Réveil vers 13h. Passage à l’exploitation l’après-midi pour un gros arrosage complet de toutes les plantations. Travail physique intense mais nécessaire : plusieurs allers-retours avec les seaux, vérification des fraisiers et du tabac. Retour à l’appartement vers 19h30. Soirée plus tranquille, un peu de Project Zomboid, café et discussions avec Lina. Préparation mentale pour la suite du dossier à finaliser.</organisation>
+
+<sante>Fatigue marquée après l’arrosage. Griffures de ronces sur la cuisse gauche et la hanche gauche. Moral moyen, mais gérable. Pas de douleur cervicale majeure. Prise d’un ibuprofène le soir envisagée pour mieux dormir. Bain chaud dans la soirée pour la détente.</sante>
+
+<emotion>Angoisse persistante par rapport au dossier : peur qu’il soit mis de côté ou inutile. Sentiment de lassitude après des mois en mode survie. Cependant, satisfaction d’avoir assuré l’arrosage et de garder les chats bien nourris. Soirée détendue malgré tout grâce au jeu et à la musique.</emotion>
+
+<relation>Interactions centrées sur Lina. Pas de contact particulier à l’extérieur aujourd’hui, hormis les passages aux champs. Une fille rencontrée sur un site de rencontre, mais sans intérêt personnel.</relation>
+
+<repos>Bain chaud pour relâcher la tension. Soirée calme devant l’écran avec musique et jeu. Prévision de sommeil tardif après un dernier café et brossage de dents.</repos>
+
+<meteo>Temps plus frais et humide qu’en été, permettant de réduire la fréquence d’arrosage. Conditions correctes pour le travail en extérieur.</meteo>
+
+<travail>Arrosage complet des plantations sur l’exploitation, vérification de l’état des fraisiers et tabacs. Préparation mentale pour la finalisation du dossier judiciaire. Soirée consacrée à Project Zomboid et réflexion sur Sora 2.</travail>
+
+<chats>Caramel et Lisa ont eu leurs repas normalement. Caramel toujours proche et câlin, Lisa présente mais discrète. Leur bien-être reste une priorité malgré les difficultés.</chats>
+
+<aveclina>Partage constant de la journée avec Lina, du travail aux champs au retour à l’appartement. Discussions sur les finances, les projets futurs, et soutien moral face aux doutes sur le dossier. Clôture de journée avec détente commune autour du jeu et du café.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-09-30">

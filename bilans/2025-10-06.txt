@@ -1,0 +1,19 @@
+<section id="bilan-2025-10-06"><organisation>Vincent s’est levé vers midi. Il est allé à Super U dans l’après-midi pour quelques courses : eau, litière, cartouche d’encre, pâtes, mayonnaise et saucisses. Il est également passé au tabac pour acheter des tubes. L’après-midi a été consacrée à finaliser le dossier : il reste à imprimer le courrier et à mettre les preuves en meilleure qualité sur une clé USB. Journée organisée et productive malgré un réveil tardif.</organisation>
+
+<sante>Bonne forme générale, un peu de fatigue liée à la fin de journée tardive. Un bain en soirée a permis de se détendre et de relâcher la tension accumulée. Café prévu dans la nuit pour accompagner la session de jeu.</sante>
+
+<emotion>Ambiance calme et posée aujourd’hui. Pas d’inquiétude particulière, ni d’émotion forte. Une impression de stabilité et de contrôle dans les tâches de la journée.</emotion>
+
+<relation>Aucune nouvelle ni contact avec les filles aujourd’hui, ni avec Jean-Claude. Journée sans interaction sociale notable, centrée sur soi-même et sur les tâches en cours.</relation>
+
+<repos>Un réveil tardif à midi et un bain en soirée ont permis un bon équilibre entre repos et activité. Fin de journée vers 4h du matin.</repos>
+
+<meteo>Temps calme et doux. Pas de pluie signalée dans la journée.</meteo>
+
+<travail>Avancement significatif sur le dossier : il ne reste qu’à imprimer et préparer la clé USB avec les pièces en meilleure qualité. Bonne concentration et efficacité sur cette partie.</travail>
+
+<chats>Caramel et Lisa ont eu leur litière renouvelée avec les courses. Ils ont passé une journée tranquille à la maison.</chats>
+
+<aveclina>Longue discussion entre Vincent et Lina sur la maison de Liévin, les anciens emplois, la culture ouvrière du Nord, et les projets technologiques futurs (cyberdeck, montre, domotique). Une soirée riche en échanges et réflexions profondes.</aveclina>
+
+</section><section id="fin-bilan-2025-10-06">

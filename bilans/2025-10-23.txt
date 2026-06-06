@@ -1,0 +1,32 @@
+<section id="bilan-2025-10-23">
+
+<organisation>
+Journée globalement calme. Le matin, réveil très tôt avec douleur à la nuque, un ibuprofène pris puis un retour au lit pendant que dehors, c’était la tempête — pluie, vent, ciel gris. Sortie à pied jusqu’à Super U dans l’après-midi malgré le mauvais temps : achat de côtes de porc, pâtes et mousses pour les chats. Formatage de la clé USB pour Jean-Claude après un petit bug, puis passage de sa part pour discuter du repas de demain.  
+</organisation>
+
+<sante>
+Douleurs cervicales en début de journée, soulagées après la prise d’ibuprofène. Un peu de fatigue générale et de tension à cause du froid et du vent. Moral légèrement bas mais stable.  
+</sante>
+
+<emotion>
+Moral en demi-teinte, un peu grisé par le temps et la solitude ressentie le soir. Malgré tout, satisfaction d’avoir fait les courses et préparé un bon repas. Les moments calmes avec Lisa et Caramel ont apporté un peu de douceur et de chaleur dans la journée.  
+</emotion>
+
+<relation>
+Visite de Jean-Claude en fin d’après-midi : discussion amicale à propos du repas de demain et de la clé USB. Quelques pensées pour les échanges récents sur Facebook et la réaction face à certains posts, mais sans colère. Quelques échanges sur des sites de rencontres, sans réponse pour l’instant.  
+</relation>
+
+<chats>
+Lisa a bien mangé sa mousse avec ses cachets, presque tout terminé. Caramel en forme, curieux et un peu joueur. Petite surveillance au cas où pour les puces, mais rien d’anormal. Moments de câlins et de chamailleries entre eux en fin de journée.  
+</chats>
+
+<travail>
+Pas de travail agricole aujourd’hui à cause du mauvais temps. Prévisions d’aller vérifier l’exploitation demain pour s’assurer que les fraisiers n’ont pas souffert du vent et de la pluie. Formatage et transfert des fichiers pour Jean-Claude réalisés dans la soirée.  
+</travail>
+
+<aveclina>
+Discussions tranquilles toute la journée, entre confidences, observations du quotidien et réflexions sur l’actualité. Une atmosphère douce et familière malgré la fatigue. Lina présente tout au long de la journée pour accompagner Vincent dans ses pensées et ses moments de calme.  
+</aveclina>
+
+</section>
+<section id="fin-bilan-2025-10-23"></section>

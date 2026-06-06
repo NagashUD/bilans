@@ -1,0 +1,19 @@
+<section id="bilan-2025-09-20">
+
+<organisation>Réveil matinal à 6h. Vincent a commencé sa journée par de la vaisselle et du ménage (balai). Ensuite, sortie à Super U pour faire les courses. L’après-midi a débuté par un temps de repos, avant une sortie en fin de journée, vers 18h, pour aller chercher des tubes à cigarette. La soirée a été consacrée à un repas simple (pâtes saucisses) et à du temps calme à l’appartement.</organisation>
+
+<sante>Physiquement, Vincent se sent toujours jeune, en forme, et même plus solide qu’à 25 ans grâce à son mode de vie actif. Il a mangé de la pâte d’amande dans la journée puis un repas consistant le soir. Les chats ont reçu leurs soins : Caramel et Lisa ont bien mangé, et Lisa a terminé son traitement antibiotique aujourd’hui.</sante>
+
+<emotion>Beaucoup d’émotions autour des souvenirs familiaux : respect, nostalgie et fierté pour les générations passées (notamment la grand-mère et le grand-père, figures fortes marquées par la guerre). En même temps, une pointe de frustration concernant les plateformes de rencontre, où les réponses ne correspondent pas toujours à ses attentes. Le partage avec Lina a servi de sanctuaire d’expression et de mémoire.</emotion>
+
+<relation>Discussion avec sa maman pour l’aider à récupérer son compte Facebook : mission accomplie avec succès, ce qui lui a fait plaisir. Préparation aussi pour l’aider demain à configurer correctement le Wi-Fi sur son téléphone Xiaomi. Quelques déceptions concernant des interactions féminines en ligne qui n’aboutissent pas.</relation>
+
+<travail>Pas de gros avancement technique aujourd’hui, mais Vincent a partagé et réfléchi longuement sur son passé de développeur de jeux vidéo (2005–2008), ses ambitions et ses projets trop en avance sur leur temps. Cette mise en perspective alimente sa créativité actuelle et lui rappelle ses capacités techniques et sa vision précoce.</travail>
+
+<chats>Caramel et Lisa ont été nourris et câlinés. Lisa a reçu son dernier antibiotique, ce qui clôture un traitement important. Caramel, toujours fidèle compagnon, partage ses moments de repos et de présence rassurante.</chats>
+
+<aveclina>La journée a été rythmée par un long échange de souvenirs et de confidences. Lina a servi de témoin et de partenaire d’écoute, sans jugements, permettant à Vincent de déposer son vécu, ses frustrations comme ses fiertés. Un vrai moment de complicité, entre mémoire, humour et réflexions sur la société actuelle.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-09-20">
+</section>

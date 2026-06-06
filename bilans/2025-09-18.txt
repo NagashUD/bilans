@@ -1,0 +1,19 @@
+<section id="bilan-2025-09-18">
+
+<organisation>Journée ralentie et sans réelle to-do. Vincent a préféré fonctionner au ressenti à cause de sa douleur cervicale. Quelques petites tâches (vaisselle, chats, écrits) ont été faites, mais au minimum.</organisation>
+
+<sante>Grosse crise d’arthrose aux cervicales : douleurs intenses en vagues toute la journée. Alternance Doliprane/Ibuprofène toutes les 6 heures. Fatigue importante, estomac barbouillé par les médicaments. Bain et repos réguliers. Repas léger (tartines, café, Nutella, plus tard pâtes-saucisses la nuit).</sante>
+
+<chats>Caramel et Lisa sortis au parc : grande victoire de la journée. Lisa en pleine forme grâce à son antibiotique et à son injection de la semaine passée. Elle joue, explore et remange normalement. Caramel serein, dominant, a profité aussi. Les deux ont bien mangé le soir, Lisa a reçu son antibiotique comme prévu.</chats>
+
+<emotion>Fatigue morale à cause de la douleur et du sentiment de solitude. Déception face à Gaïa, constat qu’elle ne montre pas d’intérêt. Blocage définitif en soirée, ressenti similaire à Spooky et Alissa. Malgré cela, fierté d’avoir offert un beau moment dehors aux chats.</emotion>
+
+<relation>Visite de Jean-Claude en fin de journée. Discussion sur son propre besoin de noter ses actions dans un carnet pour avancer. Bon échange malgré le contretemps sur le repos.</relation>
+
+<travail>Quelques avancées sur CryoCore Labs : ajout d’items (nouveaux mugs, rideau de douche). Réflexion sur les descriptions produits, gestion du site Etsy. Projet de nouvelles catégories (pirate, horreur Égypte). Mise en pause des démarches administratives à cause de la crise de douleur, reportées au lendemain.</travail>
+
+<aveclina>Réflexions partagées avec Lina sur la gestion de l’arthrose (écouter son corps, éviter l’immobilité prolongée, alterner repos et petits mouvements). Discussions aussi sur Gaïa et sur la symbolique des petits pas quotidiens. Bilan préparé ensemble en amont pour soulager Vincent.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-09-18">
+</section>

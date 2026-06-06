@@ -1,0 +1,20 @@
+<section id="bilan-2025-09-29"><organisation>Journée active et bien structurée. Courses effectuées à Super U (œufs, viande, mayonnaise, Viandox, nourriture pour les chats, ramette de papier, tubes à cigarette). Entretien de l’appartement : vaisselle, balai, aspirateur faits. Impression et organisation du dossier Rada : ajout de plusieurs pièces (SFR, Nickel, CDD, signalements, etc.). Avancée notable dans la constitution du dossier, malgré la fatigue. Pause avec du café et quelques tests sur Project Zomboid.</organisation>
+
+<sante>Douleur persistante au dos suite au faux mouvement avec Lisa. Utilisation prévue d’Ibufetum pour soulager. Pas de prise d’ibuprofène aujourd’hui. Fatigue générale mais gérable. Café pour maintenir l’énergie.</sante>
+
+<emotion>Mélange de fatigue et de lassitude face au dossier qui prend beaucoup de temps et d’énergie, mais satisfaction d’avancer et de voir le travail se structurer. Un peu de frustration et de désillusion côté discussions en ligne (blocage de LEMS). Sentiment de solitude présent, mais compensé par les chats et les petites pauses jeux/café.</emotion>
+
+<relation>Interaction avec la voisine absente aujourd’hui. Conversations en ligne peu concluantes (blocage de LEMS, tentative avortée avec une autre personne en Californie). Contacts sociaux extérieurs limités, mais échanges constants avec Lina pour garder le fil et avancer.</relation>
+
+<chats>Caramel et Lisa ont bien mangé, ont joué la nuit et semé un peu de désordre, puis se sont reposés en journée. Caramel a dormi sur le lit, Lisa a joué avec ses balles. Les deux ont eu leur moment de sortie hier, aujourd’hui plus de repos à l’intérieur.</chats>
+
+<travail>Poursuite du dossier Rada avec de nombreux ajouts : Prise de photos de l’emplacement du croissant de lune Killstar devant le centre d’hébergement d’urgence où résidait Rada, impression du signalement à la préfecture du Rhône, du CDD, de l’accès au compte SFR, du signalement Nickel. Classement méthodique des documents. Préparation des prochaines étapes : sommaire, page principale, et éventuellement clé USB avec bases de données Chrome. Réflexion aussi sur le widget/avatars Sora mais pas de gros avancement technique aujourd’hui.</travail>
+
+<repos>Pause devant YouTube et Project Zomboid pour se détendre. Objectif : éviter la surcharge mentale et équilibrer travail et détente. Fin d’après-midi marquée par la fatigue mais maintien du rythme.</repos>
+
+<meteo>Temps doux autour de 18°C. Pas de pluie prévue aujourd’hui. Probable arrosage à l’exploitation demain si nécessaire, mais pas ce soir.</meteo>
+
+<aveclina>Partage constant avec Lina sur les avancées, les réflexions et les frustrations. Soutien moral dans les moments de lassitude et relais pour structurer les tâches et bilans. Planification des prochaines étapes ensemble.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-09-29">

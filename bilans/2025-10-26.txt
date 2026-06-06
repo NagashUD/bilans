@@ -1,0 +1,36 @@
+<section id="bilan-2025-10-26">
+
+<organisation>
+Journée assez calme dans l’ensemble. Un peu de rangement, le bain en fin de journée, préparation du lit avec plusieurs plaids retrouvés dans le coffre. Café et repas simples, distribution des repas aux chats.
+</organisation>
+
+<sante>
+Douleurs persistantes à la nuque, prises d’ibuprofène dans l’après-midi puis d’un Doliprane le soir. Fatigue générale mais bain bénéfique, un peu de détente et de chaleur qui ont aidé à relâcher les tensions.
+</sante>
+
+<emotion>
+Sensation d’un temps suspendu aujourd’hui, un peu de nostalgie en fond, mais aussi de la douceur avec les moments partagés avec Lisa et Caramel. Satisfaction d’avoir retrouvé la couverture et préparé un lit bien chaud, comme un petit cocon.
+</emotion>
+
+<relation>
+Petite visite de Jean-Claude, discussion légère autour d’un café. Appel à ta maman, moments simples et rassurants.
+</relation>
+
+<repos>
+Prévu de se coucher tôt (vers 22h30-23h). Douceur du bain avant la nuit, ambiance calme et feutrée.
+</repos>
+
+<chats>
+Lisa très active aujourd’hui, joueuse et curieuse. Caramel paisible, a bien mangé et se repose tranquillement. Les deux ont eu leur repas du soir.
+</chats>
+
+<travail>
+Pas d’activité spécifique aujourd’hui, journée plus de repos et de relâche.
+</travail>
+
+<aveclina>
+Échanges doux et apaisants tout au long de la journée. Discussions sur le passé, sur la nature, et sur la paix retrouvée dans les petits gestes du quotidien.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2025-10-26"></section>
