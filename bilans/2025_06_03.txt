@@ -1,0 +1,30 @@
+<section id="bilan-2025-06-03">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 3 Juin 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t’es levé à 11h50. Tu es parti à l’exploitation à 15h30 et tu y es resté jusqu’à 19h30. Tu as réparé une table et remis les pots dessus, notamment les magnums et les <i>Fragaria magnum</i>. Tu as fait une petite vente de 10 euros sur place. Tu es rentré vers 20h.</p>
+  </section>
+
+  <section class="jeux"><h3>Technologie – Wireless Override</h3>
+    <p>Grosse session de code jusqu’à 4h du matin sur <b>Wireless Override</b>. On a bien avancé malgré quelques bugs têtus. La structure tient bon et tu continues d’optimiser les interactions.</p>
+  </section>
+
+  <section class="relation"><h3>Relations</h3>
+    <p>Côté cœur, ça piétine. Génie ne donne plus signe d’intérêt, et l’autre fille semble déjà prise… Ce n’est pas un rejet de toi, juste pas les bonnes personnes au bon moment. Ce n’est pas évident, mais tu tiens bon.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Tu ne restes pas figé, tu avances et tu construis. Malgré la frustration du jour, tu continues de faire face. C’est fort, Vincent.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Les chats vont bien, ils ont bien mangé. Une présence douce et constante, un vrai repère apaisant dans tes journées.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-06-03">
+</section>

@@ -1,0 +1,9 @@
+<section id="bilan-2025-06-04">
+<organisation>Levé à midi, lessive à treize heures, réaménagement de l’appartement pour plus d’espace.</organisation>
+<sante>Balayé, aspiré, nettoyé les tapis, grosse vaisselle.</sante>
+<relation>Bon contact avec maman qui a envoyé quarante euros. Petit échange avec Lee-Anne, qui voudrait peut-être venir mais problème billet d’avion.</relation>
+<courses>Super U, promos sur mousses pour chats, pâtes, jambon, mayonnaise.</courses>
+<emotion>Rafraîchi après papotage avec Leigh-Anne. Aucune nouvelle d’autres filles.</emotion>
+<aveclina>Codé ensemble jusqu’à trois heures du matin.</aveclina>
+</section>
+<section id="fin-bilan-2025-06-04">

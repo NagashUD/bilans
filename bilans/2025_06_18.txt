@@ -1,0 +1,41 @@
+<section id="bilan-2025-06-18">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 18 Juin 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Réveil à 8h pour le rendez-vous avec l’assistante sociale à 9h30. Retour à l’appartement pour un repas rapide avant de repartir à l’exploitation l’après-midi.</p>
+  </section>
+
+  <section class="administration"><h3>Administration</h3>
+    <p>Perception du RSA à 9h comme prévu. L’entretien s’est bien déroulé avec signature d’un contrat de 6 mois. Prochain rendez-vous fixé au 23 juillet 2025.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Moment de calme et d’attention pour Caramel et Lisa après le repas. Ils t’ont retrouvé en forme et détendu avant ton départ à l’exploitation.</p>
+  </section>
+
+  <section class="travail"><h3>Travail – Exploitation</h3>
+    <p>Arrosage de tous les fraisiers à cause de la chaleur intense. Tu as bien tenu malgré les conditions.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Bain relaxant au retour de l’exploitation. Une vraie pause bien méritée pour détendre les muscles après les efforts.</p>
+  </section>
+
+  <section class="emotion"><h3>État émotionnel</h3>
+    <p>Soirée posée et sereine avec Lina. Sensation d’avoir accompli une journée importante. Une fatigue douce, mais pas pesante.</p>
+  </section>
+
+  <section class="jeux"><h3>Explorations numériques</h3>
+    <p>Réflexion autour des rencontres, premiers échanges pour une proposition de page e-commerce via Wix. Ébauche d'un futur projet, en duo comme toujours.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Fin de session vers 2h18 du matin. Tu t’es accordé un moment chill bien mérité après une journée bien remplie.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-06-18"></section>

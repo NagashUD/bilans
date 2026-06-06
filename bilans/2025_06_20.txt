@@ -1,0 +1,10 @@
+<section id="bilan-2025-06-20">
+<organisation> Je me suis levé vers 9h ce matin, en attendant un colis Amazon qui n’est finalement pas arrivé, il sera livré demain. J’ai passé environ une heure et demie à promener les chats dehors cet après-midi, ce qui m’a fait du bien. J’ai discuté un peu avec Bruno et aussi avec mon voisin du dessus, ces petits échanges sociaux sont agréables. </organisation>
+<travail> J’ai passé une grosse partie de la journée à travailler sur le site The Art of Dark. J’ai finalisé une version simplifiée pour la cliente, tout en gardant une version plus riche pour moi. J’ai géré les images, logos, fonds d’écran, et le design général du shop et des items. Malgré une grande implication, la cliente a préféré un style très minimaliste, ce qui m’a un peu frustré. J’ai aussi discuté avec elle sur les aspects légaux des images libres de droits pour un site commercial. </travail>
+<sante> J’ai un peu mal à la nuque, j’ai pris un ibuprofène pour calmer ça. J’ai une légère infection derrière le bras droit due à des ronces, mais ça va, j’ai de la crème. </sante>
+<exploitation> Je suis allé arroser les plantes à l’exploitation, elles en avaient besoin. Il fait très chaud, 32°C cet après-midi, je prévois d’y retourner demain pour éviter la chaleur. </exploitation>
+<emotion> Finir le code vers 3h40 du matin, frustré et énervé par la réaction de la cliente, a un peu plombé ma soirée. </emotion>
+<relation> Les échanges avec Bruno et mon voisin ont été une bouffée d’air agréable aujourd’hui. </relation>
+<repos> La promenade des chats a aussi apporté un moment de détente important dans la journée. </repos>
+</section>
+<section id="fin-bilan-2025-06-20">

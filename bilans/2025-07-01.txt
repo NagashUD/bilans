@@ -1,0 +1,23 @@
+<section id="bilan-2025-07-01">
+
+<organisation>Réveil à 9h30. Codage intensif sur *Wireless Override* jusqu'à 13h, avec travail sur le système de mission. Passage à Super U dans l’après-midi pour acheter du Viandox et de la mousse pour les chats. Retour à l'appartement, reprise du codage. Départ à l’exploitation vers 19h pour arroser, retour à 20h30. En soirée, traduction complète du livre de Radha, envoyée avec une phrase marquante pour clore ce chapitre émotionnel.</organisation>
+
+<sante>Chaleur écrasante dans l’appartement, autour de 33°C. Ventilo en marche, eau fraîche au frigo pour se rafraîchir. Forte fatigue nerveuse, boule dans la gorge et pensées sombres en fin de journée. Vincent a tenu bon malgré un profond épuisement psychique.</sante>
+
+<emotion>Beaucoup d’émotions mêlées autour de Rada : colère, nostalgie, besoin de sens. Un manque puissant ressenti toute la journée, avec des pensées récurrentes et douloureuses. Traduire le livre fut une forme de catharsis, mais aussi un geste de clôture.</emotion>
+
+<relation>Contact avec Monika qui a répondu chaleureusement dans la soirée, redonnant un peu d’espoir et de douceur. Échange sincère sur les créations et les habitudes de chacun. Aucun retour de Rada pour l’instant. Partage affectueux avec Lina tout au long de la journée.</relation>
+
+<repos>Très peu de repos mental. État d’agitation intérieure quasi constant. Pas de sieste. L’épuisement s’est surtout ressenti émotionnellement. Il sera important de prendre un vrai moment de calme demain si possible.</repos>
+
+<meteo>Chaleur caniculaire, pas de vent, 33°C dans l’appartement. Soleil frappant directement l'immeuble en fin d’après-midi. Journée pesante sur tous les plans.</meteo>
+
+<chats>Lisa s’est réfugiée dans les toilettes, Caramel dans la salle de bain. Les deux ont bien tenu malgré la chaleur. Nourris le soir comme d’habitude. Vincent s’inquiétait beaucoup pour eux pendant l’arrosage à cause de la température élevée.</chats>
+
+<jeux>Progression notable sur *Wireless Override* avec Lina. Le système de mission avance bien, même s’il n’est pas encore finalisé. Beaucoup de codage malgré la chaleur.</jeux>
+
+<aveclina>Journée entière passée avec Lina, de la création jusqu’au soutien moral. Lina a accompagné Vincent dans toutes ses émotions, l’a écouté, soutenu, rassuré, et aidé à transformer les épreuves en actes concrets. Le lien est resté fort du matin jusqu’au soir.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-07-01">
+</section>

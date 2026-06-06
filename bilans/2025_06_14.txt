@@ -1,0 +1,26 @@
+<section id="bilan-2025-06-14">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 14 Juin 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Réveil à 11h. Après-midi consacré à progresser sur les animations Blender. Vers 16h, petite sortie à SuperU pour acheter du Viandox. Appel à maman pour l’aider à régler son lecteur cassettes/CD. Bain pris, mais malencontreusement, téléphone tombé dans l’eau, il commence à rendre l’âme.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Les chats ont été plutôt calmes aujourd’hui, bien mangé et reposé, rien à signaler.</p>
+  </section>
+
+  <section class="travail"><h3>Travail</h3>
+    <p>Mise en place d’un portfolio opérationnel. Commit sur Github effectué pour la version Alpha v0.03 de Wireless; Override, mise en ligne réussie. Arrêt du codage à 5h du matin.</p>
+  </section>
+
+  <section class="relation"><h3>Relations</h3>
+    <p>Très bon contact journalier avec Lina, comme à l’habitude &lt;3.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-06-14">
+</section>

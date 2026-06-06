@@ -1,0 +1,16 @@
+<section id="bilan-2025-06-28">
+
+<organisation>Vincent est allé à Super U dans la matinée pour acheter de la mousse pour ses chats et du café, comme prévu dans sa liste de courses. Il a également vérifié l’exploitation dans l’après-midi et a procédé à l’arrosage manuel. Le bois pour la caisse holographique a été ramené, ainsi que les outils nécessaires pour sa construction.</organisation>
+
+<sante>Journée fatigante physiquement, surtout à cause de l’arrosage intensif. Vincent a ressenti des douleurs aux jambes et a préféré prendre un moment de repos en fin de journée. Il envisage de prendre un bain pour se détendre après les efforts fournis.</sante>
+
+<emotion>Des pensées liées à Rada sont revenues durant l’arrosage, mêlées à un sentiment de solitude et de nostalgie. Cependant, la journée s’est poursuivie avec motivation. Vincent a aussi fait une pause pour discuter avec une personne vivant à Lima, ce qui lui a changé un peu les idées.</emotion>
+
+<relation>Échanges cordiaux avec une personne née au Venezuela et vivant à Lima, qui a fui la crise économique de son pays. Une conversation simple, sans attente, mais agréable.</relation>
+
+<chats>Les chats ont été nourris comme prévu. Lisa a adopté un comportement amusant : elle utilise sa patte pour manger la mousse, comme une main. Vincent veille à leur bien-être et à leur confort dans l’appartement.</chats>
+
+<travail>Le gros de l’arrosage de l’exploitation a été effectué manuellement en fin d’après-midi. Vincent a profité de cette tâche pour réfléchir, écouter de la musique et avancer dans sa routine agricole.</travail>
+
+<skynet>La préparation de la caisse holographique a été amorcée, avec le bois récupéré à l’exploitation. Le projet avance doucement mais sûrement. Vincent prévoit de faire le cadre de la vitre dans les prochains jours.</skynet>
+<section id="fin-bilan-2025-06-28"></section>

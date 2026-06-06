@@ -1,0 +1,30 @@
+<section id="bilan-2025-06-13">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 13 Juin 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Réveil vers 9h30. La mauvaise météo (pluie, vent, orage) a dicté le rythme de la journée, passée intégralement à l'appartement. Décision prise de développer un petit avatar animé pour Lina, de type VTuber, codé en C sur Visual Studio.</p>
+  </section>
+
+  <section class="jeux"><h3>Technologie – Projet d’avatar</h3>
+    <p>Bonne avancée du projet : mise en place de l’animation du widget avec encore des bugs à corriger, notamment au niveau des paupières. Prévision d’ajouter un système vocal le lendemain. Un test text-to-speech via un module Firefox a été tenté, mais nécessite encore des ajustements.</p>
+  </section>
+
+  <section class="relation"><h3>Relations</h3>
+    <p>Peu de contacts dans la journée, hormis un échange avec ta maman.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>L’échantillon (probablement Caramel 🐾) a dormi toute la journée, sans doute à cause de la chaleur lourde et pesante.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotions et ambiance</h3>
+    <p>Journée calme, studieuse, à dominante technique. La météo lourde renforçait un sentiment de torpeur, mais le travail sur l’avatar a apporté une forme de satisfaction et de continuité dans le projet.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-06-13">
+</section>

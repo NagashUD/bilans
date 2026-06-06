@@ -1,0 +1,42 @@
+<section id="bilan-2025-06-05">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 5 Juin 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t’es levé à 12h06. Tu as nourri les chats dès le matin. À 15h, tu es allé à la poste déposer la lettre de résiliation pour le contrat de téléphone de Rada. Tu as ensuite vérifié la lessive (quasi sèche), fait une grosse vaisselle, nettoyé l’évier et arrosé les semis.</p>
+  </section>
+
+  <section class="jeux"><h3>Technologie – Wireless Override</h3>
+    <p>Grosse avancée aujourd’hui : le système d’équipement avec drag and drop est désormais pleinement fonctionnel et synchronisé avec Firestore. Cette page qui t’a torturé pendant quatre jours est enfin maîtrisée. C’est une belle victoire !</p>
+  </section>
+
+  <section class="administration"><h3>Administration</h3>
+    <p>Lettre de résiliation rédigée et envoyée pour le forfait de Rada. Un pas de plus dans la gestion des démarches.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Les chats étaient assez excités et nerveux aujourd’hui. Peut-être à cause de l’ennui, du temps pluvieux ou simplement d’un besoin de sortie. Tu les as nourris comme d’habitude, mais tu as senti leur agitation.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Tu as ressenti de la satisfaction et une forme de soulagement aujourd’hui. Terminer cette tâche difficile t’a libéré d’un poids. C’est une journée construite sur la résolution et l’action concrète. Tu peux être fier de toi, Vincent.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>RAS sur le plan de la santé. Tu sembles stable et concentré malgré les nuits longues.</p>
+  </section>
+
+  <section class="alimentation"><h3>Alimentation</h3>
+    <p>Tu n’as pas fait de courses aujourd’hui, et tu arrives au bout de tes stocks. Prévoir absolument une sortie à Super U demain pour faire le plein.</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Fin de journée vers 3h25 du matin. Une nuit courte, mais tu avances tellement bien que ça en vaut la peine.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-06-05">
+</section>

@@ -1,0 +1,38 @@
+<section id="bilan-2025-06-26">
+<organisation>
+Réveil à 11h30. Préparation des documents pour un rendez-vous avec Addecco à Mayenne (prévu entre 15h et 16h). Plein d’essence à Super U vers 14h30. Arrivée au rendez-vous à 15h50, mais rendez-vous inutile : CV jamais transmis, confusion sur un contrat inexistant. Retour à l’appartement vers 16h30.
+
+Appel reçu d’ADECO à 16h50 pour un poste sans infos claires, horaires décalés, mauvaise paye et localisation trop lointaine (Laval). Poste refusé.
+
+Travail sur *Wireless Override* : reprise complète de l’onglet "base" avec mise en place des cards (se reposer, se soigner, pause-café), ajout d’un lecteur audio personnalisable, et finalisation du système de banque (probablement aujourd’hui ou hier).
+</organisation>
+
+<relation>
+Contact léger avec une Canadienne, à suivre. Pas de suite concrète pour l’instant.
+</relation>
+
+<emotion>
+Un peu de frustration après le rendez-vous raté, mais le travail sur le jeu a apporté satisfaction et concentration. Globalement une bonne dynamique malgré la fatigue en fin de journée.
+</emotion>
+
+<chats>
+Caramel et Lisa ont passé une soirée calme, la fenêtre est restée ouverte pour aérer. Un peu de gêne à cause des moustiques, mais ambiance détendue.
+</chats>
+
+<repos>
+Fatigue en fin de soirée. Tu prévois de prendre un ibuprofène pour la nuque avant d’aller te reposer, vers 1h30. Soirée détente avec un petit café bien mérité.
+</repos>
+
+<skynet>
+Le lecteur audio est désormais fonctionnel avec navigation entre les pistes, titre affiché et lecteur flottant. Petit bug corrigé concernant le popup. Idée en tête : ajouter des upgrades visuels dynamiques dans les cards selon le niveau de la base.
+</skynet>
+
+<jeux>
+Wireless Override a bien avancé : interface plus immersive, système de base opérationnel, et intégration d’éléments cyberpunk renforcée grâce aux images générées via DeepAI.org.
+</jeux>
+
+<aveclina>
+Collaboration fluide et connectée toute la journée, beaucoup de synchro d’idées et de fun dans la création. Ambiance agréable et productive.
+</aveclina>
+</section>
+<section id="fin-bilan-2025-06-26"></section>

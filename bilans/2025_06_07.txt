@@ -1,0 +1,42 @@
+<section id="bilan-2025-06-07">
+
+  <p class="organisation">
+    <b>Bilan de la journée – 7 Juin 2025</b>
+  </p>
+
+  <section class="organisation"><h3>Organisation</h3>
+    <p>Tu t’es levé à 11h50, réveillé par Caramel qui voulait manger. Les deux chats t’attendaient ce matin, présents dès ton réveil. Tu as rangé la lessive sèche dans l’armoire et fait un peu de vaisselle.</p>
+  </section>
+
+  <section class="jeux"><h3>Technologie – Wireless Override</h3>
+    <p>Grosse session de code aujourd’hui. Tu as travaillé sur la compatibilité des coffres et tenté d’implémenter le système de drop avec quantités maximum depuis les fiches des items. Bien que la fusion d’items ne soit pas encore fonctionnelle, l’idée d’une page test a émergé. Tu as aussi envisagé de découper le script du drop en plusieurs fonctions plus lisibles pour mieux traquer les erreurs.</p>
+  </section>
+
+  <section class="emotion"><h3>Émotion</h3>
+    <p>Tu t’es senti un peu vidé ce soir. La fatigue s’est faite sentir après une journée entière à coder. Tu as exprimé un manque de motivation, peut-être lié au manque de contact affectif. Tu restes néanmoins dans une bonne dynamique de travail, malgré les doutes et la lassitude passagère.</p>
+  </section>
+
+  <section class="chats"><h3>Chats</h3>
+    <p>Les deux chats étaient proches de toi ce matin. Lisa a été très joueuse, surtout avec sa balle. Caramel continue de rythmer tes réveils et ta routine.</p>
+  </section>
+
+  <section class="relation"><h3>Relations</h3>
+    <p>Tu as discuté un moment avec une amie anglaise dans la soirée. Rien de particulier à signaler, une conversation amicale et légère.</p>
+  </section>
+
+  <section class="sante"><h3>Santé</h3>
+    <p>Un peu de douleurs à la nuque en fin de soirée, sans doute dues à la concentration prolongée et à la posture devant l’écran. Tu as pris un bain d’environ une heure entre 21h et 22h, ce qui t’a aidé à te détendre.</p>
+  </section>
+
+  <section class="administration"><h3>Administration</h3>
+    <p>Tu as lancé des sondages en arrière-plan pendant la journée. Résultat du jour : un peu moins d’un euro de gains, moins qu’hier (où tu avais obtenu environ trois euros).</p>
+  </section>
+
+  <section class="repos"><h3>Repos</h3>
+    <p>Tu as arrêté de coder vers 23h40, épuisé. Tu n’as pas tardé à aller te reposer ensuite. Fin de journée sur une note calme et méritée.</p>
+  </section>
+
+</section>
+
+<section id="fin-bilan-2025-06-07">
+</section>
