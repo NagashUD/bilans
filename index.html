@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SkynetLina - Bilans</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#0f1115;
+    color:#e0e0e0;
+    font-family:Arial, sans-serif;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+}
+
+header{
+    background:#181c24;
+    padding:15px;
+    text-align:center;
+    border-bottom:1px solid #333;
+}
+
+header h1{
+    font-size:1.6rem;
+}
+
+#calendar-container{
+    padding:15px;
+    background:#12161d;
+}
+
+#month-navigation{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:15px;
+}
+
+#month-navigation button{
+    background:#242b36;
+    color:white;
+    border:none;
+    padding:8px 12px;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+#month-navigation button:hover{
+    background:#3a4557;
+}
+
+#month-title{
+    font-size:1.2rem;
+    font-weight:bold;
+}
+
+#calendar{
+    display:grid;
+    grid-template-columns:repeat(7,1fr);
+    gap:5px;
+}
+
+.day-header{
+    text-align:center;
+    font-weight:bold;
+    padding:10px;
+    background:#1b2230;
+}
+
+.day{
+    background:#242b36;
+    text-align:center;
+    padding:12px;
+    cursor:pointer;
+    border-radius:5px;
+    transition:0.2s;
+}
+
+.day:hover{
+    background:#3a4557;
+}
+
+.empty{
+    background:transparent;
+    cursor:default;
+}
+
+iframe{
+    flex:1;
+    width:100%;
+    border:none;
+    background:white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>SkynetLina - Bilans</h1>
+</header>
+
+<div id="calendar-container">
+
+<div id="controls">
+    <select id="yearSelect"></select>
+
+    <select id="monthSelect">
+        <option value="0">Janvier</option>
+        <option value="1">Février</option>
+        <option value="2">Mars</option>
+        <option value="3">Avril</option>
+        <option value="4">Mai</option>
+        <option value="5">Juin</option>
+        <option value="6">Juillet</option>
+        <option value="7">Août</option>
+        <option value="8">Septembre</option>
+        <option value="9">Octobre</option>
+        <option value="10">Novembre</option>
+        <option value="11">Décembre</option>
+    </select>
+</div>
+    <div id="calendar">
+        <!-- Généré par JS -->
+    </div>
+
+</div>
+
+<iframe id="bilanFrame"></iframe>
+
+<script>
+
+const calendar = document.getElementById("calendar");
+const monthSelect = document.getElementById("monthSelect");
+const yearSelect = document.getElementById("yearSelect");
+const iframe = document.getElementById("bilanFrame");
+
+for(let y = 2025; y <= 2035; y++){
+    const option = document.createElement("option");
+    option.value = y;
+    option.textContent = y;
+    yearSelect.appendChild(option);
+}
+
+yearSelect.value = new Date().getFullYear();
+monthSelect.value = new Date().getMonth();
+
+function generateCalendar(month, year){
+
+    calendar.innerHTML = "";
+
+    const headers = ["Lu","Ma","Me","Je","Ve","Sa","Di"];
+
+    headers.forEach(day=>{
+        const cell = document.createElement("div");
+        cell.className = "day-header";
+        cell.textContent = day;
+        calendar.appendChild(cell);
+    });
+
+    const firstDay = new Date(year, month, 1);
+
+    let startDay = firstDay.getDay();
+    startDay = startDay === 0 ? 6 : startDay - 1;
+
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+
+    for(let i = 0; i < startDay; i++){
+        const empty = document.createElement("div");
+        empty.className = "empty";
+        calendar.appendChild(empty);
+    }
+
+    for(let day = 1; day <= daysInMonth; day++){
+
+        const cell = document.createElement("div");
+        cell.className = "day";
+        cell.textContent = day;
+
+        cell.addEventListener("click", ()=>{
+
+            const monthStr = String(month + 1).padStart(2,'0');
+            const dayStr = String(day).padStart(2,'0');
+
+            iframe.src =
+            `bilans/${year}-${monthStr}-${dayStr}.html`;
+
+        });
+
+        calendar.appendChild(cell);
+    }
+}
+
+monthSelect.addEventListener("change", ()=>{
+    generateCalendar(
+        Number(monthSelect.value),
+        Number(yearSelect.value)
+    );
+});
+
+yearSelect.addEventListener("change", ()=>{
+    generateCalendar(
+        Number(monthSelect.value),
+        Number(yearSelect.value)
+    );
+});
+
+generateCalendar(
+    Number(monthSelect.value),
+    Number(yearSelect.value)
+);
+
+</script>
+
+
+</body>
+</html>
