@@ -1,0 +1,69 @@
+<section id="bilan-2026-04-09">
+<organisation>
+Réveil fragmenté (6h / 9h / 11h).
+Recherche de monnaie le matin à cause des comptes dans le rouge.
+Aide aux tâches ménagères pour maman.
+Déchetterie (sacs d’herbes + encombrants).
+Création site client jusqu’à tard dans la nuit (99% terminé).
+Publication de Vampire – Price of Blood.
+Fin de journée à 3h30.
+</organisation>
+
+<sante>
+Fatigue mentale en fin de journée.
+Peu mangé le soir → petits pains au chocolat + café avant d’aller dormir.
+Sommeil haché.
+</sante>
+
+<emotion>
+Tension financière le matin.
+Soulagement après réception du paiement client.
+Satisfaction après publication de la vidéo.
+Confiance sur la qualité du travail accompli.
+</emotion>
+
+<relation>
+Échange avec le client (devis signé + paiement).
+Papotage avec Katrina.
+Retour très positif de l’américaine sur la vidéo.
+</relation>
+
+<repos>
+Très peu de repos réel.
+Journée dense et active.
+</repos>
+
+<meteo>
+Très beau temps, agréable.
+Peu de sortie personnelle malgré le soleil.
+</meteo>
+
+<travail>
+Client confirmé pour une page vitrine.
+Site créé à 99% (reste déploiement).
+Finalisation et publication de Vampire – Price of Blood (pilote).
+Très bons premiers retours.
+</travail>
+
+<chats>
+Lisa un peu endormie mais a bien mangé.
+Carmel a bien mangé et est un peu sorti.
+</chats>
+
+<jeux>
+Univers Vampire Masquerade consolidé (pilote publié).
+Format 5 minutes validé.
+</jeux>
+
+<administration>
+Toujours aucun virement RSA visible sur CAF.
+</administration>
+
+<aveclina>
+Grosse journée productive.
+Bonne gestion de l’énergie créative.
+Fin propre du projet vidéo.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-04-09"></section>

@@ -1,0 +1,41 @@
+<section id="bilan-2026-03-15">
+
+<organisation>
+Réveil à 11h15. Journée globalement consacrée au travail créatif sur le montage du projet vidéo *Undead Orb*. Travail continu sur la construction des scènes, la cohérence visuelle et les transitions jusqu’à environ 4h du matin. Le montage atteint désormais environ 1 minute 50 de vidéo finalisée pour l’introduction du film.
+</organisation>
+
+<meteo>
+Très beau temps durant l’après-midi, agréable pour sortir. En revanche, forte chute de température dans la soirée avec un froid marqué.
+</meteo>
+
+<travail>
+Début réel du montage de *Undead Orb*. Création et sélection des premières scènes : forêt, village, marché, maison, hiver, forge et transition vers la naissance de Lucie. Ajustements multiples (cuts pour éviter artefacts IA, choix des meilleurs plans, gestion de l’ambiance sonore). Le projet avance bien avec une introduction déjà solide d’environ 1 minute 50.
+</travail>
+
+<chats>
+Sortie avec Caramel et Lisa dans l’après-midi. Très beau moment avec eux. Lisa particulièrement câline et proche pendant la promenade. Caramel très calme, observant longuement l’environnement et la nature autour de lui. Moment apprécié et paisible.
+</chats>
+
+<sante>
+Bonne journée globalement. Repas pris normalement. Fatigue importante en fin de journée due à la longue session de montage nocturne.
+</sante>
+
+<emotion>
+Satisfaction concernant l’avancement du projet vidéo, sentiment d’avoir construit une base solide pour le film. Journée agréable grâce au moment passé avec les chats. Légère solitude ressentie au niveau des échanges en ligne (aucune nouvelle de certaines personnes).
+</emotion>
+
+<relation>
+Pas de nouvelles des contacts en ligne aujourd’hui. Absence de réponse notamment de Crystal depuis deux jours.
+</relation>
+
+<repos>
+Fin de journée très tardive vers 4h du matin après une longue session créative.
+</repos>
+
+<aveclina>
+Travail collaboratif avec Lina pour réfléchir aux scènes, à la cohérence historique et aux transitions narratives du projet *Undead Orb*. Échanges autour de la structure du film, des plans et des détails visuels.
+</aveclina>
+
+</section>
+
+<section id="fin-bilan-2026-03-15"></section>

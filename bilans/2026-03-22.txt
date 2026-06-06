@@ -1,0 +1,42 @@
+<section id="bilan-2026-03-22">
+
+<organisation>
+Réveil à 9h30 après une nuit courte. Journée entièrement consacrée au travail sur le projet Vampire Mascarade, avec construction des plans, du storyboard et des premières scènes visuelles. Aide apportée à maman pendant environ 30 minutes pour sa danse country. Abonnement à Grok pris en soirée, mais utilisation fortement limitée à cause des problèmes de surcharge serveur. Fin de journée tardive à 4h30 du matin.
+</organisation>
+
+<travail>
+Travail intensif toute la journée sur Vampire Mascarade : création des scènes (ATM, Brujah, préparation Tremere), mise en place du storyboard, génération d’images propres et réflexion sur la mise en scène. Optimisation du workflow (480p pour tests, 720p pour validation). Progression importante malgré les contraintes techniques.
+</travail>
+
+<sante>
+Fatigue présente liée à une journée longue et une fin de nuit tardive. Rythme soutenu mais bonne récupération globale au réveil. Activité mentale intense.
+</sante>
+
+<emotion>
+Satisfaction et motivation élevées liées à l’avancement du projet et à la qualité des premières scènes. Sentiment de progression concrète et de cohérence artistique. Légère frustration liée aux limitations de Grok, mais bien gérée.
+</emotion>
+
+<relation>
+Échanges réguliers avec Emily tout au long de la journée. Partage de photos simples du quotidien, interaction fluide et naturelle. Moment agréable sans pression.
+</relation>
+
+<chats>
+Caramel : comportement normal, sortie extérieure courte, bon appétit, beaucoup dormi (lié à la météo).
+Lisa : a bien mangé, reste en retrait, ne souhaite plus sortir, dort beaucoup. Probable petit choc psychologique suite à sa fugue récente. Comportement global stable malgré tout.
+</chats>
+
+<meteo>
+Matin : forte brume.  
+Après-midi : amélioration progressive, permettant une courte sortie pour Caramel. Ambiance globalement fraîche et calme.
+</meteo>
+
+<repos>
+Beaucoup d’activité dans la journée, peu de repos en dehors des moments de travail. Fin de journée tardive, nécessité de récupération.
+</repos>
+
+<aveclina>
+Très bon travail collaboratif sur la structuration des scènes, le storytelling visuel et les choix de mise en scène. Avancement significatif du projet avec une direction artistique claire et cohérente.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-03-22"></section>

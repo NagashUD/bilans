@@ -1,0 +1,37 @@
+<section id="bilan-2026-04-10">
+<organisation>
+Réveil vers 11h. Finalisation du site du client (formulaire de contact, adresse e-mail et derniers ajustements). L’après-midi a été consacrée à l’accompagnement du client pour l’hébergement : il ne possédait qu’un nom de domaine sans hébergeur. L’achat de l’hébergement a été effectué et la mise en ligne est reportée au lendemain après validation. Fin de soirée consacrée à la détente.
+</organisation>
+
+<travail>
+Travail sur la finition du site web : configuration du contact et des informations essentielles. Assistance et conseil au client pour le choix de l’hébergement (IONOS). Bonne gestion de la relation client avec pédagogie et professionnalisme. Projet prêt pour la mise en ligne dès validation de l’hébergement.
+</travail>
+
+<chats>
+Caramel : RAS. Il a bien mangé, profité de l’extérieur et a été brossé. Comportement normal et détendu.
+
+Lisa : Légère gêne bucco-dentaire observée avec une hypersalivation modérée et un léchage fréquent des babines. Malgré cela, elle a très bien mangé (mousse diluée avec de l’eau), est restée active et agile. Prise de son antibiotique effectuée. Un détartrage est envisagé dès que le budget le permettra.
+</chats>
+
+<sante>
+État général satisfaisant. Journée marquée par un besoin de détente après une période de stress liée au client. Projet de soins dentaires personnels (bridge) reporté en raison de contraintes budgétaires, sans caractère d’urgence immédiate.
+</sante>
+
+<meteo>
+Très belle journée ensoleillée. Apparition de pluie légère durant la nuit.
+</meteo>
+
+<repos>
+Soirée détente : bain, repas, visionnage de YouTube, moment calme avec les chats. Fin de journée paisible, couchée vers 3h30 du matin.
+</repos>
+
+<emotion>
+Sentiment de satisfaction après l’avancement du projet client et la clarification de la situation d’hébergement. Diminution du stress en soirée, laissant place à une atmosphère apaisée et sereine.
+</emotion>
+
+<aveclina>
+Échanges riches et constructifs tout au long de la journée, notamment pour le soutien dans la gestion du client et le suivi de la santé de Lisa. Accompagnement dans la rédaction du bilan quotidien.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-04-10"></section>

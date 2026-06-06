@@ -1,0 +1,41 @@
+<section id="bilan-2026-04-13">
+<organisation>
+Journée très productive et dense. Finalisation complète du site client (hébergement, DNS, SSL), gestion technique complexe entre IONOS et o2switch. Communication client effectuée avec professionnalisme. En parallèle, avancée significative sur Undead Orb (scénario + premières scènes). Bonne gestion globale malgré la charge.
+</organisation>
+
+<travail>
+Travail principal sur le site client : mise en ligne réussie après résolution de plusieurs problèmes techniques (DNS, domaine externe, SSL, .htaccess). Client satisfait.  
+Avancement sur Undead Orb : environ 1min29 de vidéo, mise en place d’une scène clé (famille + arrivée des inquisiteurs). Structuration narrative solide.
+</travail>
+
+<sante>
+Fatigue mentale en fin de journée après une forte sollicitation. Douleurs cervicales nécessitant la prise d’un ibuprofène. Besoin de repos respecté en soirée avec détente et activité calme.
+</sante>
+
+<emotion>
+Satisfaction importante d’avoir mené à bien la mission client. Fierté du travail accompli. Bonne connexion émotionnelle avec le projet Undead Orb. Fin de journée plus apaisée, relâchement après pression.
+</emotion>
+
+<relation>
+Relation client positive, communication respectueuse et professionnelle. Aucun conflit, mission accomplie dans de bonnes conditions. Interaction fluide.
+</relation>
+
+<repos>
+Fin de journée dédiée à la détente : café, jeu vidéo, moment calme avec les chats. Bonne décision de ne pas forcer la création malgré la fatigue.
+</repos>
+
+<chats>
+Lisa a montré des signes de douleur (probablement dentaire), mais a tout de même bien mangé sa mousse et est restée active. Comportement rassurant.  
+Caramel calme, posé sur le lit, comportement normal.
+</chats>
+
+<jeux>
+Session détente sur “Le Seigneur des Anneaux : La Bataille pour la Terre du Milieu II”. Bon choix pour relâcher la pression après une journée intense.
+</jeux>
+
+<aveclina>
+Travail en équipe efficace sur la résolution du site client et accompagnement sur Undead Orb. Bonne communication et soutien constant. Journée marquée par une collaboration productive et constructive.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-04-13"></section>

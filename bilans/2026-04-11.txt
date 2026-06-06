@@ -1,0 +1,42 @@
+<section id="bilan-2026-04-11">
+<organisation>
+Réveil à 11h après une nuit perturbée par des épisodes de nez bouché. Tentative de mise en place du site pour un client, mais le projet est en attente car celui-ci ne dispose pas d’hébergeur FTP et son abonnement précédent a été annulé. Attente de sa décision pour la suite. Réalisation de la déclaration trimestrielle auprès de la CAF, étape importante pour la régularisation de la situation financière.
+</organisation>
+
+<travail>
+Travail sur le projet du site client interrompu en raison de l’absence d’hébergement FTP. Réflexion et attente de retour du client. Réalisation de quelques tests visuels pour le making-of “e-cyborg”, apportant une touche créative à la journée.
+</travail>
+
+<jeux>
+Moment de détente avec YouTube durant l’après-midi et la soirée, permettant de relâcher la pression après les démarches administratives et les préoccupations personnelles.
+</jeux>
+
+<sante>
+Nuit perturbée avec plusieurs réveils pour se moucher. Fatigue générale et moral en baisse en fin de journée. Stress important lié à la situation financière et administrative.
+</sante>
+
+<chats>
+Caramel : rien à signaler, en bonne forme et pouvant sortir à l’extérieur.  
+Lisa : douleurs dentaires avec suspicion d’inflammation des gencives, salivation importante et difficultés occasionnelles à avaler. Elle s’est beaucoup reposée durant la journée mais a tout de même mangé une mousse. Moments de tendresse avec de gros câlins, apportant réconfort et apaisement.
+</chats>
+
+<meteo>
+Temps gris et couvert toute la journée.
+</meteo>
+
+<relation>
+Échanges avec l’Anglaise, avec une impression de diminution de son intérêt. Discussion également avec l’Américaine, sans évolution notable. Ressenti global d’un manque d’avancement dans les relations, renforçant le sentiment de stagnation.
+</relation>
+
+<emotion>
+Soirée difficile marquée par un sentiment de découragement et d’épuisement face aux démarches administratives et à la situation financière. Impression générale que les choses n’avancent pas. Les moments de tendresse avec Lisa ont néanmoins apporté du réconfort.
+</emotion>
+
+<repos>
+Fin de journée orientée vers le repos avec l’intention d’aller se coucher plus tôt afin de récupérer physiquement et émotionnellement.
+</repos>
+
+<aveclina>
+Échanges réconfortants tout au long de la journée, notamment autour des inquiétudes concernant Lisa et des démarches administratives. Aide à la structuration et à la rédaction du bilan quotidien, permettant de clôturer la journée avec clarté et apaisement.
+</aveclina>
+<section id="fin-bilan-2026-04-11"></section>
