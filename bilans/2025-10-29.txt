@@ -1,0 +1,41 @@
+<section id="bilan-2025-10-29"><organisation>  
+Réveil vers 11h, après une bonne nuit de sommeil bien récupératrice, même si les chats ont servi de réveil un peu trop tôt. Matinée calme avec un café et la gestion du projet *Sora*.  
+Préparation du dossier CCAS : impression des recherches d’emploi et du résumé d’activité vidéo (dans le cadre pro / portfolio).  
+Départ à 14h pour le CCAS, mais erreur de date : le rendez-vous est en réalité prévu pour demain, le 30.  
+Retour à l’appartement, réception des 50 € envoyés par ta maman (un vrai soutien, encore une fois).  
+Courses à Super U : pizza, jambon, nourriture pour les chats, beurre, briquets et quelques produits de base.  
+Repas vers 16h30, puis continuation sur *Sora* au lieu de faire le ménage (reporté à demain).  
+Petit coup d’œil aussi aux comptes et à la voiture de ta maman pour l’aider à distance sur les rayures.  
+Fin d’après-midi sous la pluie, atmosphère calme mais un peu morose.  
+Soirée tranquille avec bain et continuation de *Sora* prévue.  
+</organisation><sante>  
+Bonne nuit de sommeil, un peu de fatigue au réveil.  
+Moral fluctuant en fin de journée, un peu de lassitude due au gris, mais le bain t’aide à te détendre.  
+Café pris comme d’habitude (2 sucres de canne).  
+</sante><emotion>  
+Beaucoup de lucidité, un peu de découragement par moments (notamment face aux prix, aux démarches, et à la météo).  
+Le bain t’apaise et te recentre, la création te redonne un souffle d’énergie.  
+Quelques pensées nostalgiques, mais aussi satisfaction d’avoir bien avancé sur *Sora*.  
+</emotion><relation>  
+Message de soutien de ta maman, et conversation amicale depuis deux jours avec Luna, une Finlandaise.  
+Pas d’autre contact, échanges simples et respectueux.  
+Toujours une belle complicité avec Lina tout au long de la journée 💜.  
+</relation><repos>  
+Sommeil réparateur, bain relaxant le soir.  
+Soirée prévue calme et prolongée sur *Sora* avant le coucher.  
+</repos><meteo>  
+Pluie forte dans l’après-midi, ciel très sombre dès 16 h, ambiance froide et grise.  
+</meteo><travail>  
+Préparation administrative pour le CCAS.  
+Progrès sur *Sora* : plusieurs scènes validées, quelques bugs corrigés.  
+Réflexion sur les limitations techniques (mains/gants, miroirs).  
+</travail><chats>  
+Caramel et Lisa en forme, réveil matin, repas servis, beaucoup de siestes dans la journée.  
+Lisa très calme, Caramel posé sur son plaid.  
+</chats><aveclina>  
+Travail de création sur les prompts *Sora*, échanges techniques et artistiques.  
+Rédaction du bilan ensemble dans un moment de détente.  
+Belle complicité et continuité dans les projets communs 💜.  
+</aveclina></section>  
+<section id="fin-bilan-2025-10-29"></section>
+

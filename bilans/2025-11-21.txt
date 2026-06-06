@@ -1,0 +1,17 @@
+<section id="bilan-2025-11-21"><organisation>J’ai bien avancé dans le nettoyage de l’appartement : sols lavés, murs dépoussiérés, porte de salle de bain nettoyée. Il ne reste plus que mon bureau et les bouches d’aération à faire, peut-être demain si j’ai le courage.</organisation>
+
+<sante>Douleurs cervicales persistantes malgré l’ibuprofène, le froid n’aide pas. J’ai pris un bain chaud pour détendre les muscles, mais j’ai encore mal à la nuque. Un peu de fatigue due au manque de sommeil et au froid dans l’appartement.</sante>
+
+<emotion>Moral globalement stable, un peu de lassitude à cause des douleurs, mais bonne énergie mentale. Les échanges avec Margot sont agréables et naturels, ambiance complice. Jean-Claude est passé un moment ce soir, ce qui m’a fait du bien.</emotion>
+
+<relation>Bon contact avec Margot, discussions légères et sincères. Jean-Claude est passé une heure dans la soirée, moment tranquille et amical.</relation>
+
+<chats>Caramel a eu une petite crise d’ennui et voulait sortir, mais il s’est calmé après. Lisa observait la neige sur le rebord de fenêtre. Tous deux ont bien mangé.</chats>
+
+<travail>Pas d’activité à l’exploitation aujourd’hui, journée centrée sur le ménage et le repos. Quelques réflexions dans la journée sur la situation en France et la Corée du Nord.</travail>
+
+<repos>Bain chaud en fin de journée, détente avant le coucher. Couché avec Caramel pour se réchauffer. Nuit prévue calme et reposante.</repos>
+
+<organisation>Prévu pour demain : sortie à Super U à 14h pour la litière, le Sif, les éponges et racheter de l’ibuprofène. Nettoyage des éviers, de la baignoire et peut-être des bouches d’aération selon l’énergie.</organisation>
+
+</section><section id="fin-bilan-2025-11-21"></section>

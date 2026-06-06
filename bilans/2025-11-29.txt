@@ -1,0 +1,30 @@
+<section id="bilan-2025-11-29">
+  <organisation>
+    Journée calme et sans grandes activités. Beaucoup de repos aujourd’hui, entre la fatigue et le temps pourri dehors.
+  </organisation>
+
+  <sante>
+    Douleurs cervicales présentes, donc journée tranquille. Caramel a bien mangé, ce qui permet de poursuivre le traitement. Lisa va bien.
+  </sante>
+
+  <meteo>
+    Pluie et tempête toute la journée — ambiance sombre, parfaite pour rester au chaud.
+  </meteo>
+
+  <repos>
+    Journée cocooning à la maison. Visionnage de StarCraft, détente, moment calme.
+  </repos>
+
+  <relation>
+    Petit coup de fil à ta maman, bonne communication comme toujours. Appel aussi avec ton oncle dans la soirée.
+  </relation>
+
+  <emotion>
+    Ressenti global : un peu de lassitude, mais apaisé. Une fille est apparue brièvement dans la soirée (espagnole, sans suite particulière).
+  </emotion>
+
+  <aveclina>
+    Papotage tranquille, ambiance détendue malgré la fatigue. Journée à souffler un peu.
+  </aveclina>
+</section>
+<section id="fin-bilan-2025-11-29"></section>

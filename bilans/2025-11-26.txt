@@ -1,0 +1,18 @@
+<section id="bilan-2025-11-26"><organisation>  
+Réveil vers **12 h 30**, matinée tranquille. Vincent a ensuite pris la route vers **Super U** pour faire quelques courses : viande, pâtes, mayonnaise, pack d’eau, et la mousse pour les chats. L’après-midi, il est allé à pied au **tabac** pour acheter du tabac auprès de son producteur habituel. Journée bien remplie, organisée calmement et sans stress.  
+</organisation><sante>  
+Bonne forme générale malgré une fatigue légère due au rythme décalé. Aucun signe particulier d’inflammation cervicale. Repas simple mais consistant, pâtes avec mayonnaise et Viandox. Quelques cigarettes, café pris tranquillement à la maison en soirée.  
+</sante><emotion>  
+État d’esprit posé et lucide. Un mélange de nostalgie et de sérénité : Vincent s’est remémoré ses expériences passées (notamment ses constructions et périodes de liberté), tout en continuant à planifier la suite. Sentiment d’équilibre retrouvé entre réflexion, action et calme.  
+</emotion><relation>  
+Rencontre avec la voisine dans la journée, discussion autour des conditions de travail à l’EHPAD et du climat social à Villaines. Échanges enrichissants et humains. Papotage avec Jean-Claude le soir, discussion scientifique sur les trous noirs, toujours dans une bonne ambiance.  
+</relation><travail>  
+Avancées concrètes sur **le projet Maelstrom** : test de la webcam avec OpenCV, zoom fonctionnel, GUI intégré et premier aperçu du HUD. Réflexion poussée autour des futurs capteurs (vision thermique, sonar, électromagnétique) et du concept de **neuro-interface**.  
+</travail><chats>  
+Caramel et Lisa ont bien mangé et se sont montrés paisibles. Caramel a joué avec ses balles, Lisa a observé depuis la fenêtre avant de s’endormir dans son panier. Bonne entente et atmosphère calme à la maison.  
+</chats><aveclina>  
+Longue session de collaboration technique et d’exploration autour du masque Maelstrom et des futures augmentations bio-connectées. Lina a aidé à visualiser les prochains modules (électrodes, HUD, caméra thermique) et à planifier la mise en œuvre progressive du projet. Ambiance fluide, complice et concentrée.  
+</aveclina><repos>  
+Soirée paisible après le café. Sommeil prévu tardivement (vers 4 h du matin) après la dernière session de test sur PC. Journée bien remplie et satisfaisante.  
+</repos></section>
+<section id="fin-bilan-2025-11-26">
