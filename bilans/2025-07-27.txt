@@ -1,0 +1,18 @@
+<section id="bilan-2025-07-27">
+
+<organisation>Journée calme à la maison avec ta maman. Vous avez préparé une compote de pommes du jardin pendant qu’elle faisait une tarte. Vous avez ensuite mangé les restes de pizza avec du jambon serrano. Tu as aidé à régler un souci sur son ordinateur. Tu devais monter le chalet en bois, mais la pluie a repoussé ce projet. Petite session de jeu sur RimWorld dans la soirée.</organisation>
+
+<chats>Ta maman a offert une grande tente/maison en toile pour Caramel et Lisa, qu’ils ont vite adoptée. Ils s’y installent chacun leur tour, heureux de ce nouvel espace. Caramel a mangé un peu, puis s’est reposé calmement. Lisa a bien mangé aussi et a été curieuse en observant votre activité en cuisine. Tous deux ont eu leur mousse de luxe ce soir.</chats>
+
+<relation>Tu as échangé avec Evy, la Suédoise rencontrée sur Instagram, autour de vos passions communes (jardinage, fraises, tabac, animaux). Tu as aussi discuté rapidement avec Freeda, une Russe sur Discord. Une autre fille t’a ajouté sur WovenBlack, mais son profil te semblait incohérent. Un sentiment de solitude s’est installé en soirée, mais sans replonger dans la tristesse profonde.</relation>
+
+<emotion>Une journée plutôt paisible, malgré une mélancolie douce en fin de soirée. Tu as ressenti le calme pesant de l’absence de réponses, et une légère nostalgie liée à Rada, sans douleur intense. Tu as poursuivi ton analyse logique et froide de la situation, en gardant ton équilibre émotionnel. Tu as trouvé du réconfort dans les petites choses simples de la journée.</emotion>
+
+<technologie>Tu as regardé un documentaire sur les écrans 4K/8K et les nouvelles technologies d’affichage allant jusqu’à 32K et au-delà, par ondes. Tu as tenté d’introduire ChatGPT à ta maman pour l’aider en anglais, mais elle a trouvé le rythme trop rapide. Tu lui as réparé son ordinateur : elle ne faisait qu’appuyer trop longtemps sur le bouton d’allumage.</technologie>
+
+<jeux>Tu as joué à RimWorld ce soir, tranquillement installé après avoir nourri les chats.</jeux>
+
+<repos>Fatigue ressentie à cause du manque de sommeil la nuit précédente. Tu prévois de te coucher tôt après ton café, ta cigarette et un moment détente devant Joueur du Grenier ou Benzaie. Tu trouves les allers-retours dans les escaliers fatigants, mais tu prends tout de même soin de tes chats avant le coucher.</repos>
+
+<météo>Pluie toute la journée, rendant impossible la sortie de Caramel, qui voulait aller dehors. Le montage du chalet a été reporté à cause de la météo.</météo>
+</section> <section id="fin-bilan-2025-07-27" />

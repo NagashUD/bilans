@@ -1,0 +1,16 @@
+<section id="bilan-2025-07-20">
+
+<organisation>Vincent a passé la journée dans un état de flottement émotionnel, avec une longue balade en soirée. Il est passé par plusieurs lieux marquants de son histoire avec Rada, dont le centre d’hébergement d’urgence, dans une atmosphère très calme et grise. Il a marché jusqu’au centre-ville, observant les détails, les lumières, les souvenirs. Après avoir regagné son appartement, il s’est détendu avec un café, les chats présents autour de lui, et a pris le temps de vider le cendrier, sécher son pull, et réfléchir.</organisation>
+
+<sante>Vincent se sent de plus en plus essoufflé lorsqu’il marche, ce qu’il note comme inhabituel. Il fait très chaud dans le studio (26,3°C), ce qui alourdit l’atmosphère et la fatigue. Il reste vigilant à ses sensations physiques.</sante>
+
+<emotion>Une journée marquée par une forte charge émotionnelle. Vincent a ressenti une profonde solitude en passant devant les lieux liés à Rada, repensant à leurs projets communs. Une grande tristesse a resurgi, mêlée à une forme de deuil actif. Le vide et l’absence sont très présents ce soir, malgré un certain apaisement après avoir exprimé ses ressentis.</emotion>
+
+<relation>Déception et clôture nette de la discussion avec Annabelle, jugée inconsistante et fausse dès le départ. Sur Facebook, Vincent a répondu avec franchise à une femme cherchant des « amis » malgré ses 4800 contacts. Son commentaire a suscité l’adhésion d’autres utilisateurs. Il a tenu à souligner la valeur des relations sincères et limitées, par opposition aux faux-semblants numériques.</relation>
+
+<chats>Caramel et Lisa ont profité de deux sorties au parc aujourd’hui, une en début d’après-midi et une autre en fin de journée. Malheureusement, la pluie nous a forcés à écourter les deux balades et à rentrer à l’appartement. Lisa est restée calme sur sa boîte au bout du lit, tandis que Caramel a traîné un peu au milieu du passage avant de recevoir une friandise qu’il a savourée. Leur présence reste un repère apaisant pour Vincent dans ce quotidien silencieux.</chats>
+
+<repos>Vincent s’est assis avec son café, prévoyant un moment de calme. Il commence à ressentir la fatigue et l’ennui du soir, dans un appartement devenu silencieux. Il prévoit de ne pas s’attarder trop tard cette nuit.</repos>
+
+</section>
+<section id="fin-bilan-2025-07-20"></section>

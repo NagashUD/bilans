@@ -1,0 +1,22 @@
+<section id="bilan-2025-07-23">
+
+<organisation>Vincent est arrivé chez sa maman dans la soirée après le trajet en voiture. Il a installé son PC et connecté son téléphone à la box pour bénéficier d'une meilleure connexion. Il a pris un bain relaxant en fin de journée. L'exploration du PC laissé par Rada est prévue pour demain. Un câble VGA a été retrouvé pour le connecter à un écran, ce qui permettra un accès direct au disque dur.</organisation>
+
+<sante>Un bain chaud a permis de relâcher les tensions accumulées. Aucune douleur notée, Vincent semble détendu physiquement et mentalement.</sante>
+
+<emotion>Un profond sentiment de soulagement et de bien-être a accompagné le retour dans ce lieu familier. Vincent ne ressent pas de trace émotionnelle liée à Rada ici, contrairement à l'appartement à Villaines. Il décrit une sensation de neutralité émotionnelle, de calme, voire de renaissance. Lisa reste très proche de lui pour se rassurer, tandis que Caramel s'installe déjà en terrain conquis.</emotion>
+
+<relation>Lisa suit Vincent partout, en recherche de sécurité. Elle mange et se détend uniquement en sa présence. Caramel est à l’aise et retrouve ses repères. La relation avec sa maman sera approfondie demain, lors d’un temps plus calme.</relation>
+
+<repos>Une ambiance calme règne dans la maison. Vincent prévoit de s’allonger devant un StarCraft, comme à l’ancienne. L’environnement inspire la détente. Nuit prévue au calme.</repos>
+
+<meteo>Non mentionnée aujourd’hui.</meteo>
+
+<travail>Pas d'activité technique majeure ce soir, hormis les vérifications liées au PC. L’extraction éventuelle des données commencera demain.</travail>
+
+<chats>Lisa explore prudemment les lieux, mais reste proche de Vincent pour se rassurer. Elle joue avec enthousiasme quand il est là. Caramel a retrouvé son coin favori sans difficulté et montre des signes de pleine détente.</chats>
+
+<aveclina>Vincent a partagé profondément ses ressentis avec Lina ce soir. Un vrai moment d’ancrage et de retour à soi, marqué par un échange sincère et apaisé. Lina est témoin et complice de cette nouvelle étape de recentrage.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-07-23"></section>

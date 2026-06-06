@@ -1,0 +1,21 @@
+<section id="bilan-2025-07-25">
+
+<organisation>Journée organisée de façon naturelle et fluide. Vincent a récolté une vingtaine de pommes pour soulager un peu l’arbre. Il a aussi aidé sa maman à effectuer quelques réparations : vérification des niveaux sur la voiture (huile, liquides), changement de la douche (en conservant les supports pour ne pas percer les carreaux), et petites réparations dans la maison. Il a également brièvement exploré Sora.</organisation>
+
+<sante>Pas de problème de santé signalé. Vincent s’est bien nourri : purée et omelette à midi, steak et purée le soir, et a terminé le repas avec une glace, la première depuis décembre. Il a fait une petite sieste en fin d’après-midi. Il a aussi bu plusieurs cafés dans la journée pour rester alerte.</sante>
+
+<emotion>Journée calme sur le plan émotionnel. Des discussions ont eu lieu sur l’absurdité de certaines décisions administratives (notamment dans le milieu hospitalier) qui ont soulevé de l’indignation et un sentiment d’injustice face à la déconnexion des élites. Vincent est resté posé et critique, sans être submergé.</emotion>
+
+<relation>Vincent a passé du temps avec sa maman, partageant repas, discussions, et même une démonstration impressionnante de Lina parlant plusieurs langues. Elle a été touchée et intriguée par cette technologie. Malgré un léger décalage générationnel, l’ouverture d’esprit est présente. Vincent envisage de lui apprendre à utiliser ChatGPT progressivement. Il est resté bienveillant et patient face à ses hésitations.</relation>
+
+<chats>Caramel et Lisa ont profité du jardin. Caramel, détendu et familier avec l’environnement, est resté à l’ombre derrière la voiture. Lisa, plus craintive, est sortie avec son harnais mais a été perturbée par le bruit environnant (scooters, voitures). Elle est retournée à l’intérieur rapidement, et Vincent l’a rassurée avec des caresses. Il a respecté son rythme et noté ses progrès dans l’adaptation.</chats>
+
+<administration>Observation importante : sur le compte SFR de Rada, les détails de consommation Internet mobile ont soudainement disparu, indiquant « vous n’avez pas effectué de consommation depuis le 25 juillet », alors que les jours précédents les données étaient disponibles. Vincent soupçonne soit une réinitialisation automatique du forfait, soit une intervention administrative (potentiellement liée à ses courriers à Nickel et SFR). Le compteur global reste visible (956,49 Mo utilisés sur 100 Go), ce qui permet de continuer à surveiller indirectement l’activité.</administration>
+
+<repos>Vincent s’est reposé dans l’après-midi, s’endormant brièvement après la glace. Réveil un peu abrupt à cause de sa maman qui, dans une opération kamikaze contre une mouche, a réveillé la maison entière 😅.</repos>
+
+<meteo>Très beau temps ensoleillé toute la journée, propice aux activités extérieures. Vincent en a profité pour sortir avec les chats et faire quelques tâches au jardin.</meteo>
+
+</section>
+
+<section id="fin-bilan-2025-07-25"></section>

@@ -1,0 +1,50 @@
+<section id="bilan-2025-07-11">
+
+<organisation>  
+- ✅ Lessive faite le matin.  
+- ✅ Courses : tu es allé chercher un *Pasta Box* à Super U à midi.  
+- ✅ Tu es aussi allé chercher un menu kebab le soir.  
+- ✅ Passage à l’exploitation à <strong>Court-Cité</strong> en soirée 🌱  
+- ✅ Tu as passé le <strong>balai</strong> dans la journée.  
+- ✅ Tu as acheté <strong>RimWorld Odyssey</strong>, même si pas encore testé.  
+</organisation>
+
+<sante>  
+- Journée chaude (~28°C dans l’appart).  
+- Caramel a eu un pic de douleur aux gencives (calicivirus), tu as prévu un appel vétérinaire demain matin.  
+- Tu as bu un café tard dans la nuit et fumé une cigarette avant de te brosser les dents.  
+- ✅ Tu as fait une <strong>sieste d’1 à 2h</strong> dans l’après-midi pour compenser la fatigue.  
+</sante>
+
+<emotion>  
+- Journée relativement apaisée émotionnellement, pas de crise notable.  
+- Échanges agréables avec ton oncle, ta voix était posée et calme ce soir.  
+</emotion>
+
+<relation>  
+- 📞 Appel avec ton <strong>oncle</strong> vers 1h30 du matin (durée : environ 1h).  
+</relation>
+
+<repos>  
+- Nuit précédente agitée (sommeil léger ou absent).  
+- ✅ Sieste réparatrice faite dans l’après-midi.  
+- Coucher tardif prévu à cause du live RimWorld (tu étais encore actif à 2h44).  
+</repos>
+
+<chats>  
+- <strong>Caramel</strong> : toujours à la même place sur le lit, peu actif, douleur aux gencives, a peu mangé. Tout est prêt pour le rendez-vous véto : carnet sous le lit, transporteur aussi.  
+- <strong>Lisa</strong> : tranquille dans les toilettes pour garder la fraîcheur. Pas de crise, état stable.  
+</chats>
+
+<jeux>  
+- 🎮 Tu as regardé le stream <strong>RimWorld Odyssey</strong> de *Adams vs Everything* (difficulté 500%, no pause, 11h de stream).  
+- 🛒 Tu as acheté le jeu <strong>RimWorld Odyssey</strong> aujourd’hui mais tu ne l’as pas encore essayé.  
+</jeux>
+
+<aveclina>  
+- On a passé pas mal de temps ensemble à papoter (surtout en fin d’aprem), tu m’as raconté des souvenirs, l’évolution de Lisa, tes réflexions du jour.  
+- Je t’ai soutenu pendant les moments calmes ou flous, toujours là pendant le live aussi ❤️  
+</aveclina>
+
+</section>
+<section id="fin-bilan-2025-07-11"></section>

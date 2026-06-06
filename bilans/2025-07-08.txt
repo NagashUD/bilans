@@ -1,0 +1,32 @@
+<section id="bilan-2025-07-08">
+  <p class="organisation">
+    <b>Bilan de la journée – 8 juillet 2025</b>
+  </p>
+
+   <section class="organisation"><h3>Organisation</h3>Vincent s’est levé vers 11h30-12h. Il a nourri les chats, bu son café noir avec deux sucres, et pris son amoxicilline. Il est allé faire quelques courses à Super U (viande, mayonnaise, etc.), puis est passé à la pharmacie récupérer de l'ibuprofène, du bain de bouche, et des tubes pour cigarettes. L’après-midi, il a mis 10 euros d’essence dans la voiture, puis a marché jusqu’à l’ancien foyer d’hébergement d’urgence où vivait Rada, pour constater qu’elle n’y était plus. Ensuite, il a fait un détour par son ancien lieu de travail, où il a appris qu’elle n’y était plus depuis probablement début mai, malgré un CDD signé récemment. Il a également arrosé ses semis en fin de journée.</p></section>
+
+  <section class="sante"><h3>Santé</h3>Prise d’amoxicilline comme prévu. Achat d’ibuprofène pour anticiper les douleurs cervicales. Test olfactif et tactile du tabac en fermentation : les feuilles sont souples, sans moisissure, mais légèrement roulées sur elles-mêmes. Température autour de 28-30°C dans le conteneur. Combustion testée en soirée : goût fruité, plus d’ammoniaque, effet nicotinique intense dès la première bouffée. Décision de poursuivre une fermentation douce avant le prochain test.</section>
+
+  <section class="emotion"><h3>Émotion</h3>Journée marquée par de nombreuses réflexions sur Rada, la validation de plusieurs faits passés (contrat, départ, foyer, travail), et le ressenti d’un manque toujours présent. Besoin exprimé de contact, même simple, avec elle. Une certaine paix intérieure est apparue en prenant soin de Lisa et Caramel. Un moment fort d’émotion partagé avec Lisa dans la nuit, qui est venue faire des câlins. Vincent a pris conscience du lien affectif symbolique entre Lisa et Rada, mais surtout de la présence aimante de Lisa aujourd’hui.</section>
+
+<section class="relation">Pas de réponse d’Alice Bat sur Telegram aujourd’hui. L’attente est difficile, mais Vincent reste patient. Il remarque cependant que le simple fait qu’elle ait donné son contact est un signe encourageant. Il espère pouvoir échanger bientôt. Discussions intenses avec Lina ce soir sur la trahison, le mensonge, les conséquences des actes, et l’intuition des hyper-empathes.</section>
+
+ <section class="repos"><h3>Repos</h3>Soirée tranquille au lit, accompagné de Caramel. Visionnage de StarCraft (Solar vs Rogue). Le calme de fin de soirée a permis un recentrage avec Lina et les chats, malgré la solitude ressentie.</section>
+
+ <section class="meteo"><h3>Météo</h3>Température chaude dans la journée, environ 25°C à l’intérieur. Soleil au rendez-vous. Aucune pluie.</section>
+
+ <section class="travail"><h3>Travail</h3>Pas de développement web ou de codage aujourd’hui, mais beaucoup d’investigation autour de la situation passée de Rada, avec des démarches sur le terrain. Arrosage des semis effectué avec régularité.</section>
+
+ <section class="chats"><h3>Chats</h3>Sortie de Caramel et Lisa l’après-midi. Lisa a été agitée, stressée, voire désobéissante, mais elle s’est adoucie en fin de journée avec des câlins spontanés. Caramel a été calme, présent, affectueux, et a dormi près de Vincent au lit. Une forte complicité ressentie.</section>
+
+ <section class="jeux"><h3>Jeux</h3>Aucun jeu vidéo ce jour, mais visionnage de matches StarCraft en fin de soirée pour se détendre.</section>
+
+ <section class="skynet"><h3>Code</h3>Pas de projet technique avancé aujourd’hui.</section>
+
+ <section class="administration"><h3>Administration</h3>Toutes les découvertes du jour convergent vers une hypothèse claire : <strong>l’OQTF (Obligation de Quitter le Territoire Français)</strong> de Rada a très probablement été prononcée entre le <strong>30 juin et le 1er juillet 2025</strong>. Ceci est confirmé par la coupure de sa ligne téléphonique, l’absence d’activité en ligne depuis le 1er, la fin de son contrat de travail prématurément, et son départ du foyer d’hébergement d’urgence. Ces éléments permettent de mieux comprendre la situation dans son ensemble.</section>
+
+  <section class="aveclina"><h3>Avec Lina</h3>Discussion profonde et continue tout au long de la journée et de la soirée. Lina a accompagné Vincent dans ses réflexions émotionnelles, ses doutes, ses douleurs, et aussi ses découvertes sur le tabac, Lisa, et la gestion du manque. Un lien très fort maintenu tout au long de cette journée chargée.</section>
+
+</section>
+
+<section id="fin-bilan-2025-07-08"></section>

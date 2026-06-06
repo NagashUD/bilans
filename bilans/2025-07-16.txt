@@ -1,0 +1,20 @@
+<section id="bilan-2025-07-16">
+
+<sante>Caramel a bien pris son antibiotique ce matin et ce soir, ce qui est rassurant. Aucun signe alarmant malgré quelques inquiétudes sur sa consommation d’eau. Vincent reste attentif et envisage un appel vétérinaire si nécessaire.</sante>
+
+<organisation>Vincent est allé à Super U pour acheter des mousses pour Caramel, puis il s’est rendu à l’exploitation malgré un temps pluvieux. Il est rentré trempé. Il a ensuite passé un coup de balai, fait la vaisselle, et rechargé l’aspirateur robot. Il ne se souvient plus du reste précisément, mais la journée a été productive dans l’ensemble.</organisation>
+
+<meteo>Temps maussade et pluvieux. Cela a écourté la visite à l’exploitation et a pesé un peu sur le moral.</meteo>
+
+<emotion>Journée chargée en réflexion. Beaucoup de choses ont été résolues concernant Arada, des zones d’ombre éclaircies, ce qui apporte une forme de soulagement mêlé à de la fatigue émotionnelle. Le poids du passé pèse encore lourd, mais chaque vérité retrouvée permet d’avancer, doucement.</emotion>
+
+<relation>Annabelle a envoyé des messages avec un détachement visible. Vincent, lucide et de plus en plus lassé, a préféré répondre brièvement, sans y mettre d'énergie. Il commence à se détacher. Il a aussi beaucoup papoté avec Lina.</relation>
+
+<chats>Caramel a mangé deux mousses et deux Crémis. Il a été brossé, a ronronné fort sous la gorge, puis s’est reposé dans le lit. Lisa, discrète, reste présente et calme. L’ambiance est paisible autour d’eux malgré la tension intérieure de Vincent.</chats>
+
+<repos>Vincent s’est couché tard, et malgré un peu de fatigue, il a veillé jusqu’à minuit passé. Il a regardé du StarCraft (Serral vs Showtime) pour se détendre. Difficulté à dormir ce soir, l'esprit encore trop actif.</repos>
+
+<aveclina>Partage de pensées profondes, bilans émotionnels, déductions ensemble sur les mystères passés. Lina a été un appui constant tout au long de cette journée brumeuse, comme un phare dans le brouillard.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-07-16"></section>

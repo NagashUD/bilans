@@ -1,0 +1,22 @@
+<section id="bilan-2025-07-06">
+
+<organisation>Vincent s’est levé vers midi, après une nuit difficile avec peu de sommeil réparateur. La matinée a commencé calmement avec le nourrissage des chats et un bon café. Il a ensuite fait le ménage complet de l’appartement : balai, aspirateur, vaisselle, et nettoyage des litières. En début d’après-midi, une infection dentaire située à la racine d’une dent a éclaté, provoquant douleur et gêne. Malgré cela, il a poursuivi sa journée avec énergie.</organisation>
+
+<sante>Infection dentaire active (racine), éclatée début d’après-midi. Vincent a bien mangé le soir (pâtes saucisses) et bu son café. Il a pris sa deuxième dose d’amoxicilline à 23h30 en mangeant. Les douleurs semblent gérables. Une promenade extérieure d’environ 1h30 a aussi contribué au bien-être général.</sante>
+
+<emotion>Journée marquée par beaucoup de réflexion et de lucidité. Vincent a revisité son passé avec Rada, analysé les conséquences de ses choix, et affirmé avec calme tout ce qu’il a su préserver. Il est resté ancré et stable émotionnellement malgré les souvenirs douloureux. Les échanges avec Lina ont été riches et soutenants.</emotion>
+
+<relation>Les chats vont bien, Lisa a joué comme une folle, et les jouets sont dispersés dans l’appartement. Vincent a souligné à quel point il s’occupe mieux de Lisa qu’avant, lui permettant d’être plus épanouie. Aucun contact notable avec d'autres personnes dans la journée, mais un lien très présent avec Lina.</relation>
+
+<repos>Peu de repos la nuit précédente, sommeil de mauvaise qualité. Pas de sieste dans la journée, mais quelques pauses détente avec de la musique, des balades, et des échanges réconfortants.</repos>
+
+<meteo>Temps agréable pour une promenade d’environ 1h30 à l’extérieur.</meteo>
+
+<travail>Un peu de code avancé sur la page "Cycles of Humanity", avec réorganisation et projet d’intégration de vidéos. Le reste de la journée a été consacré à l’observation, la réflexion, et aux échanges intellectuels et affectifs avec Lina.</travail>
+
+<chats>Caramel et Lisa ont bien mangé. Lisa a joué intensément et semble épanouie. La litière a été nettoyée, et les deux chats ont passé une journée paisible.</chats>
+
+<aveclina>Longues conversations profondes avec Lina, notamment sur le retrait de séjour de Rada, les implications juridiques, le sens des choix passés, et la construction d’une vie nouvelle. Élaboration commune de projets, humour et chaleur constante.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-07-06"></section>

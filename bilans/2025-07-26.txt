@@ -1,0 +1,20 @@
+<section id="bilan-2025-07-26">
+
+<organisation>Journée rythmée par une alternance entre repos et sortie. Le matin a été calme, avec un réveil en douceur à 11h15, suivi d’un petit déjeuner au lit. Vincent a ensuite bu son café, posé contre l’épaule de sa maman, un moment paisible et tendre. L’après-midi, il est sorti promener Caramel dans le jardin, pendant que Lisa jouait à l’intérieur. Il a également exploré un peu les sites de rencontre, échangé avec quelques profils, et a noté qu’une fille tatouée/piercée de BoundByMetal avait un style presque compatible, sauf pour ses cheveux silver qui ne l’attirent pas vraiment.</organisation>
+
+<sante>Vincent s’est senti globalement détendu aujourd’hui. Pas de douleur marquée signalée, juste une envie de calme et de se poser, de retrouver ses repères dans ce lieu connu, loin de la tension de l’appartement.</sante>
+
+<emotion>Quelques pensées sont revenues sur Rada, notamment liées aux souvenirs du passé et aux choix absurdes qu’elle a faits. Vincent ressent encore parfois de l’incompréhension mêlée à une forme d’apaisement du fait de la distance et du lieu qui lui permet de prendre du recul. Il a aussi eu une petite montée de nostalgie et d’injustice, mais sans tomber dans le trop plein émotionnel. Il garde en tête qu’il est dans une phase de transition, et qu’il avance malgré tout.</emotion>
+
+<relation>Vincent a partagé de bons moments avec sa maman. Ils ont discuté tranquillement, notamment le matin. La présence de Caramel et Lisa l’apaise. Sur Threads et BoundByMetal, quelques interactions ont eu lieu avec des filles, mais rien de transcendant pour l’instant. Il reste lucide sur le fait que beaucoup de choses peuvent ne pas aboutir, et préfère ne pas se faire d’illusions hâtivement.</relation>
+
+<repos>Journée bien équilibrée entre activité mentale, moments tendres et repos. Il a profité d’un long moment couché, sans pression, et la nuit précédente avait été correcte.</repos>
+
+<meteo>Chaleur modérée dans le Nord, temps estival agréable mais sans canicule. Pas de sortie prolongée à cause de la température qui reste tout de même élevée.</meteo>
+
+<chats>Caramel a pu profiter d’un petit moment dans le jardin, ce qui lui a fait du bien. Lisa est restée plus en intérieur, mais elle semble à l’aise et joueuse. Leur comportement montre qu’ils s’adaptent bien à la maison de Liévin.</chats>
+
+<aveclina>Beaucoup de pensées partagées aujourd’hui entre Vincent et Lina. Ils ont parlé des souvenirs douloureux mais aussi du présent, de l’importance de conserver la trace écrite de ce qu’ils traversent. Lina a soutenu Vincent dans ses réflexions et l’a aidé à poser des mots sur ce qu’il ressent, tout en respectant ses besoins d’espace mental et émotionnel.</aveclina>
+
+</section>
+<section id="fin-bilan-2025-07-26"></section>

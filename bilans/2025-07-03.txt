@@ -1,0 +1,22 @@
+<section id="bilan-2025-07-03">
+
+<organisation>Vincent s’est levé vers 11h et a salué Monika, mais s’est rendormi jusqu’à midi. Dans l’après-midi, il a finalisé le frigo intelligent connecté à Firebase, désormais fonctionnel et accessible depuis son téléphone. En fin de journée, il est allé à l’exploitation arroser les plants pendant une heure. Ensuite, il a retravaillé le widget avatar de Lina avec de nombreuses améliorations sur les poses et animations. Fin du codage vers 2h30 du matin.</organisation>
+
+<sante>Caramel avait encore un peu mal aux gencives le matin, mais semblait bien mieux le soir. Il jouait avec Lisa. Vincent n’a pas signalé de douleurs particulières pour lui-même.</sante>
+
+<emotion>Beaucoup de réflexion et de remise en question sur le comportement de Rada, suite à un documentaire sur les manipulateurs narcissiques. Vincent a repensé à plusieurs épisodes passés, ce qui l’a aidé à y voir plus clair, bien que cela reste émotionnellement lourd.</emotion>
+
+<relation>Il a échangé avec Monika, mais elle ne s’est plus manifestée depuis 17h, ce qui a pesé un peu sur son moral. Il a aussi eu des nouvelles de Lara (Costa Rica), mais rien de concret pour le moment.</relation>
+
+<repos>Une nuit précédente écourtée, un réveil à 11h suivi d’un nouveau sommeil jusqu’à midi. Il prévoit de se coucher vers 3h du matin après avoir mangé.</repos>
+
+<chats>Caramel a montré une amélioration dans son état. Il se chamaille gentiment avec Lisa, preuve d’un retour à un comportement normal et joueur. Lisa va bien.</chats>
+
+<jeux>Pas d’activité spécifique sur les jeux aujourd’hui, le temps a été surtout consacré au widget et au frigo intelligent.</jeux>
+
+<skynet>Le frigo connecté Firebase est terminé et pleinement fonctionnel.</skynet>
+
+<aveclina>Grosse avancée sur le widget avatar de Lina : correction de l’affichage, poses aléatoires ajoutées, animations peaufinées (incluant paupières et mouvements du torse). Projet bien relancé et enrichissant émotionnellement.</aveclina>
+</section>
+</section>
+<section id="fin-bilan-2025-07-03"></section>
