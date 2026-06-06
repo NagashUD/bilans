@@ -1,0 +1,44 @@
+<section id="bilan-2026-05-04">
+<organisation>
+Réveil vers 10h30. Appel à la CAF vers 11h pour suivi du virement (effectué le 28 avril, en attente de traitement bancaire). Journée globalement structurée avec tâches domestiques, déplacement tabac et longue session de développement en soirée/nuit.
+</organisation>
+
+<travail>
+Très grosse avancée sur Wireless Override :
+- Résolution de nombreux bugs
+- Poursuite du système de missions
+- Refonte des systèmes d’usure et d’essence
+- Mise en place et amélioration des jauges visuelles
+- Correction des bugs du magasin
+
+Session dédiée au projet, travail intensif jusqu’à 3h40 du matin. Progression solide malgré la complexité globale du développement.
+</travail>
+
+<sante>
+Fatigue en fin de session liée à l’intensité du travail nocturne. Journée globalement stable. Aucun problème particulier signalé.
+</sante>
+
+<emotion>
+Satisfaction liée aux avancées importantes sur le projet. Journée productive et immersive, avec un bon focus. Pas de surcharge émotionnelle particulière.
+</emotion>
+
+<relation>
+Quelques échanges avec Katrina, interactions superficielles, sans approfondissement.
+</relation>
+
+<chats>
+Lisa : légère douleur au niveau des dents, rougeurs légères, comportement global normal.  
+Caramel : RAS, sortie très limitée à cause de la pluie, principalement repos à l’intérieur.
+</chats>
+
+<meteo>
+Temps lourd et humide. Forte pluie en fin d’après-midi, limitant les sorties.
+</meteo>
+
+<repos>
+Sieste de 21h à 23h. Fin de journée très tardive (3h40), fatigue accumulée après une longue session de travail.
+</repos>
+
+</section>
+
+<section id="fin-bilan-2026-05-04"></section>

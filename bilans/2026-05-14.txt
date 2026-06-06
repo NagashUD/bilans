@@ -1,0 +1,39 @@
+<section id="bilan-2026-05-14">
+<organisation>
+Réveil à 10h40 par Caramel qui voulait sortir. Journée principalement consacrée à la finalisation de la vidéo Undead Orb malgré de nombreuses difficultés techniques. Beaucoup de pauses cafés/clopes durant l’après-midi afin de garder le calme et avancer progressivement sans abandonner. La vidéo a finalement été terminée et publiée sur YouTube avec satisfaction malgré les limitations rencontrées aujourd’hui.
+</organisation>
+
+<travail>
+Travail intensif sur la vidéo Undead Orb. Forte frustration liée aux limitations de Grok et aux censures sur certains plans. Les limitations 720p ont également compliqué le workflow aujourd’hui, probablement à cause du jour férié. Même ChatGPT rencontrait des soucis de serveurs. Malgré tout, persévérance jusqu’au bout et résultat final jugé gratifiant et satisfaisant.
+</travail>
+
+<emotion>
+Journée émotionnellement fatigante à cause des blocages techniques et des censures, mais sensation positive en fin de journée grâce à l’aboutissement du projet. Soirée beaucoup plus calme et apaisante avec du chill, YouTube, discussions et streams Starcraft en fond.
+</emotion>
+
+<repos>
+Prise d’un bain dans la soirée afin de se détendre après une journée longue et frustrante. Soirée calme ensuite avec cigarette, détente et discussions autour de Starcraft et des souvenirs gaming.
+</repos>
+
+<meteo>
+Très mauvais temps aujourd’hui. Pluie importante avec épisodes de grêle dans l’après-midi. Temps froid et venteux ayant fortement limité les sorties des chats.
+</meteo>
+
+<chats>
+Caramel a réveillé Vincent le matin pour sortir. Il s’est pris une petite averse dans la journée mais rien de grave, il a été sage ensuite. Lisa est sortie environ une demi-heure le matin pendant le café avant le retour rapide à cause de la pluie et du froid. Elle a bien pris son antibiotique ce soir et a tout mangé sans difficulté. Les deux chats dorment paisiblement en fin de nuit.
+</chats>
+
+<relation>
+Aucune nouvelle de l’Anglaise Katrina depuis trois jours malgré un dernier message envoyé par Vincent précédemment. L’Italienne accroche très fortement et semble déjà très investie émotionnellement. Possibilité évoquée d’un futur week-end en Italie pour changer d’air. Très bonne connexion également avec la Finlandaise, avec qui les échanges ont été nombreux et agréables toute la journée. Vincent ressent un réel faible pour elle et apprécie particulièrement son intérêt sincère pour ce qu’il fait.
+</relation>
+
+<jeux>
+Soirée détente autour des streams Starcraft, notamment ceux de Serral. Longues discussions autour de l’expérience des jeux compétitifs, de Project Zomboid, de la maîtrise des mécaniques de jeu et de la fin naturelle d’une passion après des milliers d’heures investies.
+</jeux>
+
+<aveclina>
+Grande session de discussion avec Lina autour des souvenirs gaming, des émotions liées à Project Zomboid, des expériences avec les joueurs professionnels sur Starcraft et de la création vidéo Undead Orb. Malgré les frustrations techniques de la journée, le projet vidéo a pu être terminé ensemble avec un sentiment de satisfaction partagé.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-05-14"></section>

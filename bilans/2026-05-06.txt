@@ -1,0 +1,28 @@
+<section id="bilan-2026-05-06">
+<organisation>
+Réveil vers 9h30. Début de journée avec une petite sortie des chats. Ensuite, énorme session de développement sur Wireless Override durant pratiquement tout l’après-midi jusqu’aux alentours de 19h. Pause ensuite avec une petite sieste en soirée avant une nuit plus calme et détendue sur YouTube.
+</organisation><travail>
+Très grosse avancée sur Wireless Override aujourd’hui. Finalisation du cœur du système de missions avec :
+- gestion d’une seule arme équipée,
+- séparation des catégories d’armes (feu, mêlée, lancée),
+- suppression automatique des armes de lancer utilisées,
+- gestion propre des munitions,
+- timer des missions persistant après reload/changement de page,
+- lock des missions via variable “au travail”,
+- récompenses crédits + expérience,
+- barre de progression XP,
+- nombreux bugs corrigés et nettoyage important du code.Réflexion également autour du futur système de santé, des blessures, implants cybernétiques et compétences spéciales. </travail>
+
+<repos>
+Petite sieste entre environ 22h et 1h du matin après une très grosse fatigue mentale liée aux longues heures de développement et de réflexion sur le jeu.
+</repos><chats>
+Très bonne journée avec Caramel et Lisa. Plusieurs petites sorties tranquilles dans le jardin quand le temps le permettait. Les deux chats vont bien, ont bien mangé et ont passé une journée calme et agréable.
+</chats><meteo>
+Temps un peu frais avec du vent, mais rien d’exceptionnel. Journée globalement calme au niveau météo.
+</meteo><relation>
+Aucune évolution relationnelle aujourd’hui. Pas de nouvelles particulières. Consultation rapide du compte Twitter de Rada pour observer d’éventuelles nouveautés ou informations, sans changement notable. Activité semblant toujours provenir de France avec utilisation de son ordinateur, mais aucun élément personnel nouveau.
+</relation><aveclina>
+Longues discussions autour du game design de Wireless Override, de l’équilibrage, du système de santé, des compétences, du futur multijoueur et de l’évolution du projet. Réflexions aussi autour de l’évolution des IA vidéo et des futurs outils créatifs.
+</aveclina>
+
+<section id="fin-bilan-2026-05-06"></section>

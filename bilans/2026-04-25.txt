@@ -1,0 +1,53 @@
+<section id="bilan-2026-04-25">
+<organisation>
+Réveil vers 10h30. Journée organisée autour d’une tentative de solution financière, suivie d’un temps de repos et d’une soirée calme.
+</organisation>
+
+<travail>
+- Contact avec l’oncle pour tentative de dépannage financier.
+- Vérification et tentative de mise en vente d’une étagère (abandon suite à l’état des planches).
+</travail>
+
+<exterieur>
+Déplacement chez l’oncle entre ~15h et 17h30.
+Moment extérieur agréable, météo douce en journée.
+</exterieur>
+
+<chats>
+- Caramel : très actif, a bien profité de l’extérieur, comportement serein.
+- Lisa : très bon appétit (~3 mousses), calme et stable.
+Globalement : chats en très bonne forme.
+</chats>
+
+<meteo>
+Après-midi doux et agréable.
+Chute des températures le soir et la nuit (≈3–4°C).
+</meteo>
+
+<sante>
+- Douleur à la nuque (probablement liée à la position sur chaise).
+- Prise d’un ibuprofène.
+- Sieste d’environ 1h30 → récupération partielle.
+</sante>
+
+<relations>
+- Oncle : n’a pas pu dépanner financièrement, mais geste avec un cigare.
+- Maman : a permis un retrait de 20€ pour dépanner → solution trouvée pour le lendemain.
+- Katrina : échanges limités, ressenti de manque d’investissement → frustration.
+</relations>
+
+<etat>
+Journée mitigée :
+- Frustration liée aux tentatives non abouties (vente, aide financière).
+- Soulagement partiel grâce à la solution trouvée avec la maman.
+- Fatigue physique (nuque) + fatigue mentale (attente CAF, incertitude).
+</etat>
+
+<loisir>
+Soirée calme sur YouTube, phase de décompression.
+</loisir>
+
+</section>
+
+
+<section id="fin-bilan-2026-04-25"></section>

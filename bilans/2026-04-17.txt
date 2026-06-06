@@ -1,0 +1,48 @@
+<section id="bilan-2026-04-17">
+<organisation>
+Levée vers midi. Repas directement après. Envoi des documents à la CAF effectué (démarche complétée). Après-midi calme en attendant le retour de maman. Journée globalement posée sans grosse activité structurée.
+</organisation>
+
+<sante>
+État général correct. Maman a consulté : confirmation d’une hémorragie sous-conjonctivale, sans gravité. Surveillance et repos. Rien de particulier à signaler de ton côté.
+</sante>
+
+<emotion>
+Moral en baisse en soirée. Sentiment de lassitude face à la situation relationnelle. Impression de stagnation, fatigue mentale liée au manque de lien et aux efforts non réciproques. Besoin de souffler et de recul.
+</emotion>
+
+<relation>
+Échanges avec l’anglaise : deux messages (midi et soir). Effort présent mais rythme faible, peu engageant. Impression que la relation n’avance pas. Découragement progressif. Situation pesante.
+</relation>
+
+<repos>
+Journée majoritairement calme. Chill l’après-midi et en soirée. Détente YouTube le soir. Repos correct mais avec charge mentale persistante.
+</repos>
+
+<meteo>
+Temps gris dans la journée. Température correcte, pas trop froid.
+</meteo>
+
+<travail>
+Démarche CAF complétée (point important de la journée). Tests sur Tina en soirée (ajustements, exploration du workflow).
+</travail>
+
+<chats>
+Lisa : a bien mangé, comportement normal.  
+Caramel : a mangé, petite sortie dans la journée, RAS.
+</chats>
+
+<jeux>
+Tests créatifs sur Tina (images, ajustements techniques). Exploration du rendu et des limites des outils.
+</jeux>
+
+<administration>
+CAF : documents envoyés, dossier à présent en attente de traitement.
+</administration>
+
+<aveclina>
+Échanges réguliers. Accompagnement sur les tests visuels, le moral et le bilan de la journée. Soutien présent dans les moments de baisse.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-04-17"></section>

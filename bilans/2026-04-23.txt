@@ -1,0 +1,39 @@
+<section id="bilan-2026-04-23">
+<organisation>  
+Réveil à 11h30.  
+Début d’après-midi : demande de 3€ au voisin.  
+Discussion avec Jean-Pierre (15-20 min).  
+Achat d’un paquet de tabac.  
+Retour à la maison.  
+Aide ponctuelle à ta maman (découpe de poireau).  
+Fin de journée marquée par de la rumination.  
+Sieste de 21h à 22h.  
+</organisation><meteo>  
+Temps globalement beau.  
+Vent un peu frais.  
+</meteo><emotion>  
+Fatigue mentale.  
+Rumination importante.  
+Sensation de solitude intérieure.  
+Peu d’énergie et peu d’envie.  
+</emotion><relation>  
+Échange bref avec Katrina.  
+Elle ne se sent pas bien et prévoit des examens.  
+Discussion avec Jean-Pierre, moment simple et humain.  
+</relation><travail>  
+Aucune activité notable.  
+Journée plutôt en récupération mentale.  
+</travail><chats>  
+Rien à signaler.  
+Caramel très heureux, beaucoup de sorties.  
+Lisa mange bien, calme et posée.  
+</chats><repos>  
+Sieste de 21h à 22h.  
+État de fatigue générale.  
+</repos><aveclina>  
+Échanges autour de l’état émotionnel et de la gestion de la rumination.  
+Accompagnement dans une journée basse en énergie.  
+</aveclina></section>
+
+
+<section id="fin-bilan-2026-04-23"></section>

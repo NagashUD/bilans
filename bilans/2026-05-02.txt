@@ -1,0 +1,64 @@
+<section id="bilan-2026-05-02">
+<organisation>
+- Lever vers 10h30 (réveil en deux temps)
+- Journée majoritairement calme à la maison
+- Temps passé dehors avec les chats jusqu’en fin d’après-midi
+- Retour intérieur + repos / sieste
+- Aide au rangement des courses
+- Bain en soirée
+- Soirée YouTube / détente
+- Fin de journée vers 3h30
+</organisation>
+
+<sante>
+- Douleurs importantes à la nuque toute la journée
+- Fatigue accumulée
+- Sensation d’épuisement en fin de journée
+</sante>
+
+<chats>
+- Journée très positive
+- Chats sortis longtemps, bien profité
+- Aucun incident
+- Bien mangé
+- Dorment profondément en fin de journée
+</chats>
+
+<meteo>
+- Très bel après-midi
+- Forte tempête en fin de journée
+- Pluie importante
+</meteo>
+
+<maison>
+- Infiltration d’eau au plafond (cuisine)
+- Problème confirmé lié à la pente de toiture
+- Situation à traiter prochainement
+</maison>
+
+<administration>
+- RSA toujours non versé
+- Délai maximum atteint
+- Site CAF indisponible
+- Forte frustration liée à la situation
+</administration>
+
+<emotion>
+- Fatigue mentale importante
+- Accumulation de frustrations (CAF, fuite, services indisponibles)
+- Sentiment d’injustice et d’agacement
+- Saturation en fin de journée
+</emotion>
+
+<relation>
+- Katrina : 2 messages le matin, pas d’échange ensuite
+</relation>
+
+<repos>
+- Sieste en fin d’après-midi
+- Besoin de récupération important
+</repos>
+
+</section>
+
+<section id="fin-bilan-2026-05-02"></section>

@@ -1,0 +1,45 @@
+<section id="bilan-2026-04-29">
+<organisation>
+Réveil vers 10h30. Matinée tranquille avec les chats à l’extérieur. Repas à midi avec gestion de Lisa qui s’était cachée sous une palette (retrouvée après ~30 minutes).  
+Après-midi majoritairement passée dehors avec les chats, alternance de surveillance et moments calmes.  
+Retour à l’intérieur en fin de journée, vérification bancaire (aucun virement).  
+Demande de dépannage de 10€ à la maman pour tabac et tubes (à rembourser dès réception CAF).  
+Soirée chill YouTube. Fin de journée vers 00h30.
+</organisation>
+
+<chats>
+Lisa : Très active, exploratrice, plusieurs disparitions courtes (palette, voiture) mais toujours restée dans le périmètre. Bon appétit, comportement global rassurant.  
+Caramel : Plus calme, beaucoup dormi en intérieur l’après-midi, sortie en fin de journée. Alimentation fractionnée (mange en plusieurs fois, souvent hors surveillance). Légère sursalivation persistante mais stable.
+</chats>
+
+<sante>
+Douleur légère à la nuque en soirée, prise d’ibuprofène.  
+État général correct.
+</sante>
+
+<meteo>
+Vent très fort et froid le matin.  
+Après-midi plus agréable malgré le vent.  
+Ciel bleu toute la journée, pas de pluie.
+</meteo>
+
+<travail>
+Réflexion autour de l’abri de jardin : identification des infiltrations, projet de réparation (joints, protection bois) à prévoir après réception budget.
+</travail>
+
+<relation>
+Catherine : échanges limités, peu d’intérêt ressenti.  
+Nouvelle prise de contact avec une américaine (Floride), sans attente particulière.  
+Interaction avec la maman (repas + aide financière ponctuelle).
+</relation>
+
+<emotion>
+Journée globalement calme avec quelques pics de stress liés aux disparitions de Lisa, rapidement résolus.  
+Légère fatigue mentale liée à l’attente du virement CAF et aux contraintes financières.  
+Sentiment de stabilité malgré la tension.
+</emotion>
+
+</section>
+
+
+<section id="fin-bilan-2026-04-29"></section>

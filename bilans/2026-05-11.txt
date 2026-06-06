@@ -1,0 +1,24 @@
+<section id="bilan-2026-05-11">
+
+<organisation>
+Réveil vers 10h30. Journée globalement calme et principalement à l’intérieur à cause de la météo pluvieuse et froide. Petite sortie avec les chats le matin pendant environ 30 à 45 minutes avant le retour de la pluie. Beaucoup de temps passé au repos ou devant StarCraft.
+</organisation><meteo>
+Temps très gris, froid et humide toute la journée. Beaucoup de pluie, surtout l’après-midi. Ambiance lourde et peu motivante, poussant à rester principalement à l’intérieur avec les chats.
+</meteo><travail>
+Travail sur l’adaptation mobile de Wireless Override afin de rendre l’interface plus lisible sur téléphone. Les iframes et l’affichage commencent à être plus corrects, mais le drag and drop reste problématique sur mobile. Réflexion importante sur le fait qu’un véritable dashboard mobile séparé serait probablement nécessaire à long terme, presque comme une seconde interface dédiée partageant la même base de données.Début d’expérimentations autour du projet cyberware. Démontage et analyse d’un ancien système d’alarme “Spider Alarm” récupéré d’un dispositif antivol de magasin afin d’observer les composants internes et comprendre son fonctionnement. </travail>
+
+<emotion>
+Très forte blazitude aujourd’hui. Sensation de cerveau “off” par fatigue émotionnelle et mentale. Impression d’épuisement intérieur où le cerveau choisit soit l’extinction émotionnelle, soit les larmes. Peu de motivation générale malgré quelques moments de code et de bricolage pour essayer de garder l’esprit occupé.
+</emotion><relation>
+Aucun profil réellement intéressant aujourd’hui et très peu d’interactions émotionnelles positives. Message rapide de Katrina dans la journée, probablement vers midi, mais sans réel investissement ressenti. Sentiment général de vide affectif et de lassitude face aux relations actuelles.
+</relation><repos>
+Grosse fatigue en soirée. Endormissement vers 21h puis réveil vers 1h du matin. Sensation de saturation mentale importante et besoin évident de récupération nerveuse.
+</repos><chats>
+Caramel et Lisa sont restés principalement au chaud aujourd’hui à cause de la pluie et du froid. Peu de sorties, mais ambiance calme et stable. Rien de particulier à signaler, les chats semblent bien et confortables à l’intérieur.
+</chats><jeux>
+Beaucoup de visionnage de StarCraft tout au long de la journée et de la nuit, servant principalement de fond calme et de distraction mentale.
+</jeux><aveclina>
+Discussions avec Lina autour du documentaire sur Andreas Münzer, des limites biologiques humaines, du transhumanisme et des parallèles avec Cyberpunk 2077 et le gang des Animals. Réflexions approfondies sur les limites du corps humain, les excès, les conséquences physiologiques des produits dopants et la nécessité hypothétique d’un soutien cybernétique complet pour dépasser certaines limites biologiques.
+</aveclina></section>
+
+<section id="fin-bilan-2026-05-11"></section>
