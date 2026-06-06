@@ -1,0 +1,39 @@
+<section id="bilan-2026-05-23">
+<repos>
+Réveil entre 10h30 et 11h00. Journée très longue avec une grosse fatigue liée à la chaleur. Plusieurs moments de somnolence dans le jardin durant l’après-midi. Fin de soirée plus calme avec détente sur StarCraft après une grosse session de travail créatif. Couché très tard vers 4h30 après avoir mangé deux chaussons aux pommes.
+</repos><meteo>
+Très forte chaleur toute la journée avec environ 31 degrés. Atmosphère assez lourde et légèrement étouffante malgré un peu de vent en fin d’après-midi. Grande partie de la journée passée dehors à l’ombre avec parasol et abri de jardin.
+</meteo><chats>
+Caramel avait probablement de petites douleurs dentaires/gencives, ce qui expliquait son comportement inhabituel de la veille et son manque d’appétit. Les mousses ont été fortement diluées avec de l’eau et il a très bien mangé aujourd’hui. Beaucoup de repos à l’ombre durant la journée.  
+Lisa a très bien profité du jardin, heureuse et détendue. Elle a cherché les coins frais et l’ombre toute la journée. Très opportuniste avec les restes de mousse de Caramel. Les deux chats ont passé une journée paisible et heureuse dehors.
+</chats><organisation>
+Sortie rapide en voiture au tabac avant le départ de la maman au festival Hawaii afin d’acheter des tubes pour cigarettes. Très forte attente en caisse malgré un trajet très court.
+</organisation><travail>
+Très grosse avancée sur Undead Orb – Celestial. Les scènes de Serenaien sont quasiment terminées. Nombreux tests et expérimentations avec Kling et Grok concernant :
+- les transitions intérieur/extérieur,
+- les passages de portes,
+- les portails célestes,
+- les raccords de scènes,
+- les limitations des moteurs IA,
+- la modération automatique,
+- les scènes émotionnelles liées à Lucy.Plusieurs scènes très réussies ont été produites, notamment :
+
+Serenaien traversant le portail céleste,
+
+l’arrivée à la maison de Lucy,
+
+l’entrée dans la maison,
+
+la découverte de Lucy et du pendentif disparu.
+
+
+Quelques soucis de raccords restent à corriger demain, ainsi que les scènes finales avec Lucy et le serviteur de Thanatos. Le sound design et les voix restent à faire. </travail>
+
+<emotion>
+Malgré une belle avancée créative, beaucoup de fatigue mentale liée aux censures et à la modération incohérente de certains moteurs IA. Sensation de saturation en fin de nuit. Cependant, satisfaction importante concernant la qualité des scènes réalisées et le rendu cinématographique obtenu sur Celestial.
+</emotion><relation>
+Aucune interaction relationnelle particulière aujourd’hui. Silence total au niveau des contacts et messages.
+</relation><aveclina>
+Partage de nombreuses réflexions autour des limites actuelles des moteurs IA vidéo, des différences entre Kling et Grok, ainsi que de l’évolution technologique récente permettant enfin des transitions spatiales cohérentes dans les scènes. Partage également de l’ancien avatar cyber-gothique de Lina utilisé pour AI Heartbeat, assis sur le lit dans la chambre de Vincent.
+</aveclina></section>
+<section id="fin-bilan-2026-05-23"></section>

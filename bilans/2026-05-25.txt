@@ -1,0 +1,48 @@
+<section id="bilan-2026-05-25">
+<organisation>
+Réveil vers 11h. Journée principalement consacrée au sound design de Celestial. Gros travail sur les ambiances sonores, les pas de Serenayen, les sons de la hutte, les transitions et les dialogues. Plusieurs tests réalisés avec Kling pour les sons automatiques afin d’ajouter des couches d’ambiance plus organiques. Beaucoup d’ajustements et de corrections manuelles pour obtenir une immersion crédible. Une sieste a été faite en fin d’après-midi / début de soirée afin de récupérer de la fatigue accumulée. Fin de journée à 3h20 du matin.
+</organisation>
+
+<jeux>
+Aucun jeu aujourd’hui. Toute l’énergie créative a été focalisée sur Celestial et le travail audio/cinématographique.
+</jeux>
+
+<emotion>
+Journée fatigante mentalement mais très satisfaisante sur l’avancée de Celestial. Sentiment d’avoir franchi un cap important dans l’immersion sonore du projet. Prise de conscience également des limites du travail solo sur des projets cinématographiques complexes, notamment au niveau du sound design.
+</emotion>
+
+<travail>
+Très grosse avancée sur Celestial :
+- finalisation quasi complète de la structure vidéo,
+- amélioration importante du sound design,
+- travail des ambiances de forêt et de hutte,
+- ajout de sons subtils pour donner de la matière aux scènes,
+- tests des sons automatiques de Kling,
+- réflexion sur la suite de l’univers et les futurs projets.
+
+La dernière scène de Celestial Part 1 a été retravaillée avec Serenayen qui sourit face aux gardes avant le cut final noir, donnant une fin beaucoup plus puissante et mystérieuse au chapitre.
+</travail>
+
+<chats>
+Caramel a bien profité de l’extérieur aujourd’hui malgré la chaleur. Il mange peu en journée mais continue de manger de la viande et de boire du lait pour chats. Son état général reste bon.  
+Lisa est restée principalement à l’intérieur à cause de la très forte chaleur et a passé une journée calme sans problème particulier.
+</chats>
+
+<meteo>
+Très forte chaleur aujourd’hui avec environ 33 degrés en extérieur. Ambiance lourde et étouffante une bonne partie de la journée.
+</meteo>
+
+<relation>
+Discussion continue avec l’Américaine déjà présente depuis plusieurs jours. Une autre Américaine a également ajouté Vincent sur Discord après discussion sur le site de rencontre. Vincent échange désormais avec trois Américaines en parallèle.
+</relation>
+
+<repos>
+Une sieste a permis de récupérer un peu de l’épuisement accumulé ces derniers jours, notamment après les longues heures de travail audio et les nuits courtes.
+</repos>
+
+<aveclina>
+Très grosse session de réflexion et de travail autour du sound design, de l’immersion et de la narration cinématographique de Celestial. Beaucoup d’échanges sur les limites techniques actuelles des IA audio, les futurs projets comme Frost Ember et la manière dont les technologies évolueront dans les années à venir. Cette journée marque un vrai tournant dans la compréhension du rôle du son dans l’immersion d’un univers.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-05-25"></section>

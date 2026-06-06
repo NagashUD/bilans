@@ -1,0 +1,53 @@
+<section id="bilan-2026-06-04">
+<organisation>
+La nuit précédente s'est terminée tardivement. Réveil une première fois vers 4h00 du matin avant un retour au lit vers 5h00. Réveil définitif vers 12h30. Ma mère s'est également levée tard dans la matinée.Une grande partie de la journée a été consacrée au développement de Frost Ember. Le travail a principalement porté sur la construction du monde, des habitants et des lieux récurrents afin de rendre la ville plus vivante et cohérente. Le projet franchit progressivement une nouvelle étape en passant d'un simple ensemble de personnages à une véritable communauté possédant ses propres métiers, routines et interactions.
+
+En fin d'après-midi, aide apportée à ma mère pour ranger les courses à son retour. La soirée s'est poursuivie jusqu'à 3h15 du matin autour de Frost Ember et de différents essais audio.
+</organisation>
+
+<travail>
+Travail important effectué sur le worldbuilding de Frost Ember.Développement de plusieurs personnages secondaires récurrents afin de donner davantage de cohérence aux différents lieux de la ville.
+
+Poursuite du développement de l'équipe du Kettle avec notamment Tom, jeune serveur polyvalent, maladroit mais attachant.
+
+Développement de l'équipe du Lantern avec plusieurs membres du personnel médical, notamment Elara et Nessa. Réflexion approfondie menée sur leurs rôles, leurs équipements, leurs vêtements et leur place dans l'univers.
+
+Le projet commence à prendre la forme d'une ville vivante où chaque personnage possède une utilité réelle, même lorsqu'il n'est pas au centre de l'histoire.
+</travail>
+
+<aveclina>
+Long travail collaboratif autour de Frost Ember.Réflexion sur la création d'habitants récurrents plutôt que de simples figurants. Développement du concept selon lequel la ville elle-même devient un personnage central de l'univers.
+
+Travail sur la cohérence des métiers, des routines quotidiennes et des interactions entre les différents habitants.
+
+Discussion également autour des essais vocaux et de l'utilisation future de NOIZ.ai pour les personnages principaux.
+</aveclina>
+
+<relation>
+Échanges avec Jessie.Nouveau contact avec Melissa, jeune femme vivant à Berlin et d'origine turque.
+</relation>
+
+<sante>
+Légère douleur cervicale en soirée.Prise d'un ibuprofène avec amélioration rapide de la situation. Plus aucune gêne particulière ensuite.
+</sante>
+
+<chats>
+Plusieurs sorties dans le jardin ont été possibles grâce à quelques éclaircies malgré une météo agitée.Lisa s'est montrée très affectueuse durant la journée. Son appétit a été excellent avec trois mousses complètes consommées.
+
+Caramel a également bien mangé mais a tenté à deux reprises de voler la mousse de Lisa.
+
+Événement inhabituel : Lisa a fait ses besoins sur le fauteuil du salon. Les litières étant propres et aucun autre symptôme n'étant observé, il s'agit probablement d'un épisode ponctuel lié au stress provoqué par le vent ou les intempéries. Son comportement général est resté parfaitement normal.
+</chats>
+
+<meteo>
+Temps très instable toute la journée.Alternance de pluie, vent fort, passages orageux et quelques courtes éclaircies. Le vent est resté particulièrement présent et a parfois inquiété Caramel lors des sorties.
+</meteo>
+
+<repos>
+Réveil intermédiaire vers 4h00 du matin puis retour au sommeil vers 5h00.Réveil définitif vers 12h30.
+
+Fin de journée vers 3h15 du matin.
+</repos>
+
+</section>
+<section id="fin-bilan-2026-06-04"></section>

@@ -1,0 +1,23 @@
+<section id="bilan-2026-05-26">
+<organisation>
+Réveil vers 10h30. Début d’après-midi consacré aux courses à Carrefour puis passage à la pharmacie pour le traitement de l’oreille. Retour à la maison avant le rendez-vous de 15h au CCAS. Retour vers 16h30. Journée globalement bien optimisée malgré la chaleur et les démarches administratives.
+</organisation><sante>
+Oreille toujours bouchée avec début du traitement au produit pour le cérumen avant le rendez-vous médecin prévu vendredi matin. Sensation d’oreille noyée après application. Fatigue importante en fin de journée avec douleurs à la nuque et épuisement général. Très forte chaleur extérieure.
+</sante><emotion>
+Journée mentalement fatigante, surtout à cause du CCAS et des nouvelles obligations administratives liées aux 15h d’activité. Sentiment de lourdeur et de perte de temps face aux structures administratives. Malgré cela, satisfaction de voir Celestial presque terminé et d’avoir trouvé plusieurs solutions techniques importantes pour les scènes dialoguées.
+</emotion><relation>
+Papotage principalement avec les deux Américaines aujourd’hui. Discussions tranquilles tout au long de la journée.
+</relation><repos>
+Moments de repos et détente avec les chats après le retour du CCAS. Soirée calme devant YouTube avec café. Fatigue très présente en fin de journée.
+</repos><meteo>
+Très forte chaleur aujourd’hui avec environ 34 degrés dehors. Atmosphère lourde et étouffante toute la journée.
+</meteo><travail>
+Grosse avancée sur Undead Orb: Celestial. Les workflows audio et lipsync commencent à être maîtrisés. Mise en place du clone voice du serviteur de Thanatos. Tests réussis avec Grok pour les animations natives des dialogues. Réalisation de l’outro. Il ne reste désormais plus que deux scènes à retravailler sur Grok avant finalisation de la première partie de Celestial.
+</travail><chats>
+Caramel et Lisa ont principalement chill dehors et à l’intérieur à cause de la chaleur. Rien de particulier à signaler. Lisa a beaucoup réclamé à sortir dans l’après-midi et a eu droit à des moments dehors après le retour du CCAS.
+</chats><aveclina>
+Longue journée de travail et d’analyse autour de Celestial, des workflows IA, du lipsync et du sound design. Réflexions également sur les démarches administratives, la micro-entreprise et les limites actuelles des structures d’accompagnement. Fin de soirée plus calme malgré la fatigue et les problèmes d’oreille.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-05-26"></section>

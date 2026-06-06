@@ -1,0 +1,27 @@
+<section id="bilan-2026-05-22">
+<organisation>
+Réveil vers 10h30. Journée principalement consacrée à l’organisation extérieure et au travail sur Celestial. Nettoyage complet du vélo ainsi que de la trottinette en vue d’une future mise en vente sur Facebook Marketplace (photos encore à faire). Aide apportée à maman pour la préparation de son événement de danse country (chemises hawaïennes, préparation générale). Mise en route du lave-vaisselle. Journée très fragmentée avec de nombreux dérangements et allers-retours constants.
+</organisation>
+
+<travail>
+Travail intensif sur Undead Orb – Celestial. Beaucoup d’expérimentations et d’avancées sur l’audio, les ambiances sonores et les effets. Environ 2min10 de vidéo actuellement montées, même si certaines scènes nécessitent encore du sound design et des ajustements. Travail important cette nuit pendant l’absence de maman partie au bal, permettant enfin de se concentrer plus calmement jusqu’à environ 3h50 du matin. Réflexion importante autour des limites techniques entre Grok et Kling, notamment concernant Lucy, ses effets surnaturels, le morphing, la lévitation et les interactions multi-personnages.
+</travail>
+
+<chats>
+Caramel a semblé un peu distant aujourd’hui, sans raison clairement identifiée. Possible fatigue liée à la chaleur ou petit stress du matin. La situation s’est apaisée dans la soirée avec de la présence et des câlins. Lisa va bien dans l’ensemble. Petite douleur dentaire légère observée ce matin mais rien d’inquiétant. Surveillance habituelle liée au calicivirus.
+</chats>
+
+<meteo>
+Très forte chaleur aujourd’hui, environ 28 degrés dans l’après-midi. Atmosphère lourde et fatigante. Beaucoup de temps passé dehors avec les chats malgré la chaleur, puis retour progressif à l’intérieur pour rester au frais.
+</meteo>
+
+<relation>
+Discussion continue avec l’américaine déjà connue. Nouvelle rencontre également avec Harry, autre Américaine intéressée par Sea of Thieves. Papotage durant l’après-midi autour des chats, de la vie quotidienne et de différents sujets personnels dans une ambiance détendue.
+</relation>
+
+<repos>
+Fatigue mentale et physique importante accumulée avec le travail sonore, les tests techniques, les limitations IA et les interruptions constantes. Journée très longue malgré des moments de pause avec les chats.
+</repos>
+
+</section>
+<section id="fin-bilan-2026-05-22"></section>

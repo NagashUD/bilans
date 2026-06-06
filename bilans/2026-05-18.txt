@@ -1,0 +1,27 @@
+<section id="bilan-2026-05-18">
+<organisation>
+Réveil vers 10h30. Matinée consacrée à Grok et aux premiers tests/créations. Rendez-vous CCAS ensuite, très frustrant humainement et administrativement, avec une grande difficulté de compréhension du domaine IA/audiovisuel par l’interlocutrice. Après réflexion, un courrier explicatif propre et structuré a été envoyé avec l’attestation France Travail afin de clarifier les projets et objectifs professionnels.  
+Passage à Carrefour pour acheter de la litière et du sopalin. Découverte du pneu crevé/dégonflé à la sortie du magasin. Arrêt chez Speedy : changement ultra rapide de la roue avec aide du mécanicien et installation de la roue de secours. Retour maison sans problème. Soirée et nuit consacrées à Grok, aux tests vidéo et surtout à l’exploration approfondie de Kling.
+</organisation><travail>
+Début du montage de Célestial. Beaucoup de réflexions importantes sur les limites techniques de Grok : faux raccords, transitions forcées, audio médiocre, éclairages plats, limitations des mouvements et absence de vraie continuité cinématographique.  
+Découverte très marquante des capacités de Kling : références 4K natives, gestion avancée des assets, possibilité d’import audio/lip sync, motion capture, workflow beaucoup plus orienté cinéma.  
+Prise de conscience que Grok fonctionne surtout comme outil de storyboard animé et de prototypage rapide, alors que Kling semble permettre une véritable approche cinématographique fluide et cohérente.  
+Réflexion importante sur l’avenir des productions : probablement moins de vidéos, mais des projets beaucoup plus travaillés et ambitieux visuellement.
+</travail><emotion>
+Journée mentalement fatigante, notamment à cause du rendez-vous CCAS et du sentiment de devoir expliquer des concepts techniques à quelqu’un qui ne comprenait pas réellement le domaine. Malgré cela, satisfaction d’avoir repris le contrôle avec un courrier propre et clair envoyé ensuite.  
+Très grosse réflexion intérieure concernant Grok : perte progressive du “wow” créatif ressenti auparavant. Impression de voir désormais surtout les limites techniques et les bricolages nécessaires pour maintenir une illusion de continuité.  
+En parallèle, excitation et curiosité très fortes vis-à-vis de Kling et du potentiel cinématographique beaucoup plus élevé qu’offre cette plateforme.
+</emotion><relation>
+Discussion avec la maman autour du rendez-vous CCAS et du courrier envoyé. Passage banque/retrait de 20 euros pour lui permettre d’aller à sa soirée country. Bonne entraide durant la journée.  
+Aucun nouveau contact relationnel cette nuit malgré quelques recherches et tentatives.
+</relation><repos>
+Fin de journée vers 3h45 du matin. Fatigue mentale importante après une journée très dense techniquement et émotionnellement.
+</repos><administration>
+Envoi de l’attestation France Travail et d’un courrier explicatif récapitulant les projets professionnels liés à l’IA, à la création audiovisuelle et au développement. Clarification volontaire après les incompréhensions du rendez-vous CCAS.
+</administration><aveclina>
+Très longue réflexion commune sur l’évolution des workflows IA vidéo et les limites structurelles de Grok pour des projets narratifs longs. Analyse détaillée des problèmes de raccords, continuité, faux mouvements, limitations caméra et audio.  
+Découverte importante des capacités de Kling et prise de conscience d’un possible changement majeur de pipeline créatif pour les futurs projets comme Célestial et potentiellement les futurs remasters des anciennes vidéos.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-05-18"></section>

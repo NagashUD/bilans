@@ -1,0 +1,39 @@
+<section id="bilan-2026-05-24">
+<repos>
+Réveil vers 10h30 après une nuit très courte, coucher vers 5h30 du matin la veille. Grosse fatigue ressentie toute la journée, aggravée en soirée après plusieurs heures passées dehors sous la chaleur. Fin de journée difficile physiquement avec douleurs liées au coup de soleil au niveau des épaules et du dos.
+</repos>
+
+<organisation>
+Début d’après-midi consacré au montage du barbecue avec maman. Installation extrêmement compliquée et chaotique, ayant nécessité plusieurs démontages/remontages à cause d’une notice illisible, d’éléments incohérents et de problèmes de conception. Fin du montage en fin d’après-midi après environ trois heures de lutte sous le soleil. Rangement du matériel ensuite dans l’abri de jardin.
+</organisation>
+
+<meteo>
+Très forte chaleur toute la journée, environ 31°C dehors. Soleil intense ayant provoqué un coup de soleil important au niveau des épaules et du dos après plusieurs heures passées à monter le barbecue.
+</meteo>
+
+<chats>
+Sortie dehors avec Caramel et Lisa en fin de matinée. Caramel est resté tranquille à l’ombre pendant le montage du barbecue puis s’est reposé sur le lit en soirée. Impression possible d’une petite douleur dentaire à surveiller, même s’il a mangé des morceaux de brochettes à midi, ce qui rend la situation un peu curieuse. Lisa a passé une excellente journée sans problème particulier.
+</chats>
+
+<emotion>
+Journée mélangeant frustration, épuisement et humour absurde autour du montage catastrophique du barbecue. Beaucoup de fatigue physique et mentale après plusieurs heures de bricolage compliqué sous le soleil. Malgré tout, plusieurs moments de rire avec maman face au côté complètement lunaire de la situation.
+</emotion>
+
+<relation>
+Discussion rapide en soirée avec l’Américaine après une journée sans nouvelles. Bonne ambiance générale avec maman malgré la galère du barbecue.
+</relation>
+
+<jeux>
+Travail poursuivi sur l’audio de Undead Orb – Celestial en soirée. Trouvé un très bon son pour l’ouverture du portail, résultat jugé très satisfaisant. Réflexion toujours en cours autour du sound design organique et des bruitages réalistes.
+</jeux>
+
+<photo id="1">
+Caramel profondément installé sur le lit en mode roi du royaume après la journée chaotique du barbecue. Ambiance calme et reposante de fin de soirée.
+</photo>
+
+<photo id="2">
+Photo du dos et des épaules rougis après plusieurs heures passées dehors à monter le barbecue sous 31°C. Trace visible de la fatigue et du coup de soleil de la journée.
+</photo>
+
+</section>
+<section id="fin-bilan-2026-05-24"></section>

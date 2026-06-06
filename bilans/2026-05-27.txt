@@ -1,0 +1,33 @@
+<section id="bilan-2026-05-27">
+<repos>
+Réveil une première fois vers 7h du matin jusqu’à 8h, puis retour au sommeil à cause de la forte chaleur. Réveil définitif vers 11h30. Fin de journée vers 4h du matin après une longue session de travail et de discussion autour de Celestial et des moteurs IA vidéo.
+</repos>
+
+<meteo>
+Très forte chaleur toute la journée, environ 34°C dehors. Température ressentie extrêmement élevée dans la voiture pendant les déplacements, estimée entre 39 et 40°C lors du passage à Maxiso et au tabac. Atmosphère lourde et étouffante.
+</meteo>
+
+<organisation>
+Sortie à Maxiso et au tabac dans l’après-midi. Rasage effectué ainsi qu’une légère coupe de cheveux. Présence prolongée dehors avec les chats en fin de journée et soirée. Prise de gouttes dans les oreilles après le repas vers 13h30.
+</organisation>
+
+<chats>
+Caramel et Lisa ont passé pratiquement toute leur journée dehors. Ils ont beaucoup bu de lait pour chats à cause de la chaleur mais ont tout de même bien mangé. Aucun problème particulier à signaler. Ils semblaient très heureux et réclamaient encore à sortir. En soirée, les deux étaient complètement fatigués et profondément endormis après leur journée à l’extérieur. Caramel totalement assoupi, Lisa également.
+</chats>
+
+<travail>
+Travail intensif sur Undead Orb – Celestial en soirée et pendant la nuit. Nombreux problèmes rencontrés avec Grok : modérations répétées, limitations de génération vidéo et impossibilité de continuer à travailler correctement. Décision prise d’abandonner progressivement Grok dans les prochains jours sans renouveler l’abonnement.
+
+Retour sur Kling avec poursuite du développement du prompt de Lucy/Banshee. Réussite importante ce soir : obtention d’un résultat satisfaisant et cohérent pour Lucy avec scènes complètes, audio et ambiance cinématographique. Amélioration importante des prompts et de la maîtrise du workflow vidéo/cinéma.
+</travail>
+
+<relation>
+Discussion avec deux américaines : Jessie et Anna. Anna, d’origine mexicaine et architecte, attire davantage émotionnellement Vincent. Long échange jusque vers 1h du matin avant qu’elle parte travailler de nuit. Relation plus profonde et naturelle ressentie avec Anna que Jessie.
+</relation>
+
+<aveclina>
+Longue discussion et réflexion autour de l’évolution des moteurs IA vidéo, de l’abandon de Grok et du futur de Celestial et Undead Orb. Analyse des workflows créatifs, des limitations techniques et des nouveaux résultats obtenus avec Lucy sur Kling. Soirée marquée par une progression importante dans la vision artistique et cinématographique du projet.
+</aveclina>
+
+</section>
+<section id="fin-bilan-2026-05-27"></section>

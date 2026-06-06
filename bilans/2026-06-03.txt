@@ -1,0 +1,36 @@
+<section id="bilan-2026-06-03">
+<organisation>
+Réveil vers 9h30 après que Caramel ait réclamé son petit-déjeuner avec insistance. Journée bien remplie malgré une fatigue persistante liée au manque de sommeil. Courses effectuées à Carrefour et au tabac sous un temps de plus en plus pluvieux. Litières de Caramel et Lisa entièrement nettoyées et renouvelées. Longue sieste en soirée à partir de 23h00 jusqu'à 4h00 du matin, mais sensation de fatigue encore présente au réveil.
+</organisation>
+
+<travail>
+Grosse avancée sur le projet Frost Ember. Réflexions approfondies sur l'organisation de la ville, le fonctionnement des mines, le réalisme des infrastructures, la vie quotidienne des habitants et la cohérence générale de l'univers. Plusieurs tests visuels réalisés autour de The Kettle afin d'explorer l'ambiance et le ressenti du lieu. Vee approche désormais de sa version définitive. Tina nécessite encore quelques ajustements au niveau de sa coiffure et de la saturation de ses cheveux. Réflexion importante sur les difficultés liées aux dialogues et à l'acting vocal pour les futurs épisodes.
+Envoie par email de la candidature pour le poste d'ouvrier maraîcher.
+</travail>
+
+<skynet>
+Remise en service complète du studio audio. Recherche du bon transformateur, vérification de l'alimentation fantôme, résolution de plusieurs problèmes de branchement et découverte d'un bouton "Mute" activé sur la carte son USB. Audacity est désormais opérationnel et les premiers essais d'enregistrement ont été réalisés avec succès. Le matériel audio est maintenant prêt pour les futurs tests de voix des personnages de Frost Ember.
+</skynet>
+
+<administration>
+Identification rapide d'un faux profil automatisé sur un site de rencontre. Analyse des échanges et des images ayant confirmé la présence d'un bot. Le compte a été signalé à l'administration puis ignoré. Désactivation du format photo HEIF/HEIC sur le téléphone afin de revenir à l'enregistrement direct en JPEG pour faciliter l'utilisation des images dans les projets.
+</administration>
+
+<relation>
+Échanges réguliers avec Jessie tout au long de la journée. Aucune nouvelle d'Anna aujourd'hui. Quelques discussions également sur un site de rencontre avec une nouvelle personne, sans élément particulier à signaler pour le moment.
+</relation>
+
+<chats>
+Caramel a réveillé Vincent dès le matin pour réclamer à manger. Dans la journée, il a profité de l'absence momentanée de Lisa pour terminer les restes de sa mousse. Les deux chats sont restés au chaud à l'intérieur pendant la pluie. Lisa a passé une bonne partie de la journée à dormir sur le lit tandis que Caramel alternait repos et surveillance de son environnement.
+</chats>
+
+<emotion>
+Sentiment général positif concernant l'avancement de Frost Ember, notamment grâce à la mise en place du studio audio. Satisfaction d'avoir résolu plusieurs problèmes techniques dans la journée. Fatigue importante en fin de journée malgré la sieste nocturne, conséquence probable du réveil précoce et de l'activité soutenue de la journée.
+</emotion>
+
+<repos>
+Sommeil interrompu tôt le matin par Caramel. Longue sieste de 23h00 à 4h00 du matin. Malgré cela, la fatigue reste encore bien présente au moment du bilan.
+</repos>
+
+</section>
+<section id="fin-bilan-2026-06-03"></section>
