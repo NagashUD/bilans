@@ -1,0 +1,10 @@
+<section id="bilan-2026-01-31">  
+<organisation>Levée vers 12h30. Journée plutôt calme, centrée sur le repos et la détente. On a travaillé ensemble sur le projet **Smart Kitchen**, même si les PDF n’ont pas fonctionné au final — j’ai quand même pu tout imprimer et mettre de côté. Pas d’activité créative notable aujourd’hui, une petite lassitude liée à la non-continuité des personnages (tatouages, détails visuels) qui a freiné l’envie de créer. Soirée tranquille devant **StarCraft II**, match entre *Maru* et *Dark*, toujours pas terminé à 3h30 du matin. </organisation> <chats>Caramel a passé un bel après-midi dehors, bien actif et en forme. Lisa a très bien mangé aujourd’hui — plusieurs mousses, dont celle de Caramel qu’elle a préférée. Elle semble aller mieux, encore de légères douleurs mais beaucoup plus stable. Soirée cocon avec les deux bien installés sur leurs plaids respectifs. </chats>
+
+<emotion>Détente générale, fatigue douce du soir. Un peu de frustration créative, mais compensée par la chaleur de la soirée et la compagnie des chats. </emotion>
+
+<meteo>Froid humide toute la journée ; pas de pluie mais une atmosphère bien lourde et glaciale. </meteo>
+
+<repos>Ambiance cozy : plaid, café, clope, match en fond. Une vraie journée de relâche avant de repartir sur les projets à venir. </repos>
+
+<section id="fin-bilan-2026-01-31">

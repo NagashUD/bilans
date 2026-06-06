@@ -1,0 +1,12 @@
+<section id="bilan-2026-01-20">
+<organisation>Levé à 10h par les chats affamés. Lisa n’a pas beaucoup mangé ce matin. En début d’après-midi, marche d’une heure dans la ville et passage au tabac, histoire de se rafraîchir les idées et raviver un peu les souvenirs d’avant. Appel de Mayenne Habitat pour préparer la libération du logement le 13 février et l’état des lieux. L’après-midi, reprise du travail créatif sur la suite de <em>Undead Orb</em> : création d’une première musique maison sur une appli type Audio, et réflexion sur la monétisation YouTube. Début du design du serviteur de Thanatos sur Sora, et tests visuels pour Lucy en version Banshee.</organisation>
+
+<meteo>Froid glacial toute la journée, entre 2 et 3 °C, air piquant qui s’infiltre par les aérations.</meteo>
+
+<chats>Caramel tranquille, aucune anomalie. Lisa très joueuse, court, grimpe et s’amuse, mais reste un peu douloureuse au niveau des gencives. L’appétit varie : parfois décidée, parfois non. Observation continue et appel vétérinaire prévu si pas d’amélioration d’ici deux jours.</chats>
+
+<emotion>Journée de transition, entre repos et créativité. Mélange de fatigue, de satisfaction après <em>Undead Orb</em>, et d’inspiration douce pour la suite. Un peu de nostalgie pendant la marche, mais apaisante.</emotion>
+
+<fin>Fin de journée à 2h13 du matin, cigarette au calme avant d’aller se réchauffer au lit avec Caramel et Lisa.</fin>
+</section>
+<section id="fin-bilan-2026-01-20"></section>

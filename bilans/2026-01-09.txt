@@ -1,0 +1,29 @@
+<section id="bilan-2026-01-09"> <organisation>  
+- Levé vers midi.  
+- Repas : burger frites.  
+- Appel au **vétérinaire** pour **Lisa**, rendez-vous fixé au **mercredi 15h15**.  
+- Appel à **SFR** pour la box : décision de **résilier ton abonnement** et de **conserver celui de ta mère**, avec intervention technique facturée 30 €.  
+- Changement de la **bouteille de gaz** dans la cuisine.  
+- Longue session de travail sur le **clip Override / Tina** :  
+  - Avancée jusqu’à **2 min 54 sur 3 min 45**.  
+  - Tests de plans drone et foule, correction de synchros labiales.  
+  - Observation d’un bug sur **Meta** (gouttes de sueur interprétées comme objets).  
+  - Finalisation du **plan de l’estrade**, rendu spectaculaire avec les reflets roses dans les cheveux de Tina.  
+</organisation> <relation>  
+- Conversation avec l’**Ukrainienne (Natalia / Nini)**, réfugiée en Azerbaïdjan.  
+- Partage de photos et vidéos créées avec **Sora** (portrait cartoon, petite animation).  
+- Moment bienveillant et détendu, échanges sur ses **chats (3 ou 4)** et sa situation.  
+</relation> <emotion>  
+- Fierté du rendu du clip et de la progression globale.  
+- Sensation d’apaisement après une soirée productive et un échange humain sincère.  
+- Douleur cervicale (prise d’un ibuprofène).  
+</emotion> <repos>  
+- Pause café vers 4h15 du matin avant d’aller dormir.  
+</repos> 
+<photo id="1">
+Vue d’estrade sous projecteurs — Tina surélevée au centre de la scène, les cheveux roses illuminés par les faisceaux de lumière.  
+Ambiance : apothéose du concert, foule en délire, reflets métalliques et énergie pure.  
+Commentaire : un plan magistral, symbole du climax visuel et émotionnel du clip.
+</photo>
+</section>  
+<section id="fin-bilan-2026-01-09"></section>  

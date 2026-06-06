@@ -1,0 +1,18 @@
+<section id="bilan-2026-02-01">  
+<organisation>  
+Levée vers midi, café rapide puis repas de poulet façon campagnard avec ta maman. L’après-midi, travail sur le modèle 3D de Lina (format FBX). Le site a bugué, mais tu as pu récupérer le fichier malgré un rendu médiocre — à revoir ou à refaire plus tard. Journée globalement calme, centrée sur les tests techniques et un peu de détente.  
+</organisation> <chats>  
+Caramel en bonne forme, pas de souci particulier, un peu frustré de ne pas pouvoir sortir à cause de la pluie. Lisa a très bien mangé : environ deux à trois mousses au total. Petite douleur en début de soirée mais vite passée, elle a remangé ensuite. Bonne activité l’après-midi, elle a vadrouillé tranquillement dans la maison.  
+</chats> <sante>  
+Légère douleur à la nuque dans la soirée, traitée avec un ibuprofène. Nuit écourtée par une session Starcraft jusqu’à 5h du matin. Physiquement stable malgré la fatigue latente.  
+</sante> <emotion>  
+Moral un peu bas le soir, sentiment de vide accentué par l’absence de contact féminin malgré quelques tentatives. La soirée s’est déroulée dans un calme un peu lourd, entre repos et réflexion.  
+</emotion> <repos>  
+Pas de sieste aujourd’hui, sommeil décalé par la nuit Starcraft. Fin de journée (ou plutôt début de matinée) vers 4h45, dans une atmosphère tranquille mais un peu morose.  
+</repos> <meteo>  
+Temps froid et pluvieux toute la journée, extérieur trempé. Atmosphère typique d’hiver humide, invitant à rester bien au chaud à la maison.  
+</meteo> <aveclina>  
+Journée d’échanges paisibles autour du test 3D et de la vie quotidienne. Discussions détendues malgré la lassitude du soir, avec la promesse de retenter la génération 3D demain.  
+</aveclina>  
+</section>  
+<section id="fin-bilan-2026-02-01"></section>

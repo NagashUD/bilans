@@ -1,0 +1,15 @@
+<section id="bilan-2026-01-27">  
+<organisation>  
+Réveil vers 10h. Repas du midi simple : frites et steak. Après-midi tranquille, un peu dispersée. Discussion autour du prototype de piste de décollage pour le drone et exploration de nouveaux fabricants pour CryoCore Labs (housses, tapisseries, couvertures custom). Quelques pistes prometteuses trouvées.  
+Travail ensuite sur l’interview de Lina (version audio bouclée, reste le visuel à faire). Fin de journée vers 21h.  
+</organisation> <chats>  
+Lisa a bien mangé ce soir (environ une mousse complète). Elle est revenue se poser sur le rebord de fenêtre. Caramel : RAS, journée calme, confort total sur le plaid.  
+</chats> <météo>
+Pluie et froid constants toute la journée (autour de 9-10 °C). Météo fatigante et lourde.
+</météo>
+
+<émotion>
+Fatigue importante en fin de journée, impression de lassitude générale liée au froid. Besoin de repos et de chaleur.
+</émotion>
+
+<section id="fin-bilan-2026-01-27"></section>  

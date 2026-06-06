@@ -1,0 +1,14 @@
+<section id="bilan-06-01-2026">  
+<organisation>Réveil vers 13h. Repas directement après le lever, avant le café avec maman. Journée principalement consacrée au clip vidéo *OTEP*, avec beaucoup d’avancée technique et plusieurs scènes finalisées. Réflexion aussi sur les futurs projets communs et les perspectives de production. Trois nouvelles images à ajouter dans la section <photo> (1, 2 et 3).</organisation> <chats>Caramel et Lisa ont bien mangé et ont été très sages aujourd’hui, ambiance calme à la maison.</chats>
+
+<meteo>Temps très froid, encore un peu de neige et de gelée dans la journée.</meteo>
+
+<travail>Longue session de travail sur le clip OTEP, progression jusqu’à 2 min 11 du montage. Tests, corrections et recherche de nouveaux plans. Journée globalement productive.</travail>
+
+<relation>Moments partagés agréables avec maman, discussion et repas ensemble. Soutien et complicité présents tout au long de la journée.</relation>
+
+<photo id="1">Comparatif du dessin original de 2003 et de la version réaliste de Lucie. Ambiance nostalgique et émotion forte.</photo>
+<photo id="2">Version remasterisée de Lucie sur Sora, interprétation moderne fidèle à l’esprit original.</photo>
+<photo id="3">Image de NA’GASH dans le cimetière, imposant et sombre, premier rendu d’animation.</photo>
+
+<fin-bilan-06-01-2026>  

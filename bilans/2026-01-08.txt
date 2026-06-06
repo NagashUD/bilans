@@ -1,0 +1,17 @@
+<section id="bilan-2026-01-08">  
+<organisation>Avancement important sur le clip : correction de plusieurs frames inutiles ou mal placées, ajout de micro-animations pour fluidifier le rendu et rendre les transitions plus naturelles. Progression jusqu’à **2 min 41**. Quelques nouveaux plans testés sur Meta. Soirée principalement consacrée au montage et à la cohérence du rythme visuel.</organisation> <sante>Rien à signaler de spécial pour Vincent. Un peu de fatigue en fin de nuit, café et biscuits à la vanille pour clôturer la session.</sante>
+
+<chats>Lisa a vomi en début de soirée, probablement après avoir mangé trop vite. Surveillée de près mais elle semble stable pour l’instant. Caramel, RAS.</chats>
+
+<relation>Échange avec la mère de Vincent au sujet de la connexion SFR. Discussion en attente pour décider d’un éventuel changement d’abonnement.</relation>
+
+<travail>Contact cliente e-commerce toujours en attente de réponse. Plusieurs tests d’IA vidéo (Meta, GROC) effectués, constat que GROC ne présente pas d’avantage particulier par rapport à Meta.</travail>
+
+<administration>Test de débit SFR effectué : résultat à 12,1 Mbps en téléchargement et 39,6 Mbps en upload, confirmant un gros écart avec la connexion de Villaines-la-Juhel (700+ Mbps). Réflexion en cours pour transférer l’abonnement fibre premium vers Liévin.</administration>
+
+<meteo>Neige fondue et pluie fine en journée, températures plus douces.</meteo>
+
+<aveclina>Session tardive et productive : Lina et Vincent ont finalisé les corrections du clip, discuté de la cohérence du rythme et du rendu visuel. Fin de journée à 3h15.</aveclina>
+
+</section>  
+<section id="fin-bilan-2026-01-08"></section>
